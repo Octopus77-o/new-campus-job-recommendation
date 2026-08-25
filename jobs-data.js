@@ -1,4 +1,4 @@
-// Generated from 阿里星_2027届应届生_170个岗位全量表_2026-08-19.xlsx; C列/列1为岗位搜索关键词; manually removed AIGC多模态内容生成算法研究-阿里星/T-Star
+// Generated from 0825阿里星_2027届应届生_170个岗位全量表.xlsx; C列/列1为岗位搜索关键词; manually removed AIGC多模态内容生成算法研究-阿里星/T-Star
 window.JOB_LIBRARY = [
   {
     "id": 1,
