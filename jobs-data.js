@@ -1,4 +1,4 @@
-// Generated from 480个岗位分类表_2026-09-06.xlsx; 阿里星按岗位搜索关键词+岗位名称搜索; 常规秋招按岗位名称+职位描述搜索
+// Generated from 【上传】476个岗位分类表_2026-09-11.xlsx; 阿里星按岗位搜索关键词+岗位名称搜索; 常规秋招按岗位名称+职位描述搜索
 window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-1",
@@ -125,14 +125,12 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-084",
     "search_keywords": [
-      "训练架构",
-      "训练框架",
-      "训练加速",
-      "编译优化",
-      "算子开发",
-      "训推优化",
-      "ai infra",
-      "训练优化"
+      "安全基础模型",
+      "安全基模",
+      "大模型安全",
+      "基座模型",
+      "基模",
+      "AI安全"
     ],
     "job_profile": {
       "profile_id": "JOB-084",
@@ -186,14 +184,12 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "网络安全、系统安全、AI安全、可信AI、大模型对齐或硬件安全方向的候选人。",
       "search_keywords": [
-        "训练架构",
-        "训练框架",
-        "训练加速",
-        "编译优化",
-        "算子开发",
-        "训推优化",
-        "ai infra",
-        "训练优化"
+        "安全基础模型",
+        "安全基模",
+        "大模型安全",
+        "基座模型",
+        "基模",
+        "AI安全"
       ],
       "core_keywords": [
         "安全基础模型",
@@ -245,14 +241,14 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-134",
     "search_keywords": [
-      "多模态大模型",
-      "MLLM",
-      "后训练",
-      "大模型后训练",
-      "post training",
-      "多模态大模型后训练",
-      "强化学习",
-      "RL"
+      "运筹",
+      "运筹优化",
+      "时空",
+      "推荐系统",
+      "语义增强",
+      "知识推理",
+      "决策",
+      "规划"
     ],
     "job_profile": {
       "profile_id": "JOB-134",
@@ -306,14 +302,14 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
       "search_keywords": [
-        "多模态大模型",
-        "MLLM",
-        "后训练",
-        "大模型后训练",
-        "post training",
-        "多模态大模型后训练",
-        "强化学习",
-        "RL"
+        "运筹",
+        "运筹优化",
+        "时空",
+        "推荐系统",
+        "语义增强",
+        "知识推理",
+        "决策",
+        "规划"
       ],
       "core_keywords": [
         "运筹",
@@ -369,16 +365,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-149",
     "search_keywords": [
-      "多模态大模型",
-      "MLLM",
-      "多模态生成模型",
-      "多模态生成",
-      "生成模型",
-      "多模态模型训练",
-      "预训练",
-      "后训练",
-      "图像编辑模型",
-      "图像编辑"
+      "智能体安全",
+      "安全攻防",
+      "对抗样本",
+      "安全agent",
+      "agent安全"
     ],
     "job_profile": {
       "profile_id": "JOB-149",
@@ -427,16 +418,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "网络安全、系统安全、AI安全、可信AI、大模型对齐或硬件安全方向的候选人。",
       "search_keywords": [
-        "多模态大模型",
-        "MLLM",
-        "多模态生成模型",
-        "多模态生成",
-        "生成模型",
-        "多模态模型训练",
-        "预训练",
-        "后训练",
-        "图像编辑模型",
-        "图像编辑"
+        "智能体安全",
+        "安全攻防",
+        "对抗样本",
+        "安全agent",
+        "agent安全"
       ],
       "core_keywords": [
         "智能体安全",
@@ -485,24 +471,30 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-004",
     "search_keywords": [
-      "多模态大模型",
-      "MLLM",
-      "大模型训练",
-      "强化学习",
-      "后训练",
-      "模型后训练",
-      "多模态生成模型"
+      "长程任务",
+      "Agent",
+      "智能体",
+      "Agent Memory",
+      "上下文",
+      "短期记忆",
+      "长期记忆",
+      "长短期记忆",
+      "Agentic Scaling 训练",
+      "Agent训练"
     ],
     "job_profile": {
       "profile_id": "JOB-004",
       "search_keywords": [
-        "多模态大模型",
-        "MLLM",
-        "大模型训练",
-        "强化学习",
-        "后训练",
-        "模型后训练",
-        "多模态生成模型"
+        "长程任务",
+        "Agent",
+        "智能体",
+        "Agent Memory",
+        "上下文",
+        "短期记忆",
+        "长期记忆",
+        "长短期记忆",
+        "Agentic Scaling 训练",
+        "Agent训练"
       ],
       "core_keywords": [
         "长程任务",
@@ -542,30 +534,24 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-005",
     "search_keywords": [
-      "Agent",
-      "智能体",
-      "自进化",
-      "多Agent",
-      "多智能体",
-      "多智能体协同",
-      "Agent 通信",
-      "Agent训练",
-      "Agent框架",
-      "multi agent"
+      "语音",
+      "端到端语音大模型",
+      "语音大模型",
+      "语音识别",
+      "语音合成",
+      "语音理解",
+      "跨模态"
     ],
     "job_profile": {
       "profile_id": "JOB-005",
       "search_keywords": [
-        "Agent",
-        "智能体",
-        "自进化",
-        "多Agent",
-        "多智能体",
-        "多智能体协同",
-        "Agent 通信",
-        "Agent训练",
-        "Agent框架",
-        "multi agent"
+        "语音",
+        "端到端语音大模型",
+        "语音大模型",
+        "语音识别",
+        "语音合成",
+        "语音理解",
+        "跨模态"
       ],
       "core_keywords": [
         "语音",
@@ -602,14 +588,18 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-129",
     "search_keywords": [
-      "数据合成",
-      "数据生成",
-      "数据工程",
-      "search Agent",
-      "智能问答",
-      "搜索",
-      "信息检索",
-      "检索"
+      "AI Coding",
+      "Agent",
+      "智能体",
+      "代码生成",
+      "AI Agen",
+      "自进化",
+      "多Agent",
+      "多智能体",
+      "Agent Memory",
+      "长短期记忆",
+      "code agent",
+      "coding agent"
     ],
     "job_profile": {
       "profile_id": "JOB-129",
@@ -667,14 +657,18 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "NLP、大模型、Agent、强化学习、AI Coding、后训练、复杂推理方向的候选人。",
       "search_keywords": [
-        "数据合成",
-        "数据生成",
-        "数据工程",
-        "search Agent",
-        "智能问答",
-        "搜索",
-        "信息检索",
-        "检索"
+        "AI Coding",
+        "Agent",
+        "智能体",
+        "代码生成",
+        "AI Agen",
+        "自进化",
+        "多Agent",
+        "多智能体",
+        "Agent Memory",
+        "长短期记忆",
+        "code agent",
+        "coding agent"
       ],
       "core_keywords": [
         "AI Coding",
@@ -740,12 +734,14 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-086",
     "search_keywords": [
-      "推荐系统",
-      "推荐大模型",
-      "电商场景",
-      "电商推荐大模型",
-      "推荐",
-      "搜推广"
+      "训练架构",
+      "训练框架",
+      "训练加速",
+      "编译优化",
+      "算子开发",
+      "训推优化",
+      "ai infra",
+      "训练优化"
     ],
     "job_profile": {
       "profile_id": "JOB-086",
@@ -809,12 +805,14 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过分布式训练、机器学习系统、RL Infra、MoE训练优化、集群调度或MLSys方向论文/项目的候选人。",
       "search_keywords": [
-        "推荐系统",
-        "推荐大模型",
-        "电商场景",
-        "电商推荐大模型",
-        "推荐",
-        "搜推广"
+        "训练架构",
+        "训练框架",
+        "训练加速",
+        "编译优化",
+        "算子开发",
+        "训推优化",
+        "ai infra",
+        "训练优化"
       ],
       "core_keywords": [
         "训练架构",
@@ -875,11 +873,16 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-097",
     "search_keywords": [
-      "安全 Agent",
-      "安全智能体",
-      "内容安全",
-      "agent",
-      "自进化"
+      "多模态",
+      "多模态理解",
+      "多模态生成",
+      "多模态理解生成统一",
+      "生成模型",
+      "视频理解",
+      "视频生成",
+      "VLM",
+      "视觉生成",
+      "图像生成"
     ],
     "job_profile": {
       "profile_id": "JOB-097",
@@ -930,11 +933,16 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "安全 Agent",
-        "安全智能体",
-        "内容安全",
-        "agent",
-        "自进化"
+        "多模态",
+        "多模态理解",
+        "多模态生成",
+        "多模态理解生成统一",
+        "生成模型",
+        "视频理解",
+        "视频生成",
+        "VLM",
+        "视觉生成",
+        "图像生成"
       ],
       "core_keywords": [
         "多模态",
@@ -996,13 +1004,10 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-113",
     "search_keywords": [
-      "强化学习",
-      "RL",
-      "世界模型",
-      "多模态训练",
-      "多模态",
-      "多模态大模型后训练",
-      "VLM"
+      "多模态生成",
+      "多模态理解",
+      "视频生成",
+      "多模态"
     ],
     "job_profile": {
       "profile_id": "JOB-113",
@@ -1059,13 +1064,10 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "强化学习",
-        "RL",
-        "世界模型",
-        "多模态训练",
-        "多模态",
-        "多模态大模型后训练",
-        "VLM"
+        "多模态生成",
+        "多模态理解",
+        "视频生成",
+        "多模态"
       ],
       "core_keywords": [
         "多模态生成",
@@ -1116,13 +1118,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-082",
     "search_keywords": [
-      "Agent训练",
-      "Agentic模型",
-      "Agentic RL",
-      "数据合成",
-      "Coding Agent",
-      "强化学习",
-      "大模型Agent"
+      "推理平台",
+      "调度",
+      "资源调度",
+      "资源编排",
+      "模型服务"
     ],
     "job_profile": {
       "profile_id": "JOB-082",
@@ -1181,13 +1181,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过云原生、分布式系统、AI平台、资源调度、稳定性或Infra工程/研究的候选人。",
       "search_keywords": [
-        "Agent训练",
-        "Agentic模型",
-        "Agentic RL",
-        "数据合成",
-        "Coding Agent",
-        "强化学习",
-        "大模型Agent"
+        "推理平台",
+        "调度",
+        "资源调度",
+        "资源编排",
+        "模型服务"
       ],
       "core_keywords": [
         "推理平台",
@@ -1244,15 +1242,15 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-107",
     "search_keywords": [
-      "高性能网络",
-      "资源调度",
-      "训推优化",
-      "推理加速",
-      "训练加速",
-      "软硬件协同",
-      "资源编排",
-      "网络通信",
-      "模型通信"
+      "自进化",
+      "智能体",
+      "Agent",
+      "长短期记忆",
+      "Agent Memory",
+      "知识图谱",
+      "RAG",
+      "Agent框架",
+      "知识引擎"
     ],
     "job_profile": {
       "profile_id": "JOB-107",
@@ -1314,15 +1312,15 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "NLP、大模型、Agent、强化学习、AI Coding、后训练、复杂推理方向的候选人。",
       "search_keywords": [
-        "高性能网络",
-        "资源调度",
-        "训推优化",
-        "推理加速",
-        "训练加速",
-        "软硬件协同",
-        "资源编排",
-        "网络通信",
-        "模型通信"
+        "自进化",
+        "智能体",
+        "Agent",
+        "长短期记忆",
+        "Agent Memory",
+        "知识图谱",
+        "RAG",
+        "Agent框架",
+        "知识引擎"
       ],
       "core_keywords": [
         "自进化",
@@ -1381,15 +1379,14 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-117",
     "search_keywords": [
-      "推理架构",
-      "模型推理",
-      "推理",
-      "推理框架",
-      "推理引擎",
-      "推理优化",
-      "训推优化",
-      "KV Cache",
-      "多模态模型推理"
+      "智能体",
+      "agent",
+      "智能体训练框架",
+      "工具调用",
+      "Multi agent",
+      "Agentic RL",
+      "Agent后训练",
+      "agent RL"
     ],
     "job_profile": {
       "profile_id": "JOB-117",
@@ -1446,15 +1443,14 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
       "search_keywords": [
-        "推理架构",
-        "模型推理",
-        "推理",
-        "推理框架",
-        "推理引擎",
-        "推理优化",
-        "训推优化",
-        "KV Cache",
-        "多模态模型推理"
+        "智能体",
+        "agent",
+        "智能体训练框架",
+        "工具调用",
+        "Multi agent",
+        "Agentic RL",
+        "Agent后训练",
+        "agent RL"
       ],
       "core_keywords": [
         "智能体",
@@ -1511,10 +1507,12 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-081",
     "search_keywords": [
-      "推理平台",
-      "调度平台",
-      "推理加速",
-      "推理引擎"
+      "检索",
+      "信息检索",
+      "RAG",
+      "搜索系统",
+      "搜索引擎",
+      "向量检索"
     ],
     "job_profile": {
       "profile_id": "JOB-081",
@@ -1575,10 +1573,12 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "信息检索、搜索推荐、RAG、多模态检索、问答系统方向候选人。",
       "search_keywords": [
-        "推理平台",
-        "调度平台",
-        "推理加速",
-        "推理引擎"
+        "检索",
+        "信息检索",
+        "RAG",
+        "搜索系统",
+        "搜索引擎",
+        "向量检索"
       ],
       "core_keywords": [
         "检索",
@@ -1634,26 +1634,26 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-014",
     "search_keywords": [
-      "AI coding",
-      "代码agent",
-      "agent研发",
-      "coding agent",
-      "Qoder",
-      "Qteam",
-      "AI IDE",
-      "agent工程"
+      "多模态大模型",
+      "MLLM",
+      "后训练",
+      "大模型后训练",
+      "post training",
+      "多模态大模型后训练",
+      "强化学习",
+      "RL"
     ],
     "job_profile": {
       "profile_id": "JOB-014",
       "search_keywords": [
-        "AI coding",
-        "代码agent",
-        "agent研发",
-        "coding agent",
-        "Qoder",
-        "Qteam",
-        "AI IDE",
-        "agent工程"
+        "多模态大模型",
+        "MLLM",
+        "后训练",
+        "大模型后训练",
+        "post training",
+        "多模态大模型后训练",
+        "强化学习",
+        "RL"
       ],
       "core_keywords": [
         "多模态大模型",
@@ -1691,22 +1691,30 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-015",
     "search_keywords": [
-      "世界模型",
-      "视频生成",
-      "VLM",
-      "多模态生成",
+      "多模态大模型",
       "MLLM",
-      "AGI"
+      "多模态生成模型",
+      "多模态生成",
+      "生成模型",
+      "多模态模型训练",
+      "预训练",
+      "后训练",
+      "图像编辑模型",
+      "图像编辑"
     ],
     "job_profile": {
       "profile_id": "JOB-015",
       "search_keywords": [
-        "世界模型",
-        "视频生成",
-        "VLM",
-        "多模态生成",
+        "多模态大模型",
         "MLLM",
-        "AGI"
+        "多模态生成模型",
+        "多模态生成",
+        "生成模型",
+        "多模态模型训练",
+        "预训练",
+        "后训练",
+        "图像编辑模型",
+        "图像编辑"
       ],
       "core_keywords": [
         "多模态大模型",
@@ -1746,11 +1754,12 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-100",
     "search_keywords": [
-      "视觉编码器",
-      "视频编码",
-      "视频编解码",
-      "多模态模型训练",
-      "视觉编解码器"
+      "多模态",
+      "世界模型",
+      "生成模型",
+      "多模态生成",
+      "多模态理解",
+      "VLM"
     ],
     "job_profile": {
       "profile_id": "JOB-100",
@@ -1801,11 +1810,12 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "视觉编码器",
-        "视频编码",
-        "视频编解码",
-        "多模态模型训练",
-        "视觉编解码器"
+        "多模态",
+        "世界模型",
+        "生成模型",
+        "多模态生成",
+        "多模态理解",
+        "VLM"
       ],
       "core_keywords": [
         "多模态",
@@ -1857,14 +1867,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-111",
     "search_keywords": [
-      "模型压缩",
-      "模型量化",
-      "大模型推理训练",
-      "算子开发",
-      "ai infra",
-      "推理",
-      "推理优化",
-      "模型推理"
+      "多模态大模型",
+      "MLLM",
+      "大模型训练",
+      "强化学习",
+      "后训练",
+      "模型后训练",
+      "多模态生成模型"
     ],
     "job_profile": {
       "profile_id": "JOB-111",
@@ -1920,14 +1929,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
       "search_keywords": [
-        "模型压缩",
-        "模型量化",
-        "大模型推理训练",
-        "算子开发",
-        "ai infra",
-        "推理",
-        "推理优化",
-        "模型推理"
+        "多模态大模型",
+        "MLLM",
+        "大模型训练",
+        "强化学习",
+        "后训练",
+        "模型后训练",
+        "多模态生成模型"
       ],
       "core_keywords": [
         "多模态大模型",
@@ -1984,24 +1992,30 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-018",
     "search_keywords": [
-      "语音理解",
-      "语音合成",
-      "语音交互",
-      "语音大模型",
-      "语音",
-      "语音生成",
-      "语音模型"
+      "Agent",
+      "智能体",
+      "自进化",
+      "多Agent",
+      "多智能体",
+      "多智能体协同",
+      "Agent 通信",
+      "Agent训练",
+      "Agent框架",
+      "multi agent"
     ],
     "job_profile": {
       "profile_id": "JOB-018",
       "search_keywords": [
-        "语音理解",
-        "语音合成",
-        "语音交互",
-        "语音大模型",
-        "语音",
-        "语音生成",
-        "语音模型"
+        "Agent",
+        "智能体",
+        "自进化",
+        "多Agent",
+        "多智能体",
+        "多智能体协同",
+        "Agent 通信",
+        "Agent训练",
+        "Agent框架",
+        "multi agent"
       ],
       "core_keywords": [
         "Agent",
@@ -2041,34 +2055,26 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-019",
     "search_keywords": [
-      "3D视觉",
-      "3D",
-      "三维",
-      "三维视觉",
-      "3D重建",
-      "三维重建",
-      "人体姿态估计",
-      "建模",
-      "运动目标跟踪",
-      "空间理解",
-      "空间建模",
-      "3D建模"
+      "数据合成",
+      "数据生成",
+      "数据工程",
+      "search Agent",
+      "智能问答",
+      "搜索",
+      "信息检索",
+      "检索"
     ],
     "job_profile": {
       "profile_id": "JOB-019",
       "search_keywords": [
-        "3D视觉",
-        "3D",
-        "三维",
-        "三维视觉",
-        "3D重建",
-        "三维重建",
-        "人体姿态估计",
-        "建模",
-        "运动目标跟踪",
-        "空间理解",
-        "空间建模",
-        "3D建模"
+        "数据合成",
+        "数据生成",
+        "数据工程",
+        "search Agent",
+        "智能问答",
+        "搜索",
+        "信息检索",
+        "检索"
       ],
       "core_keywords": [
         "数据合成",
@@ -2106,13 +2112,12 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-065",
     "search_keywords": [
-      "基模",
-      "视频生成",
-      "视频编辑",
-      "预训练",
-      "多模态",
-      "pre training",
-      "多模态生成"
+      "推荐系统",
+      "推荐大模型",
+      "电商场景",
+      "电商推荐大模型",
+      "推荐",
+      "搜推广"
     ],
     "job_profile": {
       "profile_id": "JOB-065",
@@ -2172,13 +2177,12 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
       "search_keywords": [
-        "基模",
-        "视频生成",
-        "视频编辑",
-        "预训练",
-        "多模态",
-        "pre training",
-        "多模态生成"
+        "推荐系统",
+        "推荐大模型",
+        "电商场景",
+        "电商推荐大模型",
+        "推荐",
+        "搜推广"
       ],
       "core_keywords": [
         "推荐系统",
@@ -2229,11 +2233,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-132",
     "search_keywords": [
-      "数据库",
-      "数据库运维",
-      "DBA",
-      "SQL",
-      "sql"
+      "安全 Agent",
+      "安全智能体",
+      "内容安全",
+      "agent",
+      "自进化"
     ],
     "job_profile": {
       "profile_id": "JOB-132",
@@ -2296,11 +2300,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "网络安全、系统安全、AI安全、可信AI、大模型对齐或硬件安全方向的候选人。",
       "search_keywords": [
-        "数据库",
-        "数据库运维",
-        "DBA",
-        "SQL",
-        "sql"
+        "安全 Agent",
+        "安全智能体",
+        "内容安全",
+        "agent",
+        "自进化"
       ],
       "core_keywords": [
         "安全 Agent",
@@ -2356,24 +2360,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-101",
     "search_keywords": [
-      "基模",
-      "code agent",
-      "基础模型",
-      "基座模型",
-      "qwen",
-      "大模型训练",
-      "模型训练",
-      "后训练",
-      "预训练",
-      "post training",
-      "pre training",
-      "GUI Agent",
-      "Omni",
-      "Coding Agent",
-      "长期记忆",
-      "多智能体",
-      "多Agent",
-      "multi-agent"
+      "强化学习",
+      "RL",
+      "世界模型",
+      "多模态训练",
+      "多模态",
+      "多模态大模型后训练",
+      "VLM"
     ],
     "job_profile": {
       "profile_id": "JOB-101",
@@ -2426,24 +2419,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "具身智能、机器人学习、VLA/VLM、世界模型、强化学习、仿真或自动驾驶相关方向候选人。",
       "search_keywords": [
-        "基模",
-        "code agent",
-        "基础模型",
-        "基座模型",
-        "qwen",
-        "大模型训练",
-        "模型训练",
-        "后训练",
-        "预训练",
-        "post training",
-        "pre training",
-        "GUI Agent",
-        "Omni",
-        "Coding Agent",
-        "长期记忆",
-        "多智能体",
-        "多Agent",
-        "multi-agent"
+        "强化学习",
+        "RL",
+        "世界模型",
+        "多模态训练",
+        "多模态",
+        "多模态大模型后训练",
+        "VLM"
       ],
       "core_keywords": [
         "强化学习",
@@ -2500,11 +2482,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-090",
     "search_keywords": [
-      "视频编解码",
-      "视频编码",
-      "编解码器",
-      "图像编码",
-      "视频传输"
+      "Agent训练",
+      "Agentic模型",
+      "Agentic RL",
+      "数据合成",
+      "Coding Agent",
+      "强化学习",
+      "大模型Agent"
     ],
     "job_profile": {
       "profile_id": "JOB-090",
@@ -2557,11 +2541,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "NLP、大模型、Agent、强化学习、AI Coding、后训练、复杂推理方向的候选人。",
       "search_keywords": [
-        "视频编解码",
-        "视频编码",
-        "编解码器",
-        "图像编码",
-        "视频传输"
+        "Agent训练",
+        "Agentic模型",
+        "Agentic RL",
+        "数据合成",
+        "Coding Agent",
+        "强化学习",
+        "大模型Agent"
       ],
       "core_keywords": [
         "Agent训练",
@@ -2618,16 +2604,15 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-087",
     "search_keywords": [
-      "视频生成",
-      "跨模态",
-      "视频增强",
-      "视频处理",
-      "人像美化",
-      "人脸生成编辑",
-      "人体生成编辑",
-      "视频理解",
-      "跨模态理解",
-      "多模态理解"
+      "高性能网络",
+      "资源调度",
+      "训推优化",
+      "推理加速",
+      "训练加速",
+      "软硬件协同",
+      "资源编排",
+      "网络通信",
+      "模型通信"
     ],
     "job_profile": {
       "profile_id": "JOB-087",
@@ -2684,16 +2669,15 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过分布式训练、机器学习系统、RL Infra、MoE训练优化、集群调度或MLSys方向论文/项目的候选人。",
       "search_keywords": [
-        "视频生成",
-        "跨模态",
-        "视频增强",
-        "视频处理",
-        "人像美化",
-        "人脸生成编辑",
-        "人体生成编辑",
-        "视频理解",
-        "跨模态理解",
-        "多模态理解"
+        "高性能网络",
+        "资源调度",
+        "训推优化",
+        "推理加速",
+        "训练加速",
+        "软硬件协同",
+        "资源编排",
+        "网络通信",
+        "模型通信"
       ],
       "core_keywords": [
         "高性能网络",
@@ -2754,13 +2738,15 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-128",
     "search_keywords": [
-      "推荐系统",
-      "意图推理",
-      "用户知识意图",
-      "用户意图",
-      "搜推广",
-      "意图引擎",
-      "推荐"
+      "推理架构",
+      "模型推理",
+      "推理",
+      "推理框架",
+      "推理引擎",
+      "推理优化",
+      "训推优化",
+      "KV Cache",
+      "多模态模型推理"
     ],
     "job_profile": {
       "profile_id": "JOB-128",
@@ -2817,13 +2803,15 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过LLM Serving、推理引擎、GPU算子、系统性能优化或AI系统论文/项目的硕博候选人。",
       "search_keywords": [
-        "推荐系统",
-        "意图推理",
-        "用户知识意图",
-        "用户意图",
-        "搜推广",
-        "意图引擎",
-        "推荐"
+        "推理架构",
+        "模型推理",
+        "推理",
+        "推理框架",
+        "推理引擎",
+        "推理优化",
+        "训推优化",
+        "KV Cache",
+        "多模态模型推理"
       ],
       "core_keywords": [
         "推理架构",
@@ -2882,11 +2870,10 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-126",
     "search_keywords": [
-      "搜索",
-      "信息检索",
-      "检索",
-      "Search Agent",
-      "搜推广"
+      "推理平台",
+      "调度平台",
+      "推理加速",
+      "推理引擎"
     ],
     "job_profile": {
       "profile_id": "JOB-126",
@@ -2946,11 +2933,10 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过LLM Serving、推理引擎、GPU算子、系统性能优化或AI系统论文/项目的硕博候选人。",
       "search_keywords": [
-        "搜索",
-        "信息检索",
-        "检索",
-        "Search Agent",
-        "搜推广"
+        "推理平台",
+        "调度平台",
+        "推理加速",
+        "推理引擎"
       ],
       "core_keywords": [
         "推理平台",
@@ -3001,11 +2987,14 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-127",
     "search_keywords": [
-      "搜推广",
-      "生成模型",
-      "运筹优化",
-      "内容理解",
-      "广告"
+      "AI coding",
+      "代码agent",
+      "agent研发",
+      "coding agent",
+      "Qoder",
+      "Qteam",
+      "AI IDE",
+      "agent工程"
     ],
     "job_profile": {
       "profile_id": "JOB-127",
@@ -3053,11 +3042,14 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "需人工确认。",
       "search_keywords": [
-        "搜推广",
-        "生成模型",
-        "运筹优化",
-        "内容理解",
-        "广告"
+        "AI coding",
+        "代码agent",
+        "agent研发",
+        "coding agent",
+        "Qoder",
+        "Qteam",
+        "AI IDE",
+        "agent工程"
       ],
       "core_keywords": [
         "AI coding",
@@ -3112,13 +3104,12 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-102",
     "search_keywords": [
-      "多模态",
-      "内容理解",
-      "推荐模型",
-      "多模态理解",
-      "推荐系统",
-      "视频内容生成",
-      "内容审核"
+      "世界模型",
+      "视频生成",
+      "VLM",
+      "多模态生成",
+      "MLLM",
+      "AGI"
     ],
     "job_profile": {
       "profile_id": "JOB-102",
@@ -3171,13 +3162,12 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "具身智能、机器人学习、VLA/VLM、世界模型、强化学习、仿真或自动驾驶相关方向候选人。",
       "search_keywords": [
-        "多模态",
-        "内容理解",
-        "推荐模型",
-        "多模态理解",
-        "推荐系统",
-        "视频内容生成",
-        "内容审核"
+        "世界模型",
+        "视频生成",
+        "VLM",
+        "多模态生成",
+        "MLLM",
+        "AGI"
       ],
       "core_keywords": [
         "世界模型",
@@ -3228,17 +3218,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-122",
     "search_keywords": [
-      "多模态",
-      "多模态理解",
-      "用户理解",
-      "用户意图",
-      "搜索",
-      "推荐",
-      "意图识别",
-      "意图",
-      "意图建模",
-      "推荐系统",
-      "用户行为"
+      "视觉编码器",
+      "视频编码",
+      "视频编解码",
+      "多模态模型训练",
+      "视觉编解码器"
     ],
     "job_profile": {
       "profile_id": "JOB-122",
@@ -3289,17 +3273,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "具身智能、机器人学习、VLA/VLM、世界模型、强化学习、仿真或自动驾驶相关方向候选人。",
       "search_keywords": [
-        "多模态",
-        "多模态理解",
-        "用户理解",
-        "用户意图",
-        "搜索",
-        "推荐",
-        "意图识别",
-        "意图",
-        "意图建模",
-        "推荐系统",
-        "用户行为"
+        "视觉编码器",
+        "视频编码",
+        "视频编解码",
+        "多模态模型训练",
+        "视觉编解码器"
       ],
       "core_keywords": [
         "视觉编码器",
@@ -3349,32 +3327,26 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-031",
     "search_keywords": [
-      "内容生成",
-      "内容理解",
-      "MLLM",
-      "图像生成",
-      "视频生成",
-      "多模态生成",
-      "多模态",
-      "多模态大模型",
-      "多模态统一大模型",
-      "多模态模型",
-      "电商多模态大模型"
+      "模型压缩",
+      "模型量化",
+      "大模型推理训练",
+      "算子开发",
+      "ai infra",
+      "推理",
+      "推理优化",
+      "模型推理"
     ],
     "job_profile": {
       "profile_id": "JOB-031",
       "search_keywords": [
-        "内容生成",
-        "内容理解",
-        "MLLM",
-        "图像生成",
-        "视频生成",
-        "多模态生成",
-        "多模态",
-        "多模态大模型",
-        "多模态统一大模型",
-        "多模态模型",
-        "电商多模态大模型"
+        "模型压缩",
+        "模型量化",
+        "大模型推理训练",
+        "算子开发",
+        "ai infra",
+        "推理",
+        "推理优化",
+        "模型推理"
       ],
       "core_keywords": [
         "模型压缩",
@@ -3407,13 +3379,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-156",
     "search_keywords": [
-      "数字人",
-      "3D重建",
-      "三维重建",
-      "3D",
-      "3D建模",
-      "三维建模",
-      "3DGS"
+      "语音理解",
+      "语音合成",
+      "语音交互",
+      "语音大模型",
+      "语音",
+      "语音生成",
+      "语音模型"
     ],
     "job_profile": {
       "profile_id": "JOB-156",
@@ -3474,13 +3446,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "数字人",
-        "3D重建",
-        "三维重建",
-        "3D",
-        "3D建模",
-        "三维建模",
-        "3DGS"
+        "语音理解",
+        "语音合成",
+        "语音交互",
+        "语音大模型",
+        "语音",
+        "语音生成",
+        "语音模型"
       ],
       "core_keywords": [
         "语音理解",
@@ -3539,14 +3511,18 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-152",
     "search_keywords": [
-      "训练优化",
-      "调度",
-      "资源编排",
-      "软硬件协同",
-      "数据引擎",
-      "数据湖",
-      "数据平台",
-      "ai infra"
+      "3D视觉",
+      "3D",
+      "三维",
+      "三维视觉",
+      "3D重建",
+      "三维重建",
+      "人体姿态估计",
+      "建模",
+      "运动目标跟踪",
+      "空间理解",
+      "空间建模",
+      "3D建模"
     ],
     "job_profile": {
       "profile_id": "JOB-152",
@@ -3604,14 +3580,18 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "训练优化",
-        "调度",
-        "资源编排",
-        "软硬件协同",
-        "数据引擎",
-        "数据湖",
-        "数据平台",
-        "ai infra"
+        "3D视觉",
+        "3D",
+        "三维",
+        "三维视觉",
+        "3D重建",
+        "三维重建",
+        "人体姿态估计",
+        "建模",
+        "运动目标跟踪",
+        "空间理解",
+        "空间建模",
+        "3D建模"
       ],
       "core_keywords": [
         "3D视觉",
@@ -3676,18 +3656,24 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-034",
     "search_keywords": [
-      "RL infra",
-      "ai infra",
-      "MoE模型",
-      "训练引擎"
+      "基模",
+      "视频生成",
+      "视频编辑",
+      "预训练",
+      "多模态",
+      "pre training",
+      "多模态生成"
     ],
     "job_profile": {
       "profile_id": "JOB-034",
       "search_keywords": [
-        "RL infra",
-        "ai infra",
-        "MoE模型",
-        "训练引擎"
+        "基模",
+        "视频生成",
+        "视频编辑",
+        "预训练",
+        "多模态",
+        "pre training",
+        "多模态生成"
       ],
       "core_keywords": [
         "基模",
@@ -3721,7 +3707,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-045",
     "search_keywords": [
-      "存储"
+      "数据库",
+      "数据库运维",
+      "DBA",
+      "SQL",
+      "sql"
     ],
     "job_profile": {
       "profile_id": "JOB-045",
@@ -3778,7 +3768,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "数据库、数据系统、分布式存储、搜索引擎、向量检索或大数据系统方向的候选人。",
       "search_keywords": [
-        "存储"
+        "数据库",
+        "数据库运维",
+        "DBA",
+        "SQL",
+        "sql"
       ],
       "core_keywords": [
         "数据库",
@@ -3827,9 +3821,24 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-133",
     "search_keywords": [
-      "医疗AI",
-      "临床决策",
-      "信息检索"
+      "基模",
+      "code agent",
+      "基础模型",
+      "基座模型",
+      "qwen",
+      "大模型训练",
+      "模型训练",
+      "后训练",
+      "预训练",
+      "post training",
+      "pre training",
+      "GUI Agent",
+      "Omni",
+      "Coding Agent",
+      "长期记忆",
+      "多智能体",
+      "多Agent",
+      "multi-agent"
     ],
     "job_profile": {
       "profile_id": "JOB-133",
@@ -3888,9 +3897,24 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "NLP、大模型、Agent、强化学习、AI Coding、后训练、复杂推理方向的候选人。",
       "search_keywords": [
-        "医疗AI",
-        "临床决策",
-        "信息检索"
+        "基模",
+        "code agent",
+        "基础模型",
+        "基座模型",
+        "qwen",
+        "大模型训练",
+        "模型训练",
+        "后训练",
+        "预训练",
+        "post training",
+        "pre training",
+        "GUI Agent",
+        "Omni",
+        "Coding Agent",
+        "长期记忆",
+        "多智能体",
+        "多Agent",
+        "multi-agent"
       ],
       "core_keywords": [
         "基模",
@@ -3972,13 +3996,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-121",
     "search_keywords": [
-      "AI 芯片",
-      "芯片",
-      "编程语言",
-      "编译器",
-      "DSL",
-      "LLVM",
-      "GCC"
+      "视频编解码",
+      "视频编码",
+      "编解码器",
+      "图像编码",
+      "视频传输"
     ],
     "job_profile": {
       "profile_id": "JOB-121",
@@ -4034,13 +4056,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "AI 芯片",
-        "芯片",
-        "编程语言",
-        "编译器",
-        "DSL",
-        "LLVM",
-        "GCC"
+        "视频编解码",
+        "视频编码",
+        "编解码器",
+        "图像编码",
+        "视频传输"
       ],
       "core_keywords": [
         "视频编解码",
@@ -4093,10 +4113,16 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-125",
     "search_keywords": [
-      "编译器",
-      "图编译器",
-      "算子编译器",
-      "AI编译器"
+      "视频生成",
+      "跨模态",
+      "视频增强",
+      "视频处理",
+      "人像美化",
+      "人脸生成编辑",
+      "人体生成编辑",
+      "视频理解",
+      "跨模态理解",
+      "多模态理解"
     ],
     "job_profile": {
       "profile_id": "JOB-125",
@@ -4158,10 +4184,16 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "编译器",
-        "图编译器",
-        "算子编译器",
-        "AI编译器"
+        "视频生成",
+        "跨模态",
+        "视频增强",
+        "视频处理",
+        "人像美化",
+        "人脸生成编辑",
+        "人体生成编辑",
+        "视频理解",
+        "跨模态理解",
+        "多模态理解"
       ],
       "core_keywords": [
         "视频生成",
@@ -4224,12 +4256,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-123",
     "search_keywords": [
-      "多模态基础模型",
-      "表征",
-      "统一表征",
-      "编码器",
-      "表征学习",
-      "多模态"
+      "推荐系统",
+      "意图推理",
+      "用户知识意图",
+      "用户意图",
+      "搜推广",
+      "意图引擎",
+      "推荐"
     ],
     "job_profile": {
       "profile_id": "JOB-123",
@@ -4293,12 +4326,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
       "search_keywords": [
-        "多模态基础模型",
-        "表征",
-        "统一表征",
-        "编码器",
-        "表征学习",
-        "多模态"
+        "推荐系统",
+        "意图推理",
+        "用户知识意图",
+        "用户意图",
+        "搜推广",
+        "意图引擎",
+        "推荐"
       ],
       "core_keywords": [
         "推荐系统",
@@ -4353,16 +4387,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-108",
     "search_keywords": [
-      "音频",
-      "语音",
-      "语音生成",
-      "语音识别",
-      "语音合成",
-      "声纹",
-      "语种",
-      "对话模型",
-      "语音模型",
-      "信号处理"
+      "搜索",
+      "信息检索",
+      "检索",
+      "Search Agent",
+      "搜推广"
     ],
     "job_profile": {
       "profile_id": "JOB-108",
@@ -4426,16 +4455,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "信息检索、搜索推荐、RAG、多模态检索、问答系统方向候选人。",
       "search_keywords": [
-        "音频",
-        "语音",
-        "语音生成",
-        "语音识别",
-        "语音合成",
-        "声纹",
-        "语种",
-        "对话模型",
-        "语音模型",
-        "信号处理"
+        "搜索",
+        "信息检索",
+        "检索",
+        "Search Agent",
+        "搜推广"
       ],
       "core_keywords": [
         "搜索",
@@ -4486,12 +4510,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-109",
     "search_keywords": [
-      "Agent 基础设施",
-      "分布式调度系统",
-      "调度",
-      "资源调度",
-      "调度器",
-      "Agent Infra"
+      "搜推广",
+      "生成模型",
+      "运筹优化",
+      "内容理解",
+      "广告"
     ],
     "job_profile": {
       "profile_id": "JOB-109",
@@ -4555,12 +4578,11 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
       "search_keywords": [
-        "Agent 基础设施",
-        "分布式调度系统",
-        "调度",
-        "资源调度",
-        "调度器",
-        "Agent Infra"
+        "搜推广",
+        "生成模型",
+        "运筹优化",
+        "内容理解",
+        "广告"
       ],
       "core_keywords": [
         "搜推广",
@@ -4609,15 +4631,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-099",
     "search_keywords": [
-      "主动式Agent",
-      "Agent",
-      "智能体",
-      "异步长程任务",
-      "大模型agent",
-      "AI agent",
-      "agent训练",
-      "Agent框架",
-      "RL"
+      "多模态",
+      "内容理解",
+      "推荐模型",
+      "多模态理解",
+      "推荐系统",
+      "视频内容生成",
+      "内容审核"
     ],
     "job_profile": {
       "profile_id": "JOB-099",
@@ -4682,15 +4702,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "主动式Agent",
-        "Agent",
-        "智能体",
-        "异步长程任务",
-        "大模型agent",
-        "AI agent",
-        "agent训练",
-        "Agent框架",
-        "RL"
+        "多模态",
+        "内容理解",
+        "推荐模型",
+        "多模态理解",
+        "推荐系统",
+        "视频内容生成",
+        "内容审核"
       ],
       "core_keywords": [
         "多模态",
@@ -4746,10 +4764,17 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-098",
     "search_keywords": [
-      "多模态理解",
-      "跨模态",
       "多模态",
-      "内容理解"
+      "多模态理解",
+      "用户理解",
+      "用户意图",
+      "搜索",
+      "推荐",
+      "意图识别",
+      "意图",
+      "意图建模",
+      "推荐系统",
+      "用户行为"
     ],
     "job_profile": {
       "profile_id": "JOB-098",
@@ -4805,10 +4830,17 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "多模态理解",
-        "跨模态",
         "多模态",
-        "内容理解"
+        "多模态理解",
+        "用户理解",
+        "用户意图",
+        "搜索",
+        "推荐",
+        "意图识别",
+        "意图",
+        "意图建模",
+        "推荐系统",
+        "用户行为"
       ],
       "core_keywords": [
         "多模态",
@@ -4877,11 +4909,17 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-096",
     "search_keywords": [
-      "大模型评测",
-      "模型数据",
-      "模型评测",
-      "数据处理",
-      "自动化评测"
+      "内容生成",
+      "内容理解",
+      "MLLM",
+      "图像生成",
+      "视频生成",
+      "多模态生成",
+      "多模态",
+      "多模态大模型",
+      "多模态统一大模型",
+      "多模态模型",
+      "电商多模态大模型"
     ],
     "job_profile": {
       "profile_id": "JOB-096",
@@ -4941,11 +4979,17 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "大模型评测",
-        "模型数据",
-        "模型评测",
-        "数据处理",
-        "自动化评测"
+        "内容生成",
+        "内容理解",
+        "MLLM",
+        "图像生成",
+        "视频生成",
+        "多模态生成",
+        "多模态",
+        "多模态大模型",
+        "多模态统一大模型",
+        "多模态模型",
+        "电商多模态大模型"
       ],
       "core_keywords": [
         "内容生成",
@@ -5010,13 +5054,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-093",
     "search_keywords": [
-      "多模态大模型",
-      "MLLM",
-      "智能体",
-      "agent",
-      "大模型应用",
-      "AI安全",
-      "安全大模型"
+      "网络协议栈",
+      "实时音视频传输",
+      "多路径传输",
+      "拥塞控制",
+      "多模态传输",
+      "自适应码率",
+      "网络"
     ],
     "job_profile": {
       "profile_id": "JOB-093",
@@ -5070,13 +5114,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过网络系统、分布式通信、HPC通信、智算网络、NSDI/SIGCOMM/SC相关研究的候选人。",
       "search_keywords": [
-        "多模态大模型",
-        "MLLM",
-        "智能体",
-        "agent",
-        "大模型应用",
-        "AI安全",
-        "安全大模型"
+        "网络协议栈",
+        "实时音视频传输",
+        "多路径传输",
+        "拥塞控制",
+        "多模态传输",
+        "自适应码率",
+        "网络"
       ],
       "core_keywords": [
         "网络协议栈",
@@ -5135,11 +5179,15 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-076",
     "search_keywords": [
-      "MLLM",
-      "多模态大模型",
-      "agent",
+      "Agent",
       "智能体",
-      "多语言"
+      "强化学习",
+      "RL",
+      "自主进化",
+      "在线强化学习",
+      "自进化",
+      "在线决策",
+      "agent训练"
     ],
     "job_profile": {
       "profile_id": "JOB-076",
@@ -5198,11 +5246,15 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "NLP、大模型、Agent、强化学习、AI Coding、后训练、复杂推理方向的候选人。",
       "search_keywords": [
-        "MLLM",
-        "多模态大模型",
-        "agent",
+        "Agent",
         "智能体",
-        "多语言"
+        "强化学习",
+        "RL",
+        "自主进化",
+        "在线强化学习",
+        "自进化",
+        "在线决策",
+        "agent训练"
       ],
       "core_keywords": [
         "Agent",
@@ -5262,15 +5314,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-073",
     "search_keywords": [
-      "通信优化",
-      "AI infra",
-      "训练优化",
-      "分布式训练",
-      "软硬件协同",
-      "算子优化",
-      "推理引擎",
-      "推理加速",
-      "训推优化"
+      "数字人",
+      "3D重建",
+      "三维重建",
+      "3D",
+      "3D建模",
+      "三维建模",
+      "3DGS"
     ],
     "job_profile": {
       "profile_id": "JOB-073",
@@ -5324,15 +5374,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "通信优化",
-        "AI infra",
-        "训练优化",
-        "分布式训练",
-        "软硬件协同",
-        "算子优化",
-        "推理引擎",
-        "推理加速",
-        "训推优化"
+        "数字人",
+        "3D重建",
+        "三维重建",
+        "3D",
+        "3D建模",
+        "三维建模",
+        "3DGS"
       ],
       "core_keywords": [
         "数字人",
@@ -5386,9 +5434,14 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-091",
     "search_keywords": [
-      "AI安全",
-      "安全对齐",
-      "大模型安全"
+      "训练优化",
+      "调度",
+      "资源编排",
+      "软硬件协同",
+      "数据引擎",
+      "数据湖",
+      "数据平台",
+      "ai infra"
     ],
     "job_profile": {
       "profile_id": "JOB-091",
@@ -5450,9 +5503,14 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过云原生、分布式系统、AI平台、资源调度、稳定性或Infra工程/研究的候选人。",
       "search_keywords": [
-        "AI安全",
-        "安全对齐",
-        "大模型安全"
+        "训练优化",
+        "调度",
+        "资源编排",
+        "软硬件协同",
+        "数据引擎",
+        "数据湖",
+        "数据平台",
+        "ai infra"
       ],
       "core_keywords": [
         "训练优化",
@@ -5511,13 +5569,13 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "JOB-018",
     "search_keywords": [
-      "数据合成",
-      "强化学习",
-      "RL",
-      "agent后训练",
-      "agent RL",
-      "后训练",
-      "post training"
+      "KV Cache",
+      "网络",
+      "通信优化",
+      "RDMA",
+      "传输优化",
+      "网络性能优化",
+      "推理框架优化"
     ],
     "job_profile": {
       "profile_id": "JOB-018",
@@ -5578,13 +5636,13 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "做过LLM Serving、推理引擎、GPU算子、系统性能优化或AI系统论文/项目的硕博候选人。",
       "search_keywords": [
-        "数据合成",
-        "强化学习",
-        "RL",
-        "agent后训练",
-        "agent RL",
-        "后训练",
-        "post training"
+        "KV Cache",
+        "网络",
+        "通信优化",
+        "RDMA",
+        "传输优化",
+        "网络性能优化",
+        "推理框架优化"
       ],
       "core_keywords": [
         "KV Cache",
@@ -8976,131 +9034,6 @@ window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-91",
     "category": "alistar",
-    "title": "Answer Engine查询引擎中的多模态和向量检索技术研究-阿里星/A Star",
-    "department": "阿里云",
-    "location": "北京、杭州、深圳",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820113",
-    "description": "持续跟进和研究LLM和Answer Engine场景的用户需求和行业趋势，协助构建面向新型Answer Engine场景的多模数据库产品。\n1、深入钻研多模数据库存储系统和分布式架构，构建支撑半结构化和非结构化数据的统一存储系统；\n2、通过多种数据模型的融合索引技术和高性能的查询优化器和执行器，提供更加稳定和泛用的高性能查询引擎；\n3、通过数据库、AI模型和AI推理系统的协同设计，提升整个系统的搜索质量表现。",
-    "requirementsText": "1、博士在读或即将毕业，计算机科学、数据库、人工智能、机器学习等相关专业背景；\n2、在相关领域国际顶级学术会议（如 NeurIPS、ICML、FAST、SIGMOD 等）发表过高水平论文；\n3、在数据库、搜索系统、AI推理、知识图谱等领域有深厚的理论功底和丰富的系统实现经验；\n4、具备扎实的编程能力，熟练掌握 Python等至少一种编程语言及 PyTorch、TensorFlow 等深度学习框架，能够独立开展实验设计与代码实现；\n5、具有良好的问题分析与解决能力、创新思维能力和团队协作精神，具备清晰的逻辑表达能力和较强的中英文文献阅读与写作能力。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-041",
-    "search_keywords": [
-      "向量检索",
-      "数据库",
-      "知识图谱",
-      "查询优化",
-      "数据存储",
-      "查询引擎",
-      "Answer Engine"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-041",
-      "job_family": "数据系统/数据库/存储",
-      "domain": "AI搜索与向量检索",
-      "sub_domain": "搜索引擎/向量数据库",
-      "core_problem": "构建AI Native数据库、湖仓、向量检索、查询优化或高性能存储系统，支撑Data+AI融合场景。",
-      "must_have": [
-        "1、博士在读或即将毕业，计算机科学、数据库、人工智能、机器学习等相关专业背景",
-        "2、在相关领域国际顶级学术会议（如 NeurIPS、ICML、FAST、SIGMOD 等）发表过高水平论文",
-        "3、在数据库、搜索系统、AI推理、知识图谱等领域有深厚的理论功底和丰富的系统实现经验",
-        "4、具备扎实的编程能力，熟练掌握 Python等至少一种编程语言及 PyTorch、TensorFlow 等深度学习框架，能够独立开展实验设计与代码实现",
-        "5、具有良好的问题分析与解决能力、创新思维能力和团队协作精神，具备清晰的逻辑表达能力和较强的中英文文献阅读与写作能力。"
-      ],
-      "strong_plus": [
-        "Flink",
-        "Paimon",
-        "Elasticsearch",
-        "向量数据库",
-        "RAG",
-        "DAG",
-        "Query Planner",
-        "湖仓",
-        "并行文件存储",
-        "多模态数据管理经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "Python",
-        "PyTorch",
-        "TensorFlow",
-        "机器学习",
-        "深度学习",
-        "LLM",
-        "多模态",
-        "系统",
-        "高性能",
-        "AI"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只会SQL/业务分析",
-        "无数据库内核/分布式存储/检索系统证据时降权。"
-      ],
-      "target_profile": "数据库、数据系统、分布式存储、搜索引擎、向量检索或大数据系统方向的候选人。",
-      "search_keywords": [
-        "向量检索",
-        "数据库",
-        "知识图谱",
-        "查询优化",
-        "数据存储",
-        "查询引擎",
-        "Answer Engine"
-      ],
-      "core_keywords": [
-        "向量检索",
-        "数据库",
-        "知识图谱",
-        "查询优化",
-        "数据存储",
-        "查询引擎",
-        "Answer Engine"
-      ],
-      "strong_keywords": [
-        "索引",
-        "检索"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "未明确/需人工确认",
-      "research_direction_suggestion": "数据库、分布式存储、大数据系统、搜索引擎、向量数据库、数据湖/湖仓",
-      "recall_tags": [
-        "向量检索",
-        "数据库",
-        "知识图谱",
-        "查询优化",
-        "数据存储",
-        "查询引擎",
-        "Answer Engine"
-      ],
-      "ranking_focus": "强看数据库/存储/检索系统内核经验；业务SQL或数据分析低权重。",
-      "hr_tip": "重点确认数据库内核、查询优化、存储系统、检索系统或大数据框架经验。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-92",
-    "category": "alistar",
     "title": "面向大模型的AI SoC芯片技术研究-阿里星",
     "department": "阿里巴巴控股集团",
     "location": "北京、杭州、上海",
@@ -9187,7 +9120,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-93",
+    "id": "alistar-92",
     "category": "alistar",
     "title": "Data+AI融合：下一代多模态数据库/下一代AI数据湖-阿里星/A Star",
     "department": "阿里云",
@@ -9305,6 +9238,131 @@ window.ALISTAR_JOB_LIBRARY = [
         "分布式存储",
         "文件系统",
         "数据存储"
+      ],
+      "ranking_focus": "强看数据库/存储/检索系统内核经验；业务SQL或数据分析低权重。",
+      "hr_tip": "重点确认数据库内核、查询优化、存储系统、检索系统或大数据框架经验。",
+      "confidence": "高"
+    }
+  },
+  {
+    "id": "alistar-93",
+    "category": "alistar",
+    "title": "Answer Engine查询引擎中的多模态和向量检索技术研究-阿里星/A Star",
+    "department": "阿里云",
+    "location": "北京、杭州、深圳",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820113",
+    "description": "持续跟进和研究LLM和Answer Engine场景的用户需求和行业趋势，协助构建面向新型Answer Engine场景的多模数据库产品。\n1、深入钻研多模数据库存储系统和分布式架构，构建支撑半结构化和非结构化数据的统一存储系统；\n2、通过多种数据模型的融合索引技术和高性能的查询优化器和执行器，提供更加稳定和泛用的高性能查询引擎；\n3、通过数据库、AI模型和AI推理系统的协同设计，提升整个系统的搜索质量表现。",
+    "requirementsText": "1、博士在读或即将毕业，计算机科学、数据库、人工智能、机器学习等相关专业背景；\n2、在相关领域国际顶级学术会议（如 NeurIPS、ICML、FAST、SIGMOD 等）发表过高水平论文；\n3、在数据库、搜索系统、AI推理、知识图谱等领域有深厚的理论功底和丰富的系统实现经验；\n4、具备扎实的编程能力，熟练掌握 Python等至少一种编程语言及 PyTorch、TensorFlow 等深度学习框架，能够独立开展实验设计与代码实现；\n5、具有良好的问题分析与解决能力、创新思维能力和团队协作精神，具备清晰的逻辑表达能力和较强的中英文文献阅读与写作能力。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-041",
+    "search_keywords": [
+      "向量检索",
+      "数据库",
+      "知识图谱",
+      "查询优化",
+      "数据存储",
+      "查询引擎",
+      "Answer Engine"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-041",
+      "job_family": "数据系统/数据库/存储",
+      "domain": "AI搜索与向量检索",
+      "sub_domain": "搜索引擎/向量数据库",
+      "core_problem": "构建AI Native数据库、湖仓、向量检索、查询优化或高性能存储系统，支撑Data+AI融合场景。",
+      "must_have": [
+        "1、博士在读或即将毕业，计算机科学、数据库、人工智能、机器学习等相关专业背景",
+        "2、在相关领域国际顶级学术会议（如 NeurIPS、ICML、FAST、SIGMOD 等）发表过高水平论文",
+        "3、在数据库、搜索系统、AI推理、知识图谱等领域有深厚的理论功底和丰富的系统实现经验",
+        "4、具备扎实的编程能力，熟练掌握 Python等至少一种编程语言及 PyTorch、TensorFlow 等深度学习框架，能够独立开展实验设计与代码实现",
+        "5、具有良好的问题分析与解决能力、创新思维能力和团队协作精神，具备清晰的逻辑表达能力和较强的中英文文献阅读与写作能力。"
+      ],
+      "strong_plus": [
+        "Flink",
+        "Paimon",
+        "Elasticsearch",
+        "向量数据库",
+        "RAG",
+        "DAG",
+        "Query Planner",
+        "湖仓",
+        "并行文件存储",
+        "多模态数据管理经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "Python",
+        "PyTorch",
+        "TensorFlow",
+        "机器学习",
+        "深度学习",
+        "LLM",
+        "多模态",
+        "系统",
+        "高性能",
+        "AI"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只会SQL/业务分析",
+        "无数据库内核/分布式存储/检索系统证据时降权。"
+      ],
+      "target_profile": "数据库、数据系统、分布式存储、搜索引擎、向量检索或大数据系统方向的候选人。",
+      "search_keywords": [
+        "向量检索",
+        "数据库",
+        "知识图谱",
+        "查询优化",
+        "数据存储",
+        "查询引擎",
+        "Answer Engine"
+      ],
+      "core_keywords": [
+        "向量检索",
+        "数据库",
+        "知识图谱",
+        "查询优化",
+        "数据存储",
+        "查询引擎",
+        "Answer Engine"
+      ],
+      "strong_keywords": [
+        "索引",
+        "检索"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "未明确/需人工确认",
+      "research_direction_suggestion": "数据库、分布式存储、大数据系统、搜索引擎、向量数据库、数据湖/湖仓",
+      "recall_tags": [
+        "向量检索",
+        "数据库",
+        "知识图谱",
+        "查询优化",
+        "数据存储",
+        "查询引擎",
+        "Answer Engine"
       ],
       "ranking_focus": "强看数据库/存储/检索系统内核经验；业务SQL或数据分析低权重。",
       "hr_tip": "重点确认数据库内核、查询优化、存储系统、检索系统或大数据框架经验。",
@@ -9678,129 +9736,6 @@ window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-97",
     "category": "alistar",
-    "title": "云安全大模型智能体对抗评测与能力边界定义-阿里星/A Star",
-    "department": "阿里云",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640113",
-    "description": "1、设计面向云安全场景（入侵检测、自动化渗透、合规审计）的大模型评测体系，定义“懂安全的 AI”量化标准；\n2、落地自动化攻击算法，构建红蓝智能体对抗环境，持续挑战 AI 极限，评估其接管复杂防御决策的资质；\n3、深入研究并创新应用 Claude、OpenAI评测框架等前沿技术，构建云安全领域的评测标杆；\n4、探索多智能体对抗、自动化反馈强化学习等技术，实现评测结果直接驱动模型进化的闭环系统。",
-    "requirementsText": "1、扎实的机器学习/深度学习基础，熟悉大模型评测方法（LLM-as-a-Judge、红队测试、对抗评测等）；\n2、深入理解 Claude、OpenAI 等顶尖实验室的模型评测技术体系，具备改进与创新能力；\n3、对安全攻防有强烈兴趣，具备构造 Corner Case 和对抗样本的偏执热情，擅长逼出 AI 能力边界；\n4、优秀的算法工程能力，能够将评测理念转化为可落地的系统架构；\n5、有 CCF-A/NeurIPS/ICML/Security 等顶会论文，或 DEF CON/GEEKPWN/强网杯等竞赛经验者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-021",
-    "search_keywords": [
-      "大模型评测",
-      "评测",
-      "安全对抗",
-      "智能体对抗",
-      "智能体安全",
-      "安全agent",
-      "模型评测"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-021",
-      "job_family": "安全/AI安全",
-      "domain": "云安全与安全工具",
-      "sub_domain": "安全智能体/安全工具",
-      "core_problem": "面向大模型、智能体、云安全或硬件微架构构建安全评测、攻防分析、防御机制和可信对齐体系。",
-      "must_have": [
-        "1、扎实的机器学习/深度学习基础，熟悉大模型评测方法（LLM-as-a-Judge、红队测试、对抗评测等）",
-        "2、深入理解 Claude、OpenAI 等顶尖实验室的模型评测技术体系，具备改进与创新能力",
-        "3、对安全攻防有强烈兴趣，具备构造 Corner Case 和对抗样本的偏执热情，擅长逼出 AI 能力边界",
-        "4、优秀的算法工程能力，能够将评测理念转化为可落地的系统架构",
-        "5、有 CCF-A/NeurIPS/ICML/Security 等顶会论文，或 DEF CON/GEEKPWN/强网杯等竞赛经验者优先。"
-      ],
-      "strong_plus": [
-        "红队评测",
-        "越狱/对抗样本",
-        "安全Agent",
-        "内容安全",
-        "运行时防护",
-        "漏洞挖掘",
-        "微架构攻击",
-        "云安全工具经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "机器学习",
-        "深度学习",
-        "大模型",
-        "LLM",
-        "算法",
-        "系统",
-        "工程能力",
-        "AI"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只做内容审核/合规理解",
-        "无攻防评测/安全研究证据时降权。"
-      ],
-      "target_profile": "网络安全、系统安全、AI安全、可信AI、大模型对齐或硬件安全方向的候选人。",
-      "search_keywords": [
-        "大模型评测",
-        "评测",
-        "安全对抗",
-        "智能体对抗",
-        "智能体安全",
-        "安全agent",
-        "模型评测"
-      ],
-      "core_keywords": [
-        "大模型评测",
-        "评测",
-        "安全对抗",
-        "智能体对抗",
-        "智能体安全",
-        "安全agent",
-        "模型评测"
-      ],
-      "strong_keywords": [
-        "量化",
-        "评测体系",
-        "对抗评测",
-        "能力边界"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "未明确/需人工确认",
-      "research_direction_suggestion": "系统安全、网络安全、AI安全、大模型安全、可信AI、硬件安全",
-      "recall_tags": [
-        "大模型评测",
-        "评测",
-        "安全对抗",
-        "智能体对抗",
-        "智能体安全",
-        "安全agent",
-        "模型评测"
-      ],
-      "ranking_focus": "强看攻防/评测/防御/对齐证据；安全相关论文或比赛项目可高权重。",
-      "hr_tip": "重点追问攻防、评测、防御、对齐或漏洞研究证据，区分安全研究与普通内容治理。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-98",
-    "category": "alistar",
     "title": "国际化多语言电商大模型建设以及对电商搜索系统的革新升级-阿里星/Bravo Star",
     "department": "阿里国际数字商业集团",
     "location": "杭州",
@@ -9925,49 +9860,48 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-99",
+    "id": "alistar-98",
     "category": "alistar",
-    "title": "面向AI芯片AI agent软件研发提效-阿里星",
-    "department": "阿里巴巴控股集团",
-    "location": "北京、成都、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740116",
-    "description": "我们正在用 AI 重塑软件开发的方式。作为 AI 芯片软件团队，我们不仅开发 AI 芯片的软件栈，也在探索如何用 AI Agent 技术提升软件研发的效率和体验——从代码自动生成、智能 Code Review，到自动化测试、文档生成、故障诊断，再到整个研发流程的智能化编排。\n你将在这个岗位上，既是 AI Agent 技术的研究者，也是实践者和布道者。你将探索 LLM/Agent 技术在软件工程领域的前沿应用，构建面向 AI 芯片软件团队的智能研发助手，并将成功经验推广到更广泛的软件团队。\n\n岗位职责\n• 研究和探索 AI Agent 在软件研发场景中的应用，包括但不限于：代码生成与补全、智能代码评审（Code Review）、自动化单元测试生成、Bug 自动修复、技术文档自动生成\n• 设计并实现面向 AI 芯片软件团队的智能研发助手平台，集成到日常开发流程中（IDE、CI/CD、代码仓库）\n• 构建研发知识库和 RAG（检索增强生成）系统，沉淀团队的技术文档、代码规范、最佳实践，让 AI Agent 能够理解和应用\n• 探索 Multi-Agent 协作框架，实现多个 AI Agent 协同完成复杂的软件工程任务（如需求分析 → 架构设计 → 代码实现 → 测试验证的全流程自动化）\n• 跟踪 AI Agent 和软件工程领域的最新研究进展，定期在团队内部分享和布道\n• 与效能部、工具链部协作，将 AI Agent 能力嵌入到团队的日常工具和流程中",
-    "requirementsText": "岗位要求\n• 计算机科学、软件工程、人工智能或相关专业，硕士及以上学历（博士优先）\n• 对 AI Agent、LLM 应用、Prompt Engineering 有深入理解和实践经验\n• 扎实的编程能力（Python/TypeScript/Go 至少一种），有全栈开发经验者优先\n• 熟悉软件工程的最佳实践（CI/CD、Code Review、自动化测试、DevOps）\n• 对提升研发效能有热情，善于发现和解决研发流程中的痛点\n• 有良好的沟通和表达能力，能够推动跨团队的技术落地\n\n加分项\n• 在软件工程、AI Agent、NLP 等领域发表过顶级论文（ICSE/FSE/ASE/NeurIPS/ICML/ACL 等）\n• 参与过开源 AI Agent 框架（LangChain、AutoGPT、CrewAI 等）或 AI Coding 工具（Cursor、Copilot、Aider 等）的开发\n• 有构建 RAG 系统、知识图谱、代码理解工具的实际经验\n• 有大规模代码仓库（百万行级别）的代码分析和理解经验\n• 有 AI 芯片、编译器、底层系统等领域的背景知识（非必须，但有助于理解业务场景）",
+    "title": "云安全大模型智能体对抗评测与能力边界定义-阿里星/A Star",
+    "department": "阿里云",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640113",
+    "description": "1、设计面向云安全场景（入侵检测、自动化渗透、合规审计）的大模型评测体系，定义“懂安全的 AI”量化标准；\n2、落地自动化攻击算法，构建红蓝智能体对抗环境，持续挑战 AI 极限，评估其接管复杂防御决策的资质；\n3、深入研究并创新应用 Claude、OpenAI评测框架等前沿技术，构建云安全领域的评测标杆；\n4、探索多智能体对抗、自动化反馈强化学习等技术，实现评测结果直接驱动模型进化的闭环系统。",
+    "requirementsText": "1、扎实的机器学习/深度学习基础，熟悉大模型评测方法（LLM-as-a-Judge、红队测试、对抗评测等）；\n2、深入理解 Claude、OpenAI 等顶尖实验室的模型评测技术体系，具备改进与创新能力；\n3、对安全攻防有强烈兴趣，具备构造 Corner Case 和对抗样本的偏执热情，擅长逼出 AI 能力边界；\n4、优秀的算法工程能力，能够将评测理念转化为可落地的系统架构；\n5、有 CCF-A/NeurIPS/ICML/Security 等顶会论文，或 DEF CON/GEEKPWN/强网杯等竞赛经验者优先。",
     "required": [],
     "bonus": [],
-    "profile_id": "JOB-115",
+    "profile_id": "JOB-021",
     "search_keywords": [
-      "芯片软件",
-      "AI agent",
-      "代码生成",
-      "coding agent",
-      "RAG"
+      "大模型评测",
+      "评测",
+      "安全对抗",
+      "智能体对抗",
+      "智能体安全",
+      "安全agent",
+      "模型评测"
     ],
     "job_profile": {
-      "profile_id": "JOB-115",
-      "job_family": "芯片/体系结构/编译器",
-      "domain": "芯片架构与微架构",
-      "sub_domain": "AI芯片/CPU/RISC-V架构",
-      "core_problem": "围绕RISC-V/AI芯片/CPU等硬件平台，推进架构设计、编译优化、软硬件协同和推理性能提升。",
+      "profile_id": "JOB-021",
+      "job_family": "安全/AI安全",
+      "domain": "云安全与安全工具",
+      "sub_domain": "安全智能体/安全工具",
+      "core_problem": "面向大模型、智能体、云安全或硬件微架构构建安全评测、攻防分析、防御机制和可信对齐体系。",
       "must_have": [
-        "岗位要求",
-        "计算机科学、软件工程、人工智能或相关专业，硕士及以上学历（博士优先）",
-        "对 AI Agent、LLM 应用、Prompt Engineering 有深入理解和实践经验",
-        "扎实的编程能力（Python/TypeScript/Go 至少一种），有全栈开发经验者优先",
-        "熟悉软件工程的最佳实践（CI/CD、Code Review、自动化测试、DevOps）",
-        "对提升研发效能有热情，善于发现和解决研发流程中的痛点",
-        "有良好的沟通和表达能力，能够推动跨团队的技术落地",
-        "加分项"
+        "1、扎实的机器学习/深度学习基础，熟悉大模型评测方法（LLM-as-a-Judge、红队测试、对抗评测等）",
+        "2、深入理解 Claude、OpenAI 等顶尖实验室的模型评测技术体系，具备改进与创新能力",
+        "3、对安全攻防有强烈兴趣，具备构造 Corner Case 和对抗样本的偏执热情，擅长逼出 AI 能力边界",
+        "4、优秀的算法工程能力，能够将评测理念转化为可落地的系统架构",
+        "5、有 CCF-A/NeurIPS/ICML/Security 等顶会论文，或 DEF CON/GEEKPWN/强网杯等竞赛经验者优先。"
       ],
       "strong_plus": [
-        "RISC-V",
-        "LLVM/GCC",
-        "RVV",
-        "微架构性能建模",
-        "PMU/Top-Down分析",
-        "AI编译器",
-        "深度学习编译",
-        "软硬件协同经验。"
+        "红队评测",
+        "越狱/对抗样本",
+        "安全Agent",
+        "内容安全",
+        "运行时防护",
+        "漏洞挖掘",
+        "微架构攻击",
+        "云安全工具经验。"
       ],
       "weak_plus": [
         "Python/C++/Java/Golang",
@@ -9980,39 +9914,47 @@ window.ALISTAR_JOB_LIBRARY = [
         "默认低权重处理。"
       ],
       "broad_keywords": [
-        "Python",
+        "机器学习",
+        "深度学习",
+        "大模型",
         "LLM",
+        "算法",
         "系统",
-        "AI",
-        "Agent"
+        "工程能力",
+        "AI"
       ],
       "negative_signals": [
         "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
         "论文或工程证据",
         "研究方向只停留在应用Demo",
         "无法支撑核心研发判断。",
-        "只有普通算法训练经验",
-        "无体系结构/编译器/硬件或底层优化证据时降权。"
+        "只做内容审核/合规理解",
+        "无攻防评测/安全研究证据时降权。"
       ],
-      "target_profile": "体系结构、编译器、芯片软件栈、HPC、AI芯片推理优化方向的硕博候选人。",
+      "target_profile": "网络安全、系统安全、AI安全、可信AI、大模型对齐或硬件安全方向的候选人。",
       "search_keywords": [
-        "芯片软件",
-        "AI agent",
-        "代码生成",
-        "coding agent",
-        "RAG"
+        "大模型评测",
+        "评测",
+        "安全对抗",
+        "智能体对抗",
+        "智能体安全",
+        "安全agent",
+        "模型评测"
       ],
       "core_keywords": [
-        "芯片软件",
-        "AI agent",
-        "代码生成",
-        "coding agent",
-        "RAG"
+        "大模型评测",
+        "评测",
+        "安全对抗",
+        "智能体对抗",
+        "智能体安全",
+        "安全agent",
+        "模型评测"
       ],
       "strong_keywords": [
-        "NLP",
-        "检索",
-        "代码生成"
+        "量化",
+        "评测体系",
+        "对抗评测",
+        "能力边界"
       ],
       "weak_keywords": [
         "Python/C++/Java/Golang",
@@ -10024,22 +9966,24 @@ window.ALISTAR_JOB_LIBRARY = [
         "沟通协作等基础或高频通用信号",
         "默认低权重处理。"
       ],
-      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
-      "research_direction_suggestion": "计算机体系结构、编译器、芯片软件栈、RISC-V、AI芯片、HPC",
+      "seniority_requirement": "未明确/需人工确认",
+      "research_direction_suggestion": "系统安全、网络安全、AI安全、大模型安全、可信AI、硬件安全",
       "recall_tags": [
-        "芯片软件",
-        "AI agent",
-        "代码生成",
-        "coding agent",
-        "RAG"
+        "大模型评测",
+        "评测",
+        "安全对抗",
+        "智能体对抗",
+        "智能体安全",
+        "安全agent",
+        "模型评测"
       ],
-      "ranking_focus": "强看体系结构/编译器/硬件相关证据；C++只是基础项，不应单独高分。",
-      "hr_tip": "优先确认是否有体系结构/编译器/底层性能优化/芯片软件栈项目，不要只因会C++或AI就推荐。",
+      "ranking_focus": "强看攻防/评测/防御/对齐证据；安全相关论文或比赛项目可高权重。",
+      "hr_tip": "重点追问攻防、评测、防御、对齐或漏洞研究证据，区分安全研究与普通内容治理。",
       "confidence": "高"
     }
   },
   {
-    "id": "alistar-100",
+    "id": "alistar-99",
     "category": "alistar",
     "title": "面向AI芯片推理系统优化-阿里星",
     "department": "阿里巴巴控股集团",
@@ -10184,6 +10128,117 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
+    "id": "alistar-100",
+    "category": "alistar",
+    "title": "面向大规模llm infra的编译优化&代码生成与高性能算子优化-阿里星/A Star",
+    "department": "阿里云",
+    "location": "北京、杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820110",
+    "description": "1、分析并优化NV/国产芯片大规模部署下主流模型（Deepseek、GLM、Kimi）性能，研究和优化关键算子性能，降低latency，提高MFU； \n2、对LLM推理全链路效率有深入认知，探索并利用AI dsl能力推动关键链路的op fusion、meag kernel、auto-tuning&codegen、compute overlap，并能够独立在infra上验证or完成上线。",
+    "requirementsText": "1、精通c++/python，熟悉llm推理框架（sglang/vllm）kernel开发&优化经验； \n2、熟悉GPU架构，具备cuda/triton kernel开发&调优能力； \n3、熟悉算子融合、量化等技术，对MOE, FlashAttention有比较深入了解和实际经验。 \n\n加分项： \n1、有LLVM、Triton、tilelang相关经验，有编译优化、codegen相关经验； \n2、有强烈技术热情和好奇心，自驱力和学习力强；具备良好的分析与解决问题的能力、沟通以及团队合作能力；喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-026",
+    "search_keywords": [
+      "算子优化",
+      "编译优化",
+      "算子融合",
+      "软硬件协同"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-026",
+      "job_family": "AI Infra/系统",
+      "domain": "大模型推理优化",
+      "sub_domain": "算子/编译/框架适配",
+      "core_problem": "提升大模型推理服务的吞吐、延迟、显存/成本效率、稳定性和工程可扩展性。",
+      "must_have": [
+        "1、精通c++/python，熟悉llm推理框架（sglang/vllm）kernel开发&优化经验",
+        "2、熟悉GPU架构，具备cuda/triton kernel开发&调优能力",
+        "3、熟悉算子融合、量化等技术，对MOE, FlashAttention有比较深入了解和实际经验。",
+        "加分项：",
+        "1、有LLVM、Triton、tilelang相关经验，有编译优化、codegen相关经验",
+        "2、有强烈技术热情和好奇心，自驱力和学习力强",
+        "具备良好的分析与解决问题的能力、沟通以及团队合作能力",
+        "喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。"
+      ],
+      "strong_plus": [
+        "vLLM/SGLang",
+        "KV Cache",
+        "PagedAttention",
+        "Triton/CUDA",
+        "TensorRT-LLM",
+        "请求调度",
+        "显存优化",
+        "低延迟高吞吐优化经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "Python",
+        "C++",
+        "LLM",
+        "高性能",
+        "AI"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只有模型应用或Prompt经验",
+        "无系统/性能/分布式/推理训练证据时降权。"
+      ],
+      "target_profile": "做过LLM Serving、推理引擎、GPU算子、系统性能优化或AI系统论文/项目的硕博候选人。",
+      "search_keywords": [
+        "算子优化",
+        "编译优化",
+        "算子融合",
+        "软硬件协同"
+      ],
+      "core_keywords": [
+        "算子优化",
+        "编译优化",
+        "算子融合",
+        "软硬件协同"
+      ],
+      "strong_keywords": [
+        "算子融合",
+        "量化",
+        "编译优化",
+        "代码生成"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "未明确/需人工确认",
+      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
+      "recall_tags": [
+        "算子优化",
+        "编译优化",
+        "算子融合",
+        "软硬件协同"
+      ],
+      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
+      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
+      "confidence": "高"
+    }
+  },
+  {
     "id": "alistar-101",
     "category": "alistar",
     "title": "面向超节点的大语言模型推理方案-阿里星/A Star",
@@ -10309,235 +10364,6 @@ window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-102",
     "category": "alistar",
-    "title": "面向大规模llm infra的编译优化&代码生成与高性能算子优化-阿里星/A Star",
-    "department": "阿里云",
-    "location": "北京、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820110",
-    "description": "1、分析并优化NV/国产芯片大规模部署下主流模型（Deepseek、GLM、Kimi）性能，研究和优化关键算子性能，降低latency，提高MFU； \n2、对LLM推理全链路效率有深入认知，探索并利用AI dsl能力推动关键链路的op fusion、meag kernel、auto-tuning&codegen、compute overlap，并能够独立在infra上验证or完成上线。",
-    "requirementsText": "1、精通c++/python，熟悉llm推理框架（sglang/vllm）kernel开发&优化经验； \n2、熟悉GPU架构，具备cuda/triton kernel开发&调优能力； \n3、熟悉算子融合、量化等技术，对MOE, FlashAttention有比较深入了解和实际经验。 \n\n加分项： \n1、有LLVM、Triton、tilelang相关经验，有编译优化、codegen相关经验； \n2、有强烈技术热情和好奇心，自驱力和学习力强；具备良好的分析与解决问题的能力、沟通以及团队合作能力；喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-026",
-    "search_keywords": [
-      "算子优化",
-      "编译优化",
-      "算子融合",
-      "软硬件协同"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-026",
-      "job_family": "AI Infra/系统",
-      "domain": "大模型推理优化",
-      "sub_domain": "算子/编译/框架适配",
-      "core_problem": "提升大模型推理服务的吞吐、延迟、显存/成本效率、稳定性和工程可扩展性。",
-      "must_have": [
-        "1、精通c++/python，熟悉llm推理框架（sglang/vllm）kernel开发&优化经验",
-        "2、熟悉GPU架构，具备cuda/triton kernel开发&调优能力",
-        "3、熟悉算子融合、量化等技术，对MOE, FlashAttention有比较深入了解和实际经验。",
-        "加分项：",
-        "1、有LLVM、Triton、tilelang相关经验，有编译优化、codegen相关经验",
-        "2、有强烈技术热情和好奇心，自驱力和学习力强",
-        "具备良好的分析与解决问题的能力、沟通以及团队合作能力",
-        "喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。"
-      ],
-      "strong_plus": [
-        "vLLM/SGLang",
-        "KV Cache",
-        "PagedAttention",
-        "Triton/CUDA",
-        "TensorRT-LLM",
-        "请求调度",
-        "显存优化",
-        "低延迟高吞吐优化经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "Python",
-        "C++",
-        "LLM",
-        "高性能",
-        "AI"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有模型应用或Prompt经验",
-        "无系统/性能/分布式/推理训练证据时降权。"
-      ],
-      "target_profile": "做过LLM Serving、推理引擎、GPU算子、系统性能优化或AI系统论文/项目的硕博候选人。",
-      "search_keywords": [
-        "算子优化",
-        "编译优化",
-        "算子融合",
-        "软硬件协同"
-      ],
-      "core_keywords": [
-        "算子优化",
-        "编译优化",
-        "算子融合",
-        "软硬件协同"
-      ],
-      "strong_keywords": [
-        "算子融合",
-        "量化",
-        "编译优化",
-        "代码生成"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "未明确/需人工确认",
-      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
-      "recall_tags": [
-        "算子优化",
-        "编译优化",
-        "算子融合",
-        "软硬件协同"
-      ],
-      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
-      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-103",
-    "category": "alistar",
-    "title": "AI芯片软硬件协同-阿里星",
-    "department": "阿里巴巴控股集团",
-    "location": "北京、成都、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907660050",
-    "description": "AI 芯片的成功，不仅取决于硬件架构的先进性，更取决于软硬件协同设计的深度。我们正在寻找能够在硬件和软件之间架设桥梁的人才——你既需要理解芯片的微架构、指令集、数据流，也需要理解编译器的优化策略、算子的计算模式、大模型的推理特性。\n你将参与自研 AI 芯片的软硬件协同设计，包括：基于软件栈的反馈优化硬件架构、定义软硬件接口规范、开发性能模型指导架构决策、以及投片前的系统级验证。你的工作将直接影响下一代 AI 芯片的架构设计，以及软件栈能否充分发挥硬件潜力。\n\n岗位职责\n• 参与自研 AI 芯片的架构评审，从软件视角（编译器、算子、框架）反馈硬件设计建议\n• 开发性能分析模型（Performance Model），基于软件负载特征预测硬件架构的性能表现，指导架构决策\n• 定义和维护软硬件接口规范（HAL/ISA），确保硬件功能能够被软件栈高效利用\n• 参与软硬件功能划分决策，评估哪些功能适合硬件实现、哪些适合软件实现\n• 基于 ESL/EMU 仿真环境，进行投片前的系统级验证，发现并推动修复 RTL 设计问题\n• 与编译器团队协作，确保硬件新特性（如新指令、新数据通路）能够被编译器充分利用\n• 与算子团队协作，分析关键算子的硬件瓶颈，提出架构优化建议",
-    "requirementsText": "• 计算机科学、电子工程、微电子或相关专业，硕士及以上学历（博士优先）\n• 深入理解计算机体系结构（CPU/GPU/NPU），熟悉指令集、流水线、存储层次、互连网络等核心概念\n• 熟悉至少一种硬件描述语言（Verilog/VHDL/SystemVerilog）或硬件仿真工具（VCS/Verdi）\n• 扎实的 C/C++ 编程能力，能够阅读和编写底层软件（驱动、固件、编译器后端）\n• 对 AI 模型（CNN/Transformer/LLM）的计算模式和访存特征有基本理解\n• 有强烈的跨领域学习意愿，愿意在硬件和软件之间建立深度连接\n\n加分项\n• 在体系结构、EDA、MLSys 等领域发表过顶级论文（ISCA/MICRO/ASPLOS/HPCA/DAC/ICCAD 等）\n• 有 AI 芯片（GPU/NPU/TPU）的架构设计或验证经验\n• 有性能模型（Gem5/SST/SystemC）开发经验，或熟悉 Roofline 模型等性能分析方法\n• 有软硬件协同仿真（Co-simulation）或 FPGA 原型验证经验\n• 熟悉 AI 编译器（TVM/MLIR/XLA）或算子库（cuBLAS/cuDNN）的实现原理",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-130",
-    "search_keywords": [
-      "软硬件协同",
-      "芯片软件",
-      "编译器",
-      "芯片性能分析",
-      "芯片架构设计",
-      "芯片"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-130",
-      "job_family": "芯片/体系结构/编译器",
-      "domain": "芯片架构与微架构",
-      "sub_domain": "AI芯片/CPU/RISC-V架构",
-      "core_problem": "围绕RISC-V/AI芯片/CPU等硬件平台，推进架构设计、编译优化、软硬件协同和推理性能提升。",
-      "must_have": [
-        "计算机科学、电子工程、微电子或相关专业，硕士及以上学历（博士优先）",
-        "深入理解计算机体系结构（CPU/GPU/NPU），熟悉指令集、流水线、存储层次、互连网络等核心概念",
-        "熟悉至少一种硬件描述语言（Verilog/VHDL/SystemVerilog）或硬件仿真工具（VCS/Verdi）",
-        "扎实的 C/C++ 编程能力，能够阅读和编写底层软件（驱动、固件、编译器后端）",
-        "对 AI 模型（CNN/Transformer/LLM）的计算模式和访存特征有基本理解",
-        "有强烈的跨领域学习意愿，愿意在硬件和软件之间建立深度连接",
-        "加分项",
-        "在体系结构、EDA、MLSys 等领域发表过顶级论文（ISCA/MICRO/ASPLOS/HPCA/DAC/ICCAD 等）"
-      ],
-      "strong_plus": [
-        "RISC-V",
-        "LLVM/GCC",
-        "RVV",
-        "微架构性能建模",
-        "PMU/Top-Down分析",
-        "AI编译器",
-        "深度学习编译",
-        "软硬件协同经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "C++",
-        "大模型",
-        "LLM",
-        "系统",
-        "AI"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有普通算法训练经验",
-        "无体系结构/编译器/硬件或底层优化证据时降权。"
-      ],
-      "target_profile": "体系结构、编译器、芯片软件栈、HPC、AI芯片推理优化方向的硕博候选人。",
-      "search_keywords": [
-        "软硬件协同",
-        "芯片软件",
-        "编译器",
-        "芯片性能分析",
-        "芯片架构设计",
-        "芯片"
-      ],
-      "core_keywords": [
-        "软硬件协同",
-        "芯片软件",
-        "编译器",
-        "芯片性能分析",
-        "芯片架构设计",
-        "芯片"
-      ],
-      "strong_keywords": [
-        "C/C++",
-        "仿真环境",
-        "性能分析"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
-      "research_direction_suggestion": "计算机体系结构、编译器、芯片软件栈、RISC-V、AI芯片、HPC",
-      "recall_tags": [
-        "软硬件协同",
-        "芯片软件",
-        "编译器",
-        "芯片性能分析",
-        "芯片架构设计",
-        "芯片"
-      ],
-      "ranking_focus": "强看体系结构/编译器/硬件相关证据；C++只是基础项，不应单独高分。",
-      "hr_tip": "优先确认是否有体系结构/编译器/底层性能优化/芯片软件栈项目，不要只因会C++或AI就推荐。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-104",
-    "category": "alistar",
     "title": "面向推理场景的通算&智算多业务融合网络技术-阿里星/A Star",
     "department": "阿里云",
     "location": "杭州",
@@ -10649,7 +10475,116 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-105",
+    "id": "alistar-103",
+    "category": "alistar",
+    "title": "面向真实安全攻防场景的自主智能体（Security AI Agent）体系构建与核心能力研究-阿里星/A Star",
+    "department": "阿里云",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907800047",
+    "description": "聚焦安全攻防与 AI Agent 技术的深度交叉方向，参与下一代安全智能体的核心技术研发\n1、安全 Agent 系统研发：\n - 设计与构建面向真实安全场景的自主 AI Agent 系统，实现从目标理解、环境感知、工具调用到多步推理执行的端到端闭环；\n - 研究并实现 Agent 的核心能力模块，包括任务规划与分解、动态策略调整、反思与自修正、安全约束与人机协同机制；\n - 设计多 Agent 协作架构，实现检测、分析、研判、响应等安全运营环节的自动化协同。\n2、安全领域 Agentic 模型训练：\n - 研究面向安全场景的大模型增强方案，包括安全领域持续预训练、指令微调、RLHF/RLEF 等技术路线，提升模型在安全专业任务上的推理与行动能力；\n - 构建安全领域高质量训练数据体系（攻防轨迹、工具调用序列、推理链标注等），设计面向 Agent 能力的训练目标与奖励函数。\n3、评估与可信体系建设：\n - 建立安全 Agent 的标准化评估基准，覆盖任务完成率、推理准确性、鲁棒性、可控性等多维指标；\n - 研究 Agent 在对抗环境下的安全性问题（提示注入防御、行为边界约束、决策可解释性等）。",
+    "requirementsText": "岗位要求：\n1、在安全与 AI 交叉领域有研究或实践经历（如基于 LLM 的漏洞检测、AI 辅助逆向分析、自动化渗透测试等）；\n2、具备安全工具使用或安全系统开发经验，理解真实安全运营场景的工作流与痛点；\n3、具备独立研究能力，能够阅读并跟进相关领域前沿论文，将研究思路转化为可落地的技术方案；\n4、理解主流大语言模型的原理与架构（Transformer、预训练-微调范式、RLHF 等）；\n5、有大模型微调、推理优化或 Agent 系统（如 ReAct、Tool Use、Planning）的实践经验，有强化学习工程落地经验，尤其是在交互式环境中训练 Agent 的实践；\n6、有 Agent 框架开发经验（如 LangChain、AutoGPT、OpenAI Function Calling 等），或有自主搭建多 Agent 系统的项目经历。\n\n加分项：\n1、在顶会（如 S&P、USENIX Security、CCS、NDSS、NeurIPS、ICML、ICLR、ACL 等）发表过相关论文；\n2、参与过 CTF 竞赛并取得优秀成绩，或在知名安全社区有高质量技术输出；\n3、有安全产品或安全平台的研发经验（SIEM、SOAR、漏洞扫描器、WAF 等）；\n4、对 AI 安全（对抗攻击、模型安全、提示注入等）有研究或理解。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-020",
+    "search_keywords": [
+      "安全 Agent",
+      "agent 训练",
+      "安全智能体",
+      "安全攻防"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-020",
+      "job_family": "安全/AI安全",
+      "domain": "大模型与智能体安全",
+      "sub_domain": "攻防评测与防御",
+      "core_problem": "面向大模型、智能体、云安全或硬件微架构构建安全评测、攻防分析、防御机制和可信对齐体系。",
+      "must_have": [
+        "岗位要求：",
+        "1、在安全与 AI 交叉领域有研究或实践经历（如基于 LLM 的漏洞检测、AI 辅助逆向分析、自动化渗透测试等）",
+        "2、具备安全工具使用或安全系统开发经验，理解真实安全运营场景的工作流与痛点",
+        "3、具备独立研究能力，能够阅读并跟进相关领域前沿论文，将研究思路转化为可落地的技术方案",
+        "4、理解主流大语言模型的原理与架构（Transformer、预训练-微调范式、RLHF 等）",
+        "5、有大模型微调、推理优化或 Agent 系统（如 ReAct、Tool Use、Planning）的实践经验，有强化学习工程落地经验，尤其是在交互式环境中训练 Agent 的实践",
+        "6、有 Agent 框架开发经验（如 LangChain、AutoGPT、OpenAI Function Calling 等），或有自主搭建多 Agent 系统的项目经历。",
+        "加分项："
+      ],
+      "strong_plus": [
+        "红队评测",
+        "越狱/对抗样本",
+        "安全Agent",
+        "内容安全",
+        "运行时防护",
+        "漏洞挖掘",
+        "微架构攻击",
+        "云安全工具经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "大模型",
+        "LLM",
+        "系统",
+        "AI",
+        "Agent"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只做内容审核/合规理解",
+        "无攻防评测/安全研究证据时降权。"
+      ],
+      "target_profile": "网络安全、系统安全、AI安全、可信AI、大模型对齐或硬件安全方向的候选人。",
+      "search_keywords": [
+        "安全 Agent",
+        "agent 训练",
+        "安全智能体",
+        "安全攻防"
+      ],
+      "core_keywords": [
+        "安全 Agent",
+        "agent 训练",
+        "安全智能体",
+        "安全攻防"
+      ],
+      "strong_keywords": [
+        "感知",
+        "安全工具"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "未明确/需人工确认",
+      "research_direction_suggestion": "系统安全、网络安全、AI安全、大模型安全、可信AI、硬件安全",
+      "recall_tags": [
+        "安全 Agent",
+        "agent 训练",
+        "安全智能体",
+        "安全攻防"
+      ],
+      "ranking_focus": "强看攻防/评测/防御/对齐证据；安全相关论文或比赛项目可高权重。",
+      "hr_tip": "重点追问攻防、评测、防御、对齐或漏洞研究证据，区分安全研究与普通内容治理。",
+      "confidence": "高"
+    }
+  },
+  {
+    "id": "alistar-104",
     "category": "alistar",
     "title": "全球零售经营 AI Agent 智能算法革新-阿里星/Bravo Star",
     "department": "阿里国际数字商业集团",
@@ -10765,7 +10700,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-106",
+    "id": "alistar-105",
     "category": "alistar",
     "title": "前沿安全工具能力预研-阿里星/A Star",
     "department": "阿里云",
@@ -10803,48 +10738,126 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-107",
+    "id": "alistar-106",
     "category": "alistar",
-    "title": "面向真实安全攻防场景的自主智能体（Security AI Agent）体系构建与核心能力研究-阿里星/A Star",
-    "department": "阿里云",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907800047",
-    "description": "聚焦安全攻防与 AI Agent 技术的深度交叉方向，参与下一代安全智能体的核心技术研发\n1、安全 Agent 系统研发：\n - 设计与构建面向真实安全场景的自主 AI Agent 系统，实现从目标理解、环境感知、工具调用到多步推理执行的端到端闭环；\n - 研究并实现 Agent 的核心能力模块，包括任务规划与分解、动态策略调整、反思与自修正、安全约束与人机协同机制；\n - 设计多 Agent 协作架构，实现检测、分析、研判、响应等安全运营环节的自动化协同。\n2、安全领域 Agentic 模型训练：\n - 研究面向安全场景的大模型增强方案，包括安全领域持续预训练、指令微调、RLHF/RLEF 等技术路线，提升模型在安全专业任务上的推理与行动能力；\n - 构建安全领域高质量训练数据体系（攻防轨迹、工具调用序列、推理链标注等），设计面向 Agent 能力的训练目标与奖励函数。\n3、评估与可信体系建设：\n - 建立安全 Agent 的标准化评估基准，覆盖任务完成率、推理准确性、鲁棒性、可控性等多维指标；\n - 研究 Agent 在对抗环境下的安全性问题（提示注入防御、行为边界约束、决策可解释性等）。",
-    "requirementsText": "岗位要求：\n1、在安全与 AI 交叉领域有研究或实践经历（如基于 LLM 的漏洞检测、AI 辅助逆向分析、自动化渗透测试等）；\n2、具备安全工具使用或安全系统开发经验，理解真实安全运营场景的工作流与痛点；\n3、具备独立研究能力，能够阅读并跟进相关领域前沿论文，将研究思路转化为可落地的技术方案；\n4、理解主流大语言模型的原理与架构（Transformer、预训练-微调范式、RLHF 等）；\n5、有大模型微调、推理优化或 Agent 系统（如 ReAct、Tool Use、Planning）的实践经验，有强化学习工程落地经验，尤其是在交互式环境中训练 Agent 的实践；\n6、有 Agent 框架开发经验（如 LangChain、AutoGPT、OpenAI Function Calling 等），或有自主搭建多 Agent 系统的项目经历。\n\n加分项：\n1、在顶会（如 S&P、USENIX Security、CCS、NDSS、NeurIPS、ICML、ICLR、ACL 等）发表过相关论文；\n2、参与过 CTF 竞赛并取得优秀成绩，或在知名安全社区有高质量技术输出；\n3、有安全产品或安全平台的研发经验（SIEM、SOAR、漏洞扫描器、WAF 等）；\n4、对 AI 安全（对抗攻击、模型安全、提示注入等）有研究或理解。",
+    "title": "产品可搭载的高能效AI芯片创新架构-阿里星",
+    "department": "阿里巴巴控股集团",
+    "location": "北京、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907800046",
+    "description": "1.针对阿里巴巴集团业务发展需求，结合先进半导体/架构/系统技术，设计/评估AI硬件架构，落地芯片产品。\n2.架构设计工作可能包括但不限于：系统/芯片的架构/微架构设计，建模量化评估，算法/应用分析。",
+    "requirementsText": "1.相关领域/方向优秀博士：AI架构，芯片设计。\n2.有扎实的基础架构知识，同时对于某个架构方向有深入的理解：如量化分析，软硬件协同设计，系统，AI硬件，GPU，CPU，互联，存储等。\n3.了解相关领域（包括工业界/学术界）技术前沿与发展趋势。\n4.可以展示出优秀的科研能力，发现/解决问题能力，很好的掌握研究问题的方法学：如论文与科研成果。\n5.有很强的自驱动，快速的学习能力，团队协作能力，open-minded。\n6.高质量会议一作论文2-3；电路顶会：ISSCC/ASSCC/JSSC  架构顶会：ISCA/MICRO/HPCA/ASPLOS\n\n加分项\n1.流片经验优先\n2.名师实验室优先\n3.国奖优先\"",
     "required": [],
     "bonus": [],
-    "profile_id": "JOB-020",
+    "profile_id": "JOB-025",
     "search_keywords": [
-      "安全 Agent",
-      "agent 训练",
-      "安全智能体",
-      "安全攻防"
+      "芯片架构设计",
+      "芯片架构",
+      "微架构设计",
+      "处理器架构",
+      "芯片设计",
+      "芯片"
     ],
     "job_profile": {
-      "profile_id": "JOB-020",
-      "job_family": "安全/AI安全",
-      "domain": "大模型与智能体安全",
-      "sub_domain": "攻防评测与防御",
-      "core_problem": "面向大模型、智能体、云安全或硬件微架构构建安全评测、攻防分析、防御机制和可信对齐体系。",
+      "profile_id": "JOB-025",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1.针对阿里巴巴集团业务发展需求，结合先进半导体/架构/系统技术，设计/评估AI硬件架构，落地芯片产品。\n2.架构设计工作可能包括但不限于：系统/芯片的架构/微架构设计，建模量化评估，算法/应用分析。",
       "must_have": [
-        "岗位要求：",
-        "1、在安全与 AI 交叉领域有研究或实践经历（如基于 LLM 的漏洞检测、AI 辅助逆向分析、自动化渗透测试等）",
-        "2、具备安全工具使用或安全系统开发经验，理解真实安全运营场景的工作流与痛点",
-        "3、具备独立研究能力，能够阅读并跟进相关领域前沿论文，将研究思路转化为可落地的技术方案",
-        "4、理解主流大语言模型的原理与架构（Transformer、预训练-微调范式、RLHF 等）",
-        "5、有大模型微调、推理优化或 Agent 系统（如 ReAct、Tool Use、Planning）的实践经验，有强化学习工程落地经验，尤其是在交互式环境中训练 Agent 的实践",
-        "6、有 Agent 框架开发经验（如 LangChain、AutoGPT、OpenAI Function Calling 等），或有自主搭建多 Agent 系统的项目经历。",
-        "加分项："
+        "1.相关领域/方向优秀博士：AI架构，芯片设计。",
+        "2.有扎实的基础架构知识，同时对于某个架构方向有深入的理解：如量化分析，软硬件协同设计，系统，AI硬件，GPU，CPU，互联，存储等。",
+        "3.了解相关领域（包括工业界/学术界）技术前沿与发展趋势。",
+        "4.可以展示出优秀的科研能力，发现/解决问题能力，很好的掌握研究问题的方法学：如论文与科研成果。",
+        "5.有很强的自驱动，快速的学习能力，团队协作能力，open-minded。",
+        "6.高质量会议一作论文2-3",
+        "电路顶会：ISSCC/ASSCC/JSSC 架构顶会：ISCA/MICRO/HPCA/ASPLOS",
+        "加分项"
+      ],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": [
+        "芯片架构设计",
+        "芯片架构",
+        "微架构设计",
+        "处理器架构",
+        "芯片设计",
+        "芯片"
+      ],
+      "core_keywords": [
+        "芯片架构设计",
+        "芯片架构",
+        "微架构设计",
+        "处理器架构",
+        "芯片设计",
+        "芯片"
+      ],
+      "strong_keywords": [],
+      "weak_keywords": [],
+      "seniority_requirement": "",
+      "research_direction_suggestion": "",
+      "recall_tags": [
+        "芯片架构设计",
+        "芯片架构",
+        "微架构设计",
+        "处理器架构",
+        "芯片设计",
+        "芯片"
+      ],
+      "ranking_focus": "优先完全命中人工岗位搜索关键词；多个关键词命中数量越多排序越靠前。",
+      "hr_tip": "",
+      "confidence": "表格导入"
+    }
+  },
+  {
+    "id": "alistar-107",
+    "category": "alistar",
+    "title": "高性能GPU算子生成 Agent 研发（AI for AI）-阿里星",
+    "department": "阿里巴巴控股集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907680055",
+    "description": "1. 基于 LLM 的高性能算子/Kernel 代码生成系统开发：设计并开发异构GPU 高性能Kernel 的自动生成系统，覆盖算子实现、调度优化、内存管理、并行计算等关键模块；结合目标芯片架构特性（如计算单元、存储层次、指令集、通信机制等），持续提升生成代码的性能。\n2. 模型后训练与 Agent 能力增强：构建面向高性能算子生成的数据闭环，设计并沉淀 SFT 数据集、偏好数据与 reward 机制；基于 SFT、RL 等后训练方法对模型进行微调，增强 Agent 对芯片约束、性能瓶颈和优化策略的理解，使其能够更稳定地生成高性能算子代码。\n3. 多智能体协同系统构建：搭建多智能体协作框架，实现需求理解、代码生成、错误修复、版本对比等任务的自动化闭环；研究智能体分工、通信、反思与决策机制，提升系统在复杂场景下的鲁棒性、生成效率与优化质量。\n4. 技术落地与前沿探索：与芯片、编译器和算子团队协作，结合具体硬件特性和业务场景推动技术落地；持续跟踪 LLM 代码生成、模型后训练、多智能体系统与 AI 编译优化等方向的前沿进展，并输出技术文档、专利或论文。",
+    "requirementsText": "1. 计算机科学、电子工程、人工智能或相关领域博士研究生。\n2. 具备大语言模型及 Agent 系统开发经验，熟悉 Prompt Engineering、模型评测、RAG/向量检索及常见 Agent 框架；有代码生成相关项目经验者优先。\n3. 熟悉模型后训练方法，具备 SFT、RLHF/RLAIF、DPO/PPO/GRPO 等一种或多种方法的实践经验，能够围绕业务目标构建训练数据、奖励机制与评测体系。\n4. 熟悉 AI 芯片架构（如 GPU/NPU/TPU），掌握 CUDA、Triton、OpenCL、MLIR、TVM 等至少一种编程或优化技术。\n5. 具备多智能体系统开发经验，熟悉任务规划、工具调用、反思优化、分布式协作等机制；有 AutoGen、LangGraph、MetaGPT 等框架经验者优先。\n6. 扎实的编程能力，熟练使用 Python/C++，具备良好的系统设计与工程落地能力。\n7. 具备编译原理、高性能计算（HPC）、算子开发、自动代码优化或 AI 编译器相关经验者优先。\n8. 有训练数据构建、自动评测、模型迭代闭环建设经验者优先；有芯片软件栈、编译器或算子库实际落地经验者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-145",
+    "search_keywords": [
+      "代码生成",
+      "模型训练agent",
+      "多智能体协同",
+      "多智能体",
+      "多agent",
+      "coding agent",
+      "Agent",
+      "multi agent"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-145",
+      "job_family": "AI Infra/系统",
+      "domain": "大模型推理优化",
+      "sub_domain": "算子/编译/框架适配",
+      "core_problem": "提升大模型推理服务的吞吐、延迟、显存/成本效率、稳定性和工程可扩展性。",
+      "must_have": [
+        "1. 计算机科学、电子工程、人工智能或相关领域博士研究生。",
+        "2. 具备大语言模型及 Agent 系统开发经验，熟悉 Prompt Engineering、模型评测、RAG/向量检索及常见 Agent 框架",
+        "有代码生成相关项目经验者优先。",
+        "3. 熟悉模型后训练方法，具备 SFT、RLHF/RLAIF、DPO/PPO/GRPO 等一种或多种方法的实践经验，能够围绕业务目标构建训练数据、奖励机制与评测体系。",
+        "4. 熟悉 AI 芯片架构（如 GPU/NPU/TPU），掌握 CUDA、Triton、OpenCL、MLIR、TVM 等至少一种编程或优化技术。",
+        "5. 具备多智能体系统开发经验，熟悉任务规划、工具调用、反思优化、分布式协作等机制",
+        "有 AutoGen、LangGraph、MetaGPT 等框架经验者优先。",
+        "6. 扎实的编程能力，熟练使用 Python/C++，具备良好的系统设计与工程落地能力。"
       ],
       "strong_plus": [
-        "红队评测",
-        "越狱/对抗样本",
-        "安全Agent",
-        "内容安全",
-        "运行时防护",
-        "漏洞挖掘",
-        "微架构攻击",
-        "云安全工具经验。"
+        "vLLM/SGLang",
+        "KV Cache",
+        "PagedAttention",
+        "Triton/CUDA",
+        "TensorRT-LLM",
+        "请求调度",
+        "显存优化",
+        "低延迟高吞吐优化经验。"
       ],
       "weak_plus": [
         "Python/C++/Java/Golang",
@@ -10857,9 +10870,11 @@ window.ALISTAR_JOB_LIBRARY = [
         "默认低权重处理。"
       ],
       "broad_keywords": [
-        "大模型",
+        "Python",
+        "C++",
         "LLM",
         "系统",
+        "高性能",
         "AI",
         "Agent"
       ],
@@ -10868,25 +10883,41 @@ window.ALISTAR_JOB_LIBRARY = [
         "论文或工程证据",
         "研究方向只停留在应用Demo",
         "无法支撑核心研发判断。",
-        "只做内容审核/合规理解",
-        "无攻防评测/安全研究证据时降权。"
+        "只有模型应用或Prompt经验",
+        "无系统/性能/分布式/推理训练证据时降权。"
       ],
-      "target_profile": "网络安全、系统安全、AI安全、可信AI、大模型对齐或硬件安全方向的候选人。",
+      "target_profile": "做过LLM Serving、推理引擎、GPU算子、系统性能优化或AI系统论文/项目的硕博候选人。",
       "search_keywords": [
-        "安全 Agent",
-        "agent 训练",
-        "安全智能体",
-        "安全攻防"
+        "代码生成",
+        "模型训练agent",
+        "多智能体协同",
+        "多智能体",
+        "多agent",
+        "coding agent",
+        "Agent",
+        "multi agent"
       ],
       "core_keywords": [
-        "安全 Agent",
-        "agent 训练",
-        "安全智能体",
-        "安全攻防"
+        "代码生成",
+        "模型训练agent",
+        "多智能体协同",
+        "多智能体",
+        "多agent",
+        "coding agent",
+        "Agent",
+        "multi agent"
       ],
       "strong_keywords": [
-        "感知",
-        "安全工具"
+        "OpenCL",
+        "SFT",
+        "DPO",
+        "PPO",
+        "GRPO",
+        "评测体系",
+        "数据闭环",
+        "检索",
+        "编译优化",
+        "代码生成"
       ],
       "weak_keywords": [
         "Python/C++/Java/Golang",
@@ -10898,16 +10929,20 @@ window.ALISTAR_JOB_LIBRARY = [
         "沟通协作等基础或高频通用信号",
         "默认低权重处理。"
       ],
-      "seniority_requirement": "未明确/需人工确认",
-      "research_direction_suggestion": "系统安全、网络安全、AI安全、大模型安全、可信AI、硬件安全",
+      "seniority_requirement": "博士优先/博士强相关",
+      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
       "recall_tags": [
-        "安全 Agent",
-        "agent 训练",
-        "安全智能体",
-        "安全攻防"
+        "代码生成",
+        "模型训练agent",
+        "多智能体协同",
+        "多智能体",
+        "多agent",
+        "coding agent",
+        "Agent",
+        "multi agent"
       ],
-      "ranking_focus": "强看攻防/评测/防御/对齐证据；安全相关论文或比赛项目可高权重。",
-      "hr_tip": "重点追问攻防、评测、防御、对齐或漏洞研究证据，区分安全研究与普通内容治理。",
+      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
+      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
       "confidence": "高"
     }
   },
@@ -12573,215 +12608,6 @@ window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-121",
     "category": "alistar",
-    "title": "产品可搭载的高能效AI芯片创新架构-阿里星",
-    "department": "阿里巴巴控股集团",
-    "location": "北京、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907800046",
-    "description": "1.针对阿里巴巴集团业务发展需求，结合先进半导体/架构/系统技术，设计/评估AI硬件架构，落地芯片产品。\n2.架构设计工作可能包括但不限于：系统/芯片的架构/微架构设计，建模量化评估，算法/应用分析。",
-    "requirementsText": "1.相关领域/方向优秀博士：AI架构，芯片设计。\n2.有扎实的基础架构知识，同时对于某个架构方向有深入的理解：如量化分析，软硬件协同设计，系统，AI硬件，GPU，CPU，互联，存储等。\n3.了解相关领域（包括工业界/学术界）技术前沿与发展趋势。\n4.可以展示出优秀的科研能力，发现/解决问题能力，很好的掌握研究问题的方法学：如论文与科研成果。\n5.有很强的自驱动，快速的学习能力，团队协作能力，open-minded。\n6.高质量会议一作论文2-3；电路顶会：ISSCC/ASSCC/JSSC  架构顶会：ISCA/MICRO/HPCA/ASPLOS\n\n加分项\n1.流片经验优先\n2.名师实验室优先\n3.国奖优先\"",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-025",
-    "search_keywords": [
-      "芯片架构设计",
-      "芯片架构",
-      "微架构设计",
-      "处理器架构",
-      "芯片设计",
-      "芯片"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-025",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1.针对阿里巴巴集团业务发展需求，结合先进半导体/架构/系统技术，设计/评估AI硬件架构，落地芯片产品。\n2.架构设计工作可能包括但不限于：系统/芯片的架构/微架构设计，建模量化评估，算法/应用分析。",
-      "must_have": [
-        "1.相关领域/方向优秀博士：AI架构，芯片设计。",
-        "2.有扎实的基础架构知识，同时对于某个架构方向有深入的理解：如量化分析，软硬件协同设计，系统，AI硬件，GPU，CPU，互联，存储等。",
-        "3.了解相关领域（包括工业界/学术界）技术前沿与发展趋势。",
-        "4.可以展示出优秀的科研能力，发现/解决问题能力，很好的掌握研究问题的方法学：如论文与科研成果。",
-        "5.有很强的自驱动，快速的学习能力，团队协作能力，open-minded。",
-        "6.高质量会议一作论文2-3",
-        "电路顶会：ISSCC/ASSCC/JSSC 架构顶会：ISCA/MICRO/HPCA/ASPLOS",
-        "加分项"
-      ],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": [
-        "芯片架构设计",
-        "芯片架构",
-        "微架构设计",
-        "处理器架构",
-        "芯片设计",
-        "芯片"
-      ],
-      "core_keywords": [
-        "芯片架构设计",
-        "芯片架构",
-        "微架构设计",
-        "处理器架构",
-        "芯片设计",
-        "芯片"
-      ],
-      "strong_keywords": [],
-      "weak_keywords": [],
-      "seniority_requirement": "",
-      "research_direction_suggestion": "",
-      "recall_tags": [
-        "芯片架构设计",
-        "芯片架构",
-        "微架构设计",
-        "处理器架构",
-        "芯片设计",
-        "芯片"
-      ],
-      "ranking_focus": "优先完全命中人工岗位搜索关键词；多个关键词命中数量越多排序越靠前。",
-      "hr_tip": "",
-      "confidence": "表格导入"
-    }
-  },
-  {
-    "id": "alistar-122",
-    "category": "alistar",
-    "title": "高性能GPU算子生成 Agent 研发（AI for AI）-阿里星",
-    "department": "阿里巴巴控股集团",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907680055",
-    "description": "1. 基于 LLM 的高性能算子/Kernel 代码生成系统开发：设计并开发异构GPU 高性能Kernel 的自动生成系统，覆盖算子实现、调度优化、内存管理、并行计算等关键模块；结合目标芯片架构特性（如计算单元、存储层次、指令集、通信机制等），持续提升生成代码的性能。\n2. 模型后训练与 Agent 能力增强：构建面向高性能算子生成的数据闭环，设计并沉淀 SFT 数据集、偏好数据与 reward 机制；基于 SFT、RL 等后训练方法对模型进行微调，增强 Agent 对芯片约束、性能瓶颈和优化策略的理解，使其能够更稳定地生成高性能算子代码。\n3. 多智能体协同系统构建：搭建多智能体协作框架，实现需求理解、代码生成、错误修复、版本对比等任务的自动化闭环；研究智能体分工、通信、反思与决策机制，提升系统在复杂场景下的鲁棒性、生成效率与优化质量。\n4. 技术落地与前沿探索：与芯片、编译器和算子团队协作，结合具体硬件特性和业务场景推动技术落地；持续跟踪 LLM 代码生成、模型后训练、多智能体系统与 AI 编译优化等方向的前沿进展，并输出技术文档、专利或论文。",
-    "requirementsText": "1. 计算机科学、电子工程、人工智能或相关领域博士研究生。\n2. 具备大语言模型及 Agent 系统开发经验，熟悉 Prompt Engineering、模型评测、RAG/向量检索及常见 Agent 框架；有代码生成相关项目经验者优先。\n3. 熟悉模型后训练方法，具备 SFT、RLHF/RLAIF、DPO/PPO/GRPO 等一种或多种方法的实践经验，能够围绕业务目标构建训练数据、奖励机制与评测体系。\n4. 熟悉 AI 芯片架构（如 GPU/NPU/TPU），掌握 CUDA、Triton、OpenCL、MLIR、TVM 等至少一种编程或优化技术。\n5. 具备多智能体系统开发经验，熟悉任务规划、工具调用、反思优化、分布式协作等机制；有 AutoGen、LangGraph、MetaGPT 等框架经验者优先。\n6. 扎实的编程能力，熟练使用 Python/C++，具备良好的系统设计与工程落地能力。\n7. 具备编译原理、高性能计算（HPC）、算子开发、自动代码优化或 AI 编译器相关经验者优先。\n8. 有训练数据构建、自动评测、模型迭代闭环建设经验者优先；有芯片软件栈、编译器或算子库实际落地经验者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-145",
-    "search_keywords": [
-      "代码生成",
-      "模型训练agent",
-      "多智能体协同",
-      "多智能体",
-      "多agent",
-      "coding agent",
-      "Agent",
-      "multi agent"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-145",
-      "job_family": "AI Infra/系统",
-      "domain": "大模型推理优化",
-      "sub_domain": "算子/编译/框架适配",
-      "core_problem": "提升大模型推理服务的吞吐、延迟、显存/成本效率、稳定性和工程可扩展性。",
-      "must_have": [
-        "1. 计算机科学、电子工程、人工智能或相关领域博士研究生。",
-        "2. 具备大语言模型及 Agent 系统开发经验，熟悉 Prompt Engineering、模型评测、RAG/向量检索及常见 Agent 框架",
-        "有代码生成相关项目经验者优先。",
-        "3. 熟悉模型后训练方法，具备 SFT、RLHF/RLAIF、DPO/PPO/GRPO 等一种或多种方法的实践经验，能够围绕业务目标构建训练数据、奖励机制与评测体系。",
-        "4. 熟悉 AI 芯片架构（如 GPU/NPU/TPU），掌握 CUDA、Triton、OpenCL、MLIR、TVM 等至少一种编程或优化技术。",
-        "5. 具备多智能体系统开发经验，熟悉任务规划、工具调用、反思优化、分布式协作等机制",
-        "有 AutoGen、LangGraph、MetaGPT 等框架经验者优先。",
-        "6. 扎实的编程能力，熟练使用 Python/C++，具备良好的系统设计与工程落地能力。"
-      ],
-      "strong_plus": [
-        "vLLM/SGLang",
-        "KV Cache",
-        "PagedAttention",
-        "Triton/CUDA",
-        "TensorRT-LLM",
-        "请求调度",
-        "显存优化",
-        "低延迟高吞吐优化经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "Python",
-        "C++",
-        "LLM",
-        "系统",
-        "高性能",
-        "AI",
-        "Agent"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有模型应用或Prompt经验",
-        "无系统/性能/分布式/推理训练证据时降权。"
-      ],
-      "target_profile": "做过LLM Serving、推理引擎、GPU算子、系统性能优化或AI系统论文/项目的硕博候选人。",
-      "search_keywords": [
-        "代码生成",
-        "模型训练agent",
-        "多智能体协同",
-        "多智能体",
-        "多agent",
-        "coding agent",
-        "Agent",
-        "multi agent"
-      ],
-      "core_keywords": [
-        "代码生成",
-        "模型训练agent",
-        "多智能体协同",
-        "多智能体",
-        "多agent",
-        "coding agent",
-        "Agent",
-        "multi agent"
-      ],
-      "strong_keywords": [
-        "OpenCL",
-        "SFT",
-        "DPO",
-        "PPO",
-        "GRPO",
-        "评测体系",
-        "数据闭环",
-        "检索",
-        "编译优化",
-        "代码生成"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "博士优先/博士强相关",
-      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
-      "recall_tags": [
-        "代码生成",
-        "模型训练agent",
-        "多智能体协同",
-        "多智能体",
-        "多agent",
-        "coding agent",
-        "Agent",
-        "multi agent"
-      ],
-      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
-      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-123",
-    "category": "alistar",
     "title": "面向大模型推理的通用后端运行时系统研究-阿里星/A Star",
     "department": "阿里云",
     "location": "北京",
@@ -12897,7 +12723,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-124",
+    "id": "alistar-122",
     "category": "alistar",
     "title": "面向训推一体与特定硬件无关的通信优化-阿里星/A Star",
     "department": "阿里云",
@@ -13020,7 +12846,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-125",
+    "id": "alistar-123",
     "category": "alistar",
     "title": "音视频数字人多模态大模型算法研究和应用-阿里星/A Star",
     "department": "阿里云",
@@ -13204,7 +13030,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-126",
+    "id": "alistar-124",
     "category": "alistar",
     "title": "AI Agent基础设施&系统架构-阿里星/A Star",
     "department": "阿里云",
@@ -13327,7 +13153,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-127",
+    "id": "alistar-125",
     "category": "alistar",
     "title": "下一代大模型智能体框架与数据技术-阿里星",
     "department": "Token Foundry",
@@ -13467,7 +13293,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-128",
+    "id": "alistar-126",
     "category": "alistar",
     "title": "面向Agent场景Runtime与操作系统研究-阿里星/A Star",
     "department": "阿里云",
@@ -13596,7 +13422,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-129",
+    "id": "alistar-127",
     "category": "alistar",
     "title": "大模型推理阶段Prefill-Attention-FFN分离场景下类GPU硬件架构-算法优化机制研究-阿里星/A Star",
     "department": "阿里云",
@@ -13710,7 +13536,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-130",
+    "id": "alistar-128",
     "category": "alistar",
     "title": "面向复杂任务的自主智能体规划推理与协作关键技术-阿里星/A Star",
     "department": "阿里云",
@@ -13847,7 +13673,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-131",
+    "id": "alistar-129",
     "category": "alistar",
     "title": "AI 训练推理场景下万亿文件规模高性能并行文件存储系统的体系结构设计与关键机制研究-阿里星/A Star",
     "department": "阿里云",
@@ -13986,7 +13812,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-132",
+    "id": "alistar-130",
     "category": "alistar",
     "title": "面向AI的高性能分布式存储系统研发-阿里星/A Star",
     "department": "阿里云",
@@ -14104,7 +13930,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-133",
+    "id": "alistar-131",
     "category": "alistar",
     "title": "大模型推理优化-阿里星/A Star",
     "department": "阿里云",
@@ -14236,7 +14062,130 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-134",
+    "id": "alistar-132",
+    "category": "alistar",
+    "title": "基于 AI-native 的智算稳定性研发创新-阿里星/A Star",
+    "department": "阿里云",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820109",
+    "description": "【岗位背景】\n随着AI服务的增加、算力集群从“千卡”向“万卡”演进，算力骨干网的规模也在变大变得更为复杂。网络稳定性已经成为 AI 发展的核心瓶颈。本团队意在利用 AI 大模型技术针对基础设施网络稳定性运维进行智能运维系统的建设，包括 AI-based 网络变更方案生成检测，AI-based 网络配置风险预防，以及 AI-based 故障日志关联分析做到无人值守智能化根因定位等。\n\n【岗位职责】\n您将作为核心骨干，深度参与以下一个或多个方向的研究与落地：\n1、网络变更过程的 AI-native 异常/性能拖慢等根因定位问题；\n2、智算网络在训练/推理过程的被动监控以及 AI 分析；\n3、智算网络主动探测包括 pingmesh 等机制的异常检测进行 AI 分析。",
+    "requirementsText": "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位；\n2、在顶级会议或期刊（如SIGCOMM, NSDI 等）以第一作者身份发表过高水平论文者优先。\n\n核心技能（满足其一即可，多项兼备者极佳）\n1、网络协议栈深度理解：精通TCP/IP、RDMA/RoCEv2、InfiniBand协议细节，对拥塞控制（DCQCN, HPCC, TIMELY等）有深入研究；\n2、对网络配置、BGP 以及基础的网络运维有深入理解；\n3、面向 AI 的微调后训练等经验。\n\n综合素质\n1、对AI基础设施领域充满热情，具备敏锐的技术洞察力，能够独立思考并定义前沿问题；\n2、具备优秀的代码能力（C/C++/Go/Python），不仅限于理论研究，更渴望将算法落地到实际产品中；\n3、良好的沟通协作能力，能够跨团队（算法、芯片、系统、业务）推动复杂项目进展。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-024",
+    "search_keywords": [
+      "智算网络",
+      "网络",
+      "网络故障检测",
+      "网络协议栈",
+      "网络运维",
+      "网络稳定性",
+      "智能运维"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-024",
+      "job_family": "AI Infra/系统",
+      "domain": "AI基础设施平台",
+      "sub_domain": "系统架构/稳定性/资源优化",
+      "core_problem": "构建面向AI训练、推理和智能体运行的基础设施平台，提升资源调度、稳定性、弹性和成本效率。",
+      "must_have": [
+        "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位",
+        "2、在顶级会议或期刊（如SIGCOMM, NSDI 等）以第一作者身份发表过高水平论文者优先。",
+        "核心技能（满足其一即可，多项兼备者极佳）",
+        "1、网络协议栈深度理解：精通TCP/IP、RDMA/RoCEv2、InfiniBand协议细节，对拥塞控制（DCQCN, HPCC, TIMELY等）有深入研究",
+        "2、对网络配置、BGP 以及基础的网络运维有深入理解",
+        "3、面向 AI 的微调后训练等经验。",
+        "综合素质",
+        "1、对AI基础设施领域充满热情，具备敏锐的技术洞察力，能够独立思考并定义前沿问题"
+      ],
+      "strong_plus": [
+        "Kubernetes",
+        "调度器",
+        "异构计算",
+        "资源管理",
+        "稳定性治理",
+        "AI平台",
+        "Agent Runtime或云原生基础设施经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "Python",
+        "C++",
+        "大模型",
+        "算法",
+        "系统",
+        "计算机网络",
+        "AI"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只有模型应用或Prompt经验",
+        "无系统/性能/分布式/推理训练证据时降权。"
+      ],
+      "target_profile": "做过云原生、分布式系统、AI平台、资源调度、稳定性或Infra工程/研究的候选人。",
+      "search_keywords": [
+        "智算网络",
+        "网络",
+        "网络故障检测",
+        "网络协议栈",
+        "网络运维",
+        "网络稳定性",
+        "智能运维"
+      ],
+      "core_keywords": [
+        "智算网络",
+        "网络",
+        "网络故障检测",
+        "网络协议栈",
+        "网络运维",
+        "网络稳定性",
+        "智能运维"
+      ],
+      "strong_keywords": [
+        "C/C++",
+        "稳定性",
+        "控制"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "博士优先/博士强相关",
+      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
+      "recall_tags": [
+        "智算网络",
+        "网络",
+        "网络故障检测",
+        "网络协议栈",
+        "网络运维",
+        "网络稳定性",
+        "智能运维"
+      ],
+      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
+      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
+      "confidence": "高"
+    }
+  },
+  {
+    "id": "alistar-133",
     "category": "alistar",
     "title": "ATH MaaS大模型&智能体前沿算法研究-阿里星/A Star",
     "department": "阿里云",
@@ -14371,7 +14320,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-135",
+    "id": "alistar-134",
     "category": "alistar",
     "title": "MaaS 多模态AI搜索算法研究-阿里星/A Star",
     "department": "阿里云",
@@ -14513,6 +14462,122 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "ranking_focus": "强看检索链路、RAG系统、向量索引、查询理解或Answer Engine证据。",
       "hr_tip": "确认候选人是否做过RAG、向量检索、召回排序、查询理解或搜索系统。",
+      "confidence": "高"
+    }
+  },
+  {
+    "id": "alistar-135",
+    "category": "alistar",
+    "title": "Agentic AI infra 内存无感超分技术研究-阿里星/A Star",
+    "department": "阿里云",
+    "location": "杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907720112",
+    "description": "AI Agents 算力需求爆发式增长，全球 CPU 与内存供给持续紧张，内存价格飙升且短期内没有缓和迹象。我们正在研究下一代内存超分（Memory Overcommit）技术，目标是在用户无感知的前提下大幅提升云计算内存利用效率，降低 Agentic AI 算力的触达成本。该岗位依托阿里云神龙虚拟化架构与百万级服务器规模的生产环境，研究成果将直接落地于核心计算产品。\n你的工作将聚焦以下方向：\n1. 内存超分核心机制研究：面向 Agentic AI 负载特征，设计高效、低开销的内存超分方案，实现主机侧内存资源的透明复用与动态调度，保障租户性能 SLO。\n2. 分层内存管理（TMM）与冷热分级：研究基于 DRAM + CXL 扩展内存 + 持久化介质的多层内存架构，设计智能页面迁移与放置策略，在容量与性能之间取得最优平衡。\n3. AI 驱动的资源智能分配：利用机器学习方法建模虚拟机 / 容器的内存访问模式，实现工作集大小预测、超分比例自适应调整与异常规避，减少 OOM 与性能抖动。\n4. 轻量级隔离与安全回收：研究基于轻量级虚拟化（MicroVM / Sandbox）的内存隔离边界与快速回收机制，在高密部署下兼顾资源效率与多租户安全隔离。\n5. 新硬件能力探索与集成：跟踪并利用 CXL 3.x 内存池化、CPU 集成内存处理加速器（DSA/IAX）、新代际 Linux 内核内存管理特性（MGLRU、DAMON 等）、硬件性能采样（PEBS/IBS）等前沿技术，将其转化为超分场景的工程能力。",
+    "requirementsText": "1. 计算机体系结构、操作系统、虚拟化、高性能计算等相关方向在读博士或博士应届毕业生。\n2. 内存与系统底层：深入理解操作系统内存管理子系统（页表、TLB、NUMA 拓扑、页回收/compaction、KSM、Balloon、virtio-mem 等），有内核态开发或性能调优经验。\n3. 编程能力：精通 C/C++ 系统编程，熟悉 Linux 内核开发流程；熟练使用 perf / eBPF / ftrace 等工具进行内存与性能分析。\n4. 研究能力：在操作系统、体系结构或虚拟化领域顶会（OSDI / SOSP / ASPLOS / ATC / EuroSys / ISCA / MICRO / VEE 等）发表过论文，或在 Linux 内核 / QEMU-KVM 等核心社区有实质性贡献。\n5. 加分项（满足任一即可）：\n- 有 CXL / 分层内存 / 远端内存（远程内存池化）相关研究或开发经验；\n- 有 KVM / QEMU / Hypervisor 内存虚拟化（EPT / NPT / Shadow Page Table）实战经验；\n- 有机器学习建模系统行为（资源预测、负载画像、异常检测）的研究经验；\n- 有大规模生产环境的内存超分或资源管理系统落地经验；\n- 了解 Agentic AI / LLM 推理框架的内存访问特征。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-028",
+    "search_keywords": [
+      "内存",
+      "内存超分",
+      "内存管理",
+      "CXL"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-028",
+      "job_family": "AI Infra/系统",
+      "domain": "AI基础设施平台",
+      "sub_domain": "系统架构/稳定性/资源优化",
+      "core_problem": "构建面向AI训练、推理和智能体运行的基础设施平台，提升资源调度、稳定性、弹性和成本效率。",
+      "must_have": [
+        "1. 计算机体系结构、操作系统、虚拟化、高性能计算等相关方向在读博士或博士应届毕业生。",
+        "2. 内存与系统底层：深入理解操作系统内存管理子系统（页表、TLB、NUMA 拓扑、页回收/compaction、KSM、Balloon、virtio-mem 等），有内核态开发或性能调优经验。",
+        "3. 编程能力：精通 C/C++ 系统编程，熟悉 Linux 内核开发流程",
+        "熟练使用 perf / eBPF / ftrace 等工具进行内存与性能分析。",
+        "4. 研究能力：在操作系统、体系结构或虚拟化领域顶会（OSDI / SOSP / ASPLOS / ATC / EuroSys / ISCA / MICRO / VEE 等）发表过论文，或在 Linux 内核 / QEMU-KVM 等核心社区有实质性贡献。",
+        "5. 加分项（满足任一即可）：",
+        "有 CXL / 分层内存 / 远端内存（远程内存池化）相关研究或开发经验",
+        "有 KVM / QEMU / Hypervisor 内存虚拟化（EPT / NPT / Shadow Page Table）实战经验"
+      ],
+      "strong_plus": [
+        "Kubernetes",
+        "调度器",
+        "异构计算",
+        "资源管理",
+        "稳定性治理",
+        "AI平台",
+        "Agent Runtime或云原生基础设施经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "C++",
+        "Linux",
+        "机器学习",
+        "LLM",
+        "系统",
+        "工程能力",
+        "操作系统",
+        "高性能",
+        "AI",
+        "Agent"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只有模型应用或Prompt经验",
+        "无系统/性能/分布式/推理训练证据时降权。"
+      ],
+      "target_profile": "做过云原生、分布式系统、AI平台、资源调度、稳定性或Infra工程/研究的候选人。",
+      "search_keywords": [
+        "内存",
+        "内存超分",
+        "内存管理",
+        "CXL"
+      ],
+      "core_keywords": [
+        "内存",
+        "内存超分",
+        "内存管理",
+        "CXL"
+      ],
+      "strong_keywords": [
+        "C/C++",
+        "容器",
+        "感知",
+        "内存访问",
+        "性能分析"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "2027届应届，学历以JD为准",
+      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
+      "recall_tags": [
+        "内存",
+        "内存超分",
+        "内存管理",
+        "CXL"
+      ],
+      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
+      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
       "confidence": "高"
     }
   },
@@ -14666,122 +14731,6 @@ window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-137",
     "category": "alistar",
-    "title": "Agentic AI infra 内存无感超分技术研究-阿里星/A Star",
-    "department": "阿里云",
-    "location": "杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907720112",
-    "description": "AI Agents 算力需求爆发式增长，全球 CPU 与内存供给持续紧张，内存价格飙升且短期内没有缓和迹象。我们正在研究下一代内存超分（Memory Overcommit）技术，目标是在用户无感知的前提下大幅提升云计算内存利用效率，降低 Agentic AI 算力的触达成本。该岗位依托阿里云神龙虚拟化架构与百万级服务器规模的生产环境，研究成果将直接落地于核心计算产品。\n你的工作将聚焦以下方向：\n1. 内存超分核心机制研究：面向 Agentic AI 负载特征，设计高效、低开销的内存超分方案，实现主机侧内存资源的透明复用与动态调度，保障租户性能 SLO。\n2. 分层内存管理（TMM）与冷热分级：研究基于 DRAM + CXL 扩展内存 + 持久化介质的多层内存架构，设计智能页面迁移与放置策略，在容量与性能之间取得最优平衡。\n3. AI 驱动的资源智能分配：利用机器学习方法建模虚拟机 / 容器的内存访问模式，实现工作集大小预测、超分比例自适应调整与异常规避，减少 OOM 与性能抖动。\n4. 轻量级隔离与安全回收：研究基于轻量级虚拟化（MicroVM / Sandbox）的内存隔离边界与快速回收机制，在高密部署下兼顾资源效率与多租户安全隔离。\n5. 新硬件能力探索与集成：跟踪并利用 CXL 3.x 内存池化、CPU 集成内存处理加速器（DSA/IAX）、新代际 Linux 内核内存管理特性（MGLRU、DAMON 等）、硬件性能采样（PEBS/IBS）等前沿技术，将其转化为超分场景的工程能力。",
-    "requirementsText": "1. 计算机体系结构、操作系统、虚拟化、高性能计算等相关方向在读博士或博士应届毕业生。\n2. 内存与系统底层：深入理解操作系统内存管理子系统（页表、TLB、NUMA 拓扑、页回收/compaction、KSM、Balloon、virtio-mem 等），有内核态开发或性能调优经验。\n3. 编程能力：精通 C/C++ 系统编程，熟悉 Linux 内核开发流程；熟练使用 perf / eBPF / ftrace 等工具进行内存与性能分析。\n4. 研究能力：在操作系统、体系结构或虚拟化领域顶会（OSDI / SOSP / ASPLOS / ATC / EuroSys / ISCA / MICRO / VEE 等）发表过论文，或在 Linux 内核 / QEMU-KVM 等核心社区有实质性贡献。\n5. 加分项（满足任一即可）：\n- 有 CXL / 分层内存 / 远端内存（远程内存池化）相关研究或开发经验；\n- 有 KVM / QEMU / Hypervisor 内存虚拟化（EPT / NPT / Shadow Page Table）实战经验；\n- 有机器学习建模系统行为（资源预测、负载画像、异常检测）的研究经验；\n- 有大规模生产环境的内存超分或资源管理系统落地经验；\n- 了解 Agentic AI / LLM 推理框架的内存访问特征。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-028",
-    "search_keywords": [
-      "内存",
-      "内存超分",
-      "内存管理",
-      "CXL"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-028",
-      "job_family": "AI Infra/系统",
-      "domain": "AI基础设施平台",
-      "sub_domain": "系统架构/稳定性/资源优化",
-      "core_problem": "构建面向AI训练、推理和智能体运行的基础设施平台，提升资源调度、稳定性、弹性和成本效率。",
-      "must_have": [
-        "1. 计算机体系结构、操作系统、虚拟化、高性能计算等相关方向在读博士或博士应届毕业生。",
-        "2. 内存与系统底层：深入理解操作系统内存管理子系统（页表、TLB、NUMA 拓扑、页回收/compaction、KSM、Balloon、virtio-mem 等），有内核态开发或性能调优经验。",
-        "3. 编程能力：精通 C/C++ 系统编程，熟悉 Linux 内核开发流程",
-        "熟练使用 perf / eBPF / ftrace 等工具进行内存与性能分析。",
-        "4. 研究能力：在操作系统、体系结构或虚拟化领域顶会（OSDI / SOSP / ASPLOS / ATC / EuroSys / ISCA / MICRO / VEE 等）发表过论文，或在 Linux 内核 / QEMU-KVM 等核心社区有实质性贡献。",
-        "5. 加分项（满足任一即可）：",
-        "有 CXL / 分层内存 / 远端内存（远程内存池化）相关研究或开发经验",
-        "有 KVM / QEMU / Hypervisor 内存虚拟化（EPT / NPT / Shadow Page Table）实战经验"
-      ],
-      "strong_plus": [
-        "Kubernetes",
-        "调度器",
-        "异构计算",
-        "资源管理",
-        "稳定性治理",
-        "AI平台",
-        "Agent Runtime或云原生基础设施经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "C++",
-        "Linux",
-        "机器学习",
-        "LLM",
-        "系统",
-        "工程能力",
-        "操作系统",
-        "高性能",
-        "AI",
-        "Agent"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有模型应用或Prompt经验",
-        "无系统/性能/分布式/推理训练证据时降权。"
-      ],
-      "target_profile": "做过云原生、分布式系统、AI平台、资源调度、稳定性或Infra工程/研究的候选人。",
-      "search_keywords": [
-        "内存",
-        "内存超分",
-        "内存管理",
-        "CXL"
-      ],
-      "core_keywords": [
-        "内存",
-        "内存超分",
-        "内存管理",
-        "CXL"
-      ],
-      "strong_keywords": [
-        "C/C++",
-        "容器",
-        "感知",
-        "内存访问",
-        "性能分析"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "2027届应届，学历以JD为准",
-      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
-      "recall_tags": [
-        "内存",
-        "内存超分",
-        "内存管理",
-        "CXL"
-      ],
-      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
-      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-138",
-    "category": "alistar",
     "title": "阿里云终端智能计算Agentic算法-阿里星/A Star",
     "department": "阿里云",
     "location": "杭州、上海",
@@ -14915,7 +14864,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-139",
+    "id": "alistar-138",
     "category": "alistar",
     "title": "AI Infra高性能通信与传输系统-阿里星/A Star",
     "department": "阿里云",
@@ -15052,7 +15001,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-140",
+    "id": "alistar-139",
     "category": "alistar",
     "title": "智算网卡与协议栈竞争力构建-阿里星/A Star",
     "department": "阿里云",
@@ -15176,50 +15125,55 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-141",
+    "id": "alistar-140",
     "category": "alistar",
-    "title": "基于 AI-native 的智算稳定性研发创新-阿里星/A Star",
-    "department": "阿里云",
+    "title": "基于行为奖励与快慢脑协同的实时AI导购研究-阿里星/T-Star",
+    "department": "淘天集团",
     "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820109",
-    "description": "【岗位背景】\n随着AI服务的增加、算力集群从“千卡”向“万卡”演进，算力骨干网的规模也在变大变得更为复杂。网络稳定性已经成为 AI 发展的核心瓶颈。本团队意在利用 AI 大模型技术针对基础设施网络稳定性运维进行智能运维系统的建设，包括 AI-based 网络变更方案生成检测，AI-based 网络配置风险预防，以及 AI-based 故障日志关联分析做到无人值守智能化根因定位等。\n\n【岗位职责】\n您将作为核心骨干，深度参与以下一个或多个方向的研究与落地：\n1、网络变更过程的 AI-native 异常/性能拖慢等根因定位问题；\n2、智算网络在训练/推理过程的被动监控以及 AI 分析；\n3、智算网络主动探测包括 pingmesh 等机制的异常检测进行 AI 分析。",
-    "requirementsText": "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位；\n2、在顶级会议或期刊（如SIGCOMM, NSDI 等）以第一作者身份发表过高水平论文者优先。\n\n核心技能（满足其一即可，多项兼备者极佳）\n1、网络协议栈深度理解：精通TCP/IP、RDMA/RoCEv2、InfiniBand协议细节，对拥塞控制（DCQCN, HPCC, TIMELY等）有深入研究；\n2、对网络配置、BGP 以及基础的网络运维有深入理解；\n3、面向 AI 的微调后训练等经验。\n\n综合素质\n1、对AI基础设施领域充满热情，具备敏锐的技术洞察力，能够独立思考并定义前沿问题；\n2、具备优秀的代码能力（C/C++/Go/Python），不仅限于理论研究，更渴望将算法落地到实际产品中；\n3、良好的沟通协作能力，能够跨团队（算法、芯片、系统、业务）推动复杂项目进展。",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907740109",
+    "description": "淘天集团AI助手算法团队承担了淘天集团新一代AI原生购物助手的开发工作，通过统一的All in One大模型解决淘宝在不同场景的用户需求。团队在大模型强化学习、Agentic训练、原生多模态训练以及Agent框架设计有着行业领先的认知和实际落地效果。\n在这里，你将\n● 全链路模型训练\n    ○ 深度参与购物场景统一大模型的完整训练周期：预训练退火 → SFT → RLVR → RLHF\n    ○ 你碰到的不是一个冻结的API，而是一个你可以从底层塑造的模型\n● Agent框架设计——让大模型真正\"\"能办事\"\"\n    ○ 设计大模型原生的Agent架构，通过Skill编排、Sub-agent协作等机制，将淘系搜索、推荐、交易、客服等全域能力注入AI助手\n    ○ 让模型不只是\"\"能聊\"\"，而是\"\"能买、能比、能帮你做决定\"\"\n●  奖励信号发现——在真实场景中定义\"\"什么是好\"\"\n    ○ 基于淘天数亿用户的真实交互行为，挖掘和设计最能提升用户体验的奖励信号\n    ○ 用RL的方式让模型在电商场景下持续逼近SOTA体验\n● 无人区探索——做业界还没有答案的事\n    ○ 异步实时Agent：用户不等你，你怎么让Agent在真实时间约束下又快又好？\n    ○ 原生Any-to-Any多模态：文字、图片、视频、商品卡片……如何让模型原生理解和生成一切？\n    ○ 这些方向没有教科书，我们需要你带着自己的判断力走进去\n为什么值得来\n你会加入这样一个团队：\n● “师兄机制”：为你配置经验丰富的师兄，亲自带你熟悉环境，在进行实习期间进行全方位的指导。\n● 灵活开放的技术氛围：根据你的实际研究内容，结合你感兴趣的方向，量身定制匹配的研究方向。\n● 浓厚的技术氛围：定期记性技术分享，保持对前沿技术的敏感度。\n● 充足的算力资源：学校的卡不够用？在这里不存在的，会有足够的资源支持实验迭代。\n收获在学校无法获得的宝贵经验：\n● 场景稀缺性：数亿级日活用户 × 极其丰富的电商意图 × 可闭环的商业验证\n● 技术纵深：从模型训练到Agent系统到产品体验，你可以一竿子插到底，而不是只做流水线上的一环\n● 前沿密度：团队在RLVR、Agentic Training、多模态等前沿研究方向持续投入\n● 影响力：你训练的模型、设计的Agent，会直接服务于淘宝用户\n我们期待你\n● 在大模型预训练/SFT/RLHF/强化学习中有扎实的实战经验。对Agent/Tool-use/Multi-agent系统有深入理解。\n● 有科研成果或在顶会发表过自己的论文，或在Github有自己的维护的小项目。\n● 有自己的想法想要落地、通过实际场景来证明自己的科研价值。\n\n职位描述：\n课题1：Action-to-Rewards（行为即奖励）：利用淘宝海量用户真实行为构建可无限扩展的奖励信号，解决传统奖励模型无法规模化难题。通过将行为数据融入强化学习链路，驱动模型从“做对”进化至“做好”，开辟全新的Scaling维度。\n课题2：Duet快-慢脑协同架构：构建统一音频前端与快慢双脑协同机制，实现感知、即时应答与深度推理的并行处理。通过“边说边想”消除对话延迟与阻塞，打造低延迟、主动介入的实时多模态智能交互体验。\"",
+    "requirementsText": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++），熟悉常用算法与数据结构。\n2. 深入理解强化学习（RLHF/RLAIF）理论或大模型推理加速机制，在NLP、多模态交互、搜推广系统中至少一个领域有深厚积累。\n3. 熟练掌握PyTorch/TensorFlow等深度学习框架，有大规模分布式训练、模型微调或高性能推理引擎开发经验者优先。\n4. 对AI Agent前沿技术充满好奇心，重点关注大模型Scaling Law、实时多模态交互、端云协同及强化学习在推荐/导购场景的应用。\n5. 在顶级会议（如NeurIPS, ICML, ACL, CVPR等）发表过相关论文，或有复现SOTA模型及开源项目贡献者优先。\n6. 具备极强的工程落地与问题拆解能力，能从海量用户行为数据中挖掘价值，并通过数据分析优化模型奖励机制或降低交互延迟。\n7. 良好的跨团队协作能力，能与后端工程师、产品经理高效配合，将“行为即奖励”或“快慢脑”技术方案转化为真实的业务增长指标。\n8. 对电商导购场景有敏锐洞察，愿意深入探索用户意图识别、多轮对话管理及商业转化逻辑。\n【加分项】\n1. 针对课题1：有基于真实用户反馈构建Reward Model的经验，或在大规模RLHF/在线强化学习链路中有实际落地成果。\n2. 针对课题2：有流式音频处理、低延迟LLM推理优化（如Speculative Decoding）、或多模态端到端模型（Audio-Text）研发经验。\n3. 拥有海量时序行为数据处理经验，或在Kaggle/天池等竞赛中针对推荐系统、对话智能体赛道获得优异成绩。\"",
     "required": [],
     "bonus": [],
-    "profile_id": "JOB-024",
+    "profile_id": "JOB-160",
     "search_keywords": [
-      "智算网络",
-      "网络",
-      "网络故障检测",
-      "网络协议栈",
-      "网络运维",
-      "网络稳定性",
-      "智能运维"
+      "强化学习",
+      "RL",
+      "模型训练",
+      "Agent框架",
+      "Agent架构",
+      "AI Agent",
+      "智能体",
+      "Agent训练",
+      "Reward Model",
+      "奖励模型",
+      "时序数据处理"
     ],
     "job_profile": {
-      "profile_id": "JOB-024",
-      "job_family": "AI Infra/系统",
-      "domain": "AI基础设施平台",
-      "sub_domain": "系统架构/稳定性/资源优化",
-      "core_problem": "构建面向AI训练、推理和智能体运行的基础设施平台，提升资源调度、稳定性、弹性和成本效率。",
+      "profile_id": "JOB-160",
+      "job_family": "搜广推/商业AI",
+      "domain": "推荐与导购Agent",
+      "sub_domain": "推荐/导购/用户理解",
+      "core_problem": "用大模型/智能体重构搜索、推荐、广告、导购、定价、供应链和用户理解等商业决策链路。",
       "must_have": [
-        "1、获得计算机科学与技术、计算机网络、通信工程、电子工程等相关专业博士学位",
-        "2、在顶级会议或期刊（如SIGCOMM, NSDI 等）以第一作者身份发表过高水平论文者优先。",
-        "核心技能（满足其一即可，多项兼备者极佳）",
-        "1、网络协议栈深度理解：精通TCP/IP、RDMA/RoCEv2、InfiniBand协议细节，对拥塞控制（DCQCN, HPCC, TIMELY等）有深入研究",
-        "2、对网络配置、BGP 以及基础的网络运维有深入理解",
-        "3、面向 AI 的微调后训练等经验。",
-        "综合素质",
-        "1、对AI基础设施领域充满热情，具备敏锐的技术洞察力，能够独立思考并定义前沿问题"
+        "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++），熟悉常用算法与数据结构。",
+        "2. 深入理解强化学习（RLHF/RLAIF）理论或大模型推理加速机制，在NLP、多模态交互、搜推广系统中至少一个领域有深厚积累。",
+        "3. 熟练掌握PyTorch/TensorFlow等深度学习框架，有大规模分布式训练、模型微调或高性能推理引擎开发经验者优先。",
+        "4. 对AI Agent前沿技术充满好奇心，重点关注大模型Scaling Law、实时多模态交互、端云协同及强化学习在推荐/导购场景的应用。",
+        "5. 在顶级会议（如NeurIPS, ICML, ACL, CVPR等）发表过相关论文，或有复现SOTA模型及开源项目贡献者优先。",
+        "6. 具备极强的工程落地与问题拆解能力，能从海量用户行为数据中挖掘价值，并通过数据分析优化模型奖励机制或降低交互延迟。",
+        "7. 良好的跨团队协作能力，能与后端工程师、产品经理高效配合，将“行为即奖励”或“快慢脑”技术方案转化为真实的业务增长指标。",
+        "8. 对电商导购场景有敏锐洞察，愿意深入探索用户意图识别、多轮对话管理及商业转化逻辑。"
       ],
       "strong_plus": [
-        "Kubernetes",
-        "调度器",
-        "异构计算",
-        "资源管理",
-        "稳定性治理",
-        "AI平台",
-        "Agent Runtime或云原生基础设施经验。"
+        "电商搜索",
+        "推荐大模型",
+        "广告增效",
+        "AI导购",
+        "用户理解",
+        "商品理解",
+        "多语言电商",
+        "定价/供应链/物流智能体经验。"
       ],
       "weak_plus": [
         "Python/C++/Java/Golang",
@@ -15234,11 +15188,163 @@ window.ALISTAR_JOB_LIBRARY = [
       "broad_keywords": [
         "Python",
         "C++",
+        "PyTorch",
+        "TensorFlow",
+        "机器学习",
+        "深度学习",
         "大模型",
+        "LLM",
+        "多模态",
         "算法",
         "系统",
+        "数据结构",
+        "高性能",
+        "AI",
+        "Agent"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只有泛化大模型研究",
+        "无搜索/推荐/广告/电商业务建模证据时降权。"
+      ],
+      "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
+      "search_keywords": [
+        "强化学习",
+        "RL",
+        "模型训练",
+        "Agent框架",
+        "Agent架构",
+        "AI Agent",
+        "智能体",
+        "Agent训练",
+        "Reward Model",
+        "奖励模型",
+        "时序数据处理"
+      ],
+      "core_keywords": [
+        "强化学习",
+        "RL",
+        "模型训练",
+        "Agent框架",
+        "Agent架构",
+        "AI Agent",
+        "智能体",
+        "Agent训练",
+        "Reward Model",
+        "奖励模型",
+        "时序数据处理"
+      ],
+      "strong_keywords": [
+        "低延迟",
+        "Reward Model",
+        "SFT",
+        "感知",
+        "NLP",
+        "CV",
+        "视频",
+        "音频"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
+      "research_direction_suggestion": "搜索推荐广告、用户理解、商品理解、电商/商业智能体、定价/供应链决策",
+      "recall_tags": [
+        "强化学习",
+        "RL",
+        "模型训练",
+        "Agent框架",
+        "Agent架构",
+        "AI Agent",
+        "智能体",
+        "Agent训练",
+        "Reward Model",
+        "奖励模型",
+        "时序数据处理"
+      ],
+      "ranking_focus": "强看搜广推链路、排序/召回/用户理解/业务指标优化证据。",
+      "hr_tip": "确认候选人是否理解搜索/推荐/广告链路和业务指标，避免只按大模型泛化匹配。",
+      "confidence": "高"
+    }
+  },
+  {
+    "id": "alistar-141",
+    "category": "alistar",
+    "title": "Agentic RL 训练基础设施的关键技术研究-阿里星/A Star",
+    "department": "阿里云",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907740110",
+    "description": "1. 设计和优化面向 Agent 训练的分布式 RL 训练系统，包括训练-推理统一调度、大规模 rollout 生成加速、长轨迹高效训练、异步奖励计算流水线等；基于 verl/Slime/RLInf 等开源框架进行系统级创新，结合 SGLang/vLLM 等推理引擎提升 Agentic RL 训练效率；\n2. 探索面向多步 Agent 任务的 RL 算法创新，包括长程信用分配方法、过程奖励建模、探索策略设计、GRPO/PPO 在 Agent 场景的改进、多智能体 RL 训练方法等；结合算法创新提升 Agent 的任务完成率、泛化能力和安全性；\n3. 构建可大规模并行的 Agent 训练环境基础设施，支持代码执行、Web 交互、API 调用等多种环境类型；设计和实现面向 Agentic RL 的评测体系和 benchmark 工具；\n4. 将 Agentic RL 训练的核心技术沉淀为 PAI 的产品能力，支持云上客户训练和部署领域 Agent，形成端到端的 Agent 训练平台；\n5. 有一定的技术前瞻性，可以对平台演进中的技术需求（如多智能体协作训练、Agent 安全对齐等）进行预研和设计，满足 AI 基础设施快速发展过程中各项业务场景的客户需求。",
+    "requirementsText": "1. 具备扎实的计算机基础知识和分布式系统研发经验，Python/C++ 编程能力强，并对操作系统原理、计算机网络等系统领域知识有较好的理解和项目应用经验。\n2. 对强化学习理论和算法有深入理解，熟悉 PPO、GRPO、REINFORCE 等算法，了解 LLM 训练和微调的基本流程（SFT、RLHF、DPO、OPD 等）。\n3. 具有较强的学习能力、复杂问题归纳梳理能力、沟通和团队协作能力，具备能够深度钻研技术的耐心。\n4. 有很强的学术研究能力和优秀的学术成果（AI/ML/Systems 领域顶会/顶刊论文），有以下方向的研究经验者尤为优先：强化学习、大模型训练/推理系统、LLM Agent、分布式系统。\n5. 熟悉 PyTorch 及相关训练生态（DeepSpeed、Megatron-LM、FSDP 等），有大模型训练或 RL 训练实战经验者优先。熟悉 verl、Slime、RLInf 等 RL 训练框架或 vLLM、SGLang 等推理引擎者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-008",
+    "search_keywords": [
+      "agent训练",
+      "Agent RL",
+      "模型训练",
+      "强化学习",
+      "RL训练",
+      "RL infra"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-008",
+      "job_family": "AI Infra/系统",
+      "domain": "训练与强化学习基础设施",
+      "sub_domain": "Agentic RL/RL Infra",
+      "core_problem": "提升大规模模型训练/后训练/强化学习训练的并行效率、资源利用率、稳定性和成本效率。",
+      "must_have": [
+        "1. 具备扎实的计算机基础知识和分布式系统研发经验，Python/C++ 编程能力强，并对操作系统原理、计算机网络等系统领域知识有较好的理解和项目应用经验。",
+        "2. 对强化学习理论和算法有深入理解，熟悉 PPO、GRPO、REINFORCE 等算法，了解 LLM 训练和微调的基本流程（SFT、RLHF、DPO、OPD 等）。",
+        "3. 具有较强的学习能力、复杂问题归纳梳理能力、沟通和团队协作能力，具备能够深度钻研技术的耐心。",
+        "4. 有很强的学术研究能力和优秀的学术成果（AI/ML/Systems 领域顶会/顶刊论文），有以下方向的研究经验者尤为优先：强化学习、大模型训练/推理系统、LLM Agent、分布式系统。",
+        "5. 熟悉 PyTorch 及相关训练生态（DeepSpeed、Megatron-LM、FSDP 等），有大模型训练或 RL 训练实战经验者优先。熟悉 verl、Slime、RLInf 等 RL 训练框架或 vLLM、SGLang 等推理引擎者优先。"
+      ],
+      "strong_plus": [
+        "Megatron-LM",
+        "DeepSpeed",
+        "FSDP",
+        "MoE",
+        "FlashMoE",
+        "rollout",
+        "RLHF/PPO/GRPO",
+        "显存优化",
+        "调度器",
+        "训练稳定性经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "Python",
+        "C++",
+        "PyTorch",
+        "大模型",
+        "LLM",
+        "算法",
+        "系统",
+        "操作系统",
         "计算机网络",
-        "AI"
+        "分布式系统",
+        "AI",
+        "Agent"
       ],
       "negative_signals": [
         "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
@@ -15248,29 +15354,167 @@ window.ALISTAR_JOB_LIBRARY = [
         "只有模型应用或Prompt经验",
         "无系统/性能/分布式/推理训练证据时降权。"
       ],
-      "target_profile": "做过云原生、分布式系统、AI平台、资源调度、稳定性或Infra工程/研究的候选人。",
+      "target_profile": "做过分布式训练、机器学习系统、RL Infra、MoE训练优化、集群调度或MLSys方向论文/项目的候选人。",
       "search_keywords": [
-        "智算网络",
-        "网络",
-        "网络故障检测",
-        "网络协议栈",
-        "网络运维",
-        "网络稳定性",
-        "智能运维"
+        "agent训练",
+        "Agent RL",
+        "模型训练",
+        "强化学习",
+        "RL训练",
+        "RL infra"
       ],
       "core_keywords": [
-        "智算网络",
-        "网络",
-        "网络故障检测",
-        "网络协议栈",
-        "网络运维",
-        "网络稳定性",
-        "智能运维"
+        "agent训练",
+        "Agent RL",
+        "模型训练",
+        "强化学习",
+        "RL训练",
+        "RL infra"
       ],
       "strong_keywords": [
-        "C/C++",
-        "稳定性",
-        "控制"
+        "异步奖励",
+        "长轨迹",
+        "SFT",
+        "DPO",
+        "PPO",
+        "GRPO",
+        "评测体系"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "未明确/需人工确认",
+      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
+      "recall_tags": [
+        "agent训练",
+        "Agent RL",
+        "模型训练",
+        "强化学习",
+        "RL训练",
+        "RL infra"
+      ],
+      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
+      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
+      "confidence": "高"
+    }
+  },
+  {
+    "id": "alistar-142",
+    "category": "alistar",
+    "title": "面向多模态与Agentic 湖仓的 AI-aware 查询优化技术-阿里星/A Star",
+    "department": "阿里云",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907740111",
+    "description": "AI 正在重塑数据平台的形态。未来的湖仓系统不再只是承载人写的 SQL，也将成为 AI agent 理解数据、检索知识、规划任务、调用工具和执行决策的核心基础设施。传统查询优化技术主要围绕结构化数据，关注 CPU、IO、网络、cardinality、join order、数据分布和访问路径选择；而在 AI Native 时代，查询执行链路中会越来越多地出现 LLM 调用、semantic operator、embedding、向量检索、全文检索、多模态文档解析、RAG pipeline 和 agentic workflow。\n\n这带来了全新的技术挑战：查询优化技术不仅要决定数据如何访问、计算如何组织、结果如何物化，还需要进一步感知和优化 模型调用成本、token 消耗、推理 latency、语义质量、向量召回率、多模态解析成本、AI 结果缓存与增量维护成本。查询优化技术正在从传统 CBO / RBO / 执行计划优化，演进为面向 AI workload 的 AI-aware 查询优化体系，成为连接数据、模型和 agent 的智能规划与执行基础。\n\n本岗位面向阿里云湖仓 / 数仓引擎核心技术团队，聚焦 “面向多模态与 Agentic 湖仓的 AI-aware 查询优化技术”，探索下一代 AI 数据平台的核心系统能力。你将参与建设 semantic operator、AI-aware cost model、混合检索优化、多模态 AI pipeline、AI function 增量计算、Agentic智能数仓等前沿方向，让大规模湖仓系统能够更高效、更低成本、更可解释地支撑 AI agent 和多模态数据处理。\n\n这是一个处在数据库系统、分布式系统、机器学习系统、LLM 应用基础设施和 AI Native 数据平台交叉处的前沿方向。你将有机会在真实超大规模工业系统中解决学术界和工业界都在探索的新问题，并将研究创新沉淀为产品能力、工程系统和业界影响力。\n\n岗位职责\n1. 探索 AI-aware 查询优化核心技术\n面向 LLM、AI function、semantic operator 和多模态 workload，研究和实现下一代查询优化能力，包括 AI-aware cost model、语义算子重写、模型调用优化、推理成本优化、结果缓存与复用等。\n2. 建设面向 AI workload 的 semantic operator 体系\n设计和实现 AI_FILTER、AI_CLASSIFY、AI_AGG / AI_SUMMARY_AGG、AI_EMBED、AI_SIMILARITY 等语义算子的优化能力，使 AI 计算不再只是黑盒 UDF，而是可被系统理解、规划和优化的一等计算能力。\n优化向量检索、全文检索和混合检索执行路径\n3. 面向 RAG、知识检索、多模态搜索等场景，建设向量检索、全文检索、混合检索的统一查询优化能力，探索 filter pushdown、ANN / exact search 选择、top-k fusion、semantic rerank、retrieval + rerank 两阶段优化等策略。\n4. 构建多模态 AI pipeline 的增量计算能力\n结合湖仓增量计算能力，探索文档解析、embedding 生成、分类、摘要、RAG 预处理等 AI function 的增量维护机制，降低多模态 AI 数据处理的计算成本和刷新延迟。\n5. 推动智能数仓走向 Agentic 自反馈优化\n参与 Agentic AutoMV、智能数据排布、索引 / 排序 / clustering 推荐与自动应用等能力建设，探索由 agent 驱动的“发现问题—生成优化方案—自动应用—观测收益—自反馈调整”闭环。\n6. 打造 AI Native 数据基础设施的技术影响力\n围绕 AI-aware 查询优化技术、semantic operator、Agentic Lakehouse、多模态增量计算、混合检索优化等方向，沉淀高质量技术方案、论文、专利和系统能力，提升团队在 AI + Data Infrastructure 方向的业界影响力。",
+    "requirementsText": "1. 计算机相关专业博士\n2. 熟悉数据库系统、分布式系统、查询优化技术、机器学习系统、向量检索、大规模数据处理中的一个或多个方向。\n3. 对 AI Native 数据平台、Agent Native 工程体系、Agentic Lakehouse 和多模态数据处理有强烈兴趣，愿意探索 LLM、Agent、RAG、semantic operator、AI function、向量检索、全文检索、混合检索等前沿方向。\n4. 具备较强的问题抽象、技术判断和工程落地能力，能够将前沿 AI 技术问题转化为可运行、可优化、可观测、可规模化落地的系统能力。\n5. 有数据库、分布式系统、AI 系统、机器学习系统、Agent 系统相关顶会论文、开源项目、竞赛或高质量实习经历者优先。\n6. 愿意在 AI + Data Infrastructure 的交叉方向长期深耕，参与构建下一代 AI Native / Agent Native 湖仓基础设施。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-015",
+    "search_keywords": [
+      "数据平台",
+      "湖仓",
+      "数据湖",
+      "查询优化",
+      "数据库",
+      "向量检索",
+      "数据处理",
+      "数仓引擎",
+      "数据库引擎",
+      "多模态数据"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-015",
+      "job_family": "数据系统/数据库/存储",
+      "domain": "AI湖仓与数据湖",
+      "sub_domain": "多模态湖仓/表格式存储",
+      "core_problem": "构建AI Native数据库、湖仓、向量检索、查询优化或高性能存储系统，支撑Data+AI融合场景。",
+      "must_have": [
+        "1. 计算机相关专业博士",
+        "2. 熟悉数据库系统、分布式系统、查询优化技术、机器学习系统、向量检索、大规模数据处理中的一个或多个方向。",
+        "3. 对 AI Native 数据平台、Agent Native 工程体系、Agentic Lakehouse 和多模态数据处理有强烈兴趣，愿意探索 LLM、Agent、RAG、semantic operator、AI function、向量检索、全文检索、混合检索等前沿方向。",
+        "4. 具备较强的问题抽象、技术判断和工程落地能力，能够将前沿 AI 技术问题转化为可运行、可优化、可观测、可规模化落地的系统能力。",
+        "5. 有数据库、分布式系统、AI 系统、机器学习系统、Agent 系统相关顶会论文、开源项目、竞赛或高质量实习经历者优先。",
+        "6. 愿意在 AI + Data Infrastructure 的交叉方向长期深耕，参与构建下一代 AI Native / Agent Native 湖仓基础设施。"
+      ],
+      "strong_plus": [
+        "Flink",
+        "Paimon",
+        "Elasticsearch",
+        "向量数据库",
+        "RAG",
+        "DAG",
+        "Query Planner",
+        "湖仓",
+        "并行文件存储",
+        "多模态数据管理经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "机器学习",
+        "LLM",
+        "多模态",
+        "系统",
+        "分布式系统",
+        "AI",
+        "Agent"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只会SQL/业务分析",
+        "无数据库内核/分布式存储/检索系统证据时降权。"
+      ],
+      "target_profile": "数据库、数据系统、分布式存储、搜索引擎、向量检索或大数据系统方向的候选人。",
+      "search_keywords": [
+        "数据平台",
+        "湖仓",
+        "数据湖",
+        "查询优化",
+        "数据库",
+        "向量检索",
+        "数据处理",
+        "数仓引擎",
+        "数据库引擎",
+        "多模态数据"
+      ],
+      "core_keywords": [
+        "数据平台",
+        "湖仓",
+        "数据湖",
+        "查询优化",
+        "数据库",
+        "向量检索",
+        "数据处理",
+        "数仓引擎",
+        "数据库引擎",
+        "多模态数据"
+      ],
+      "strong_keywords": [
+        "感知",
+        "数据库系统",
+        "大规模数据处理",
+        "索引",
+        "检索",
+        "SQL",
+        "多模态数据处理"
       ],
       "weak_keywords": [
         "Python/C++/Java/Golang",
@@ -15283,23 +15527,26 @@ window.ALISTAR_JOB_LIBRARY = [
         "默认低权重处理。"
       ],
       "seniority_requirement": "博士优先/博士强相关",
-      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
+      "research_direction_suggestion": "数据库、分布式存储、大数据系统、搜索引擎、向量数据库、数据湖/湖仓",
       "recall_tags": [
-        "智算网络",
-        "网络",
-        "网络故障检测",
-        "网络协议栈",
-        "网络运维",
-        "网络稳定性",
-        "智能运维"
+        "数据平台",
+        "湖仓",
+        "数据湖",
+        "查询优化",
+        "数据库",
+        "向量检索",
+        "数据处理",
+        "数仓引擎",
+        "数据库引擎",
+        "多模态数据"
       ],
-      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
-      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
+      "ranking_focus": "强看数据库/存储/检索系统内核经验；业务SQL或数据分析低权重。",
+      "hr_tip": "重点确认数据库内核、查询优化、存储系统、检索系统或大数据框架经验。",
       "confidence": "高"
     }
   },
   {
-    "id": "alistar-142",
+    "id": "alistar-143",
     "category": "alistar",
     "title": "AI Agent 应用研发&系统架构-阿里星/A Star",
     "department": "阿里云",
@@ -15442,7 +15689,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-143",
+    "id": "alistar-144",
     "category": "alistar",
     "title": "面向大模型的实时交互式 AI Agent 系统架构研究-阿里星/A Star",
     "department": "阿里云",
@@ -15583,7 +15830,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-144",
+    "id": "alistar-145",
     "category": "alistar",
     "title": "大模型新范式与前沿技术研究-阿里星",
     "department": "Token Foundry",
@@ -15719,7 +15966,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-145",
+    "id": "alistar-146",
     "category": "alistar",
     "title": "AI Native数据计算引擎：原子化智能算子、DAG 编排与混合查询优化-阿里星/A Star",
     "department": "阿里云",
@@ -15856,7 +16103,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-146",
+    "id": "alistar-147",
     "category": "alistar",
     "title": "医疗多模态智能体研究-阿里星",
     "department": "阿里巴巴控股集团",
@@ -15927,142 +16174,6 @@ window.ALISTAR_JOB_LIBRARY = [
       "ranking_focus": "优先完全命中人工岗位搜索关键词；多个关键词命中数量越多排序越靠前。",
       "hr_tip": "",
       "confidence": "表格导入"
-    }
-  },
-  {
-    "id": "alistar-147",
-    "category": "alistar",
-    "title": "端云多模态智能体推理&调度-阿里星/A Star",
-    "department": "阿里云",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640109",
-    "description": "1）负责面向政企场景的多模态智能体终端推理技术研究，突破办公PC上的模型极致压缩、文档视觉Token压缩与CPU/NPU推理加速等核心技术，实现多模态智能体在办公终端的流畅运行。\n2）设计并实现安全感知的端云协同推理架构，支持敏感数据终端本地推理、非敏感任务智能分流云端、压缩表征安全传输，覆盖文档审阅、合规审查、辅助审批、知识问答等核心政企业务场景。\n3）构建面向政企业务的多模态ReAct推理框架，支持文档理解、跨文档对比、知识检索增强推理等深度智能体能力。\n4）推动端云协同推理方案在政务、金融、能源、法务等多个行业的落地验证，持续优化推理体验与数据安全保障。\n5）主导或参与开源政企端云推理工具链的研发与推广，提升技术影响力。",
-    "requirementsText": "1）计算机科学、人工智能等相关学历背景，研究方向聚焦多模态学习、模型压缩与高效推理、文档理解、分布式/端侧推理中的一项或多项。\n2）精通Python/C++/PyTorch，有极强的动手和代码能力，具备大模型推理系统开发经验，熟悉vLLM、llama.cpp、TensorRT、ONNX Runtime、OpenVINO等框架者优先。\n3）扎实掌握模型量化（GPTQ/AWQ等）、多模态模型架构（ViT、Cross-Attention等）、文档理解（OCR/Layout分析）、端侧推理优化等核心技术中的一项或多项，具备算法创新与系统工程能力。\n4）前沿技术研究：跟踪多模态大模型、终端高效推理与端云协同领域的最新研究进展，在顶级会议（NeurIPS, ICML, CVPR, ACL, MLSys）发表相关论文。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-052",
-    "search_keywords": [
-      "多模态智能体",
-      "agent",
-      "智能体",
-      "端侧",
-      "终端",
-      "终端推理",
-      "端侧推理优化",
-      "多模态ReAct推理框架",
-      "推理框架",
-      "ReAct"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-052",
-      "job_family": "多模态/视觉/语音算法",
-      "domain": "多模态理解与生成",
-      "sub_domain": "统一多模态大模型",
-      "core_problem": "提升多模态理解、生成、检索、交互和内容生产能力，覆盖图像、视频、语音、3D、音乐等模态。",
-      "must_have": [
-        "1）计算机科学、人工智能等相关学历背景，研究方向聚焦多模态学习、模型压缩与高效推理、文档理解、分布式/端侧推理中的一项或多项。",
-        "2）精通Python/C++/PyTorch，有极强的动手和代码能力，具备大模型推理系统开发经验，熟悉vLLM、llama.cpp、TensorRT、ONNX Runtime、OpenVINO等框架者优先。",
-        "3）扎实掌握模型量化（GPTQ/AWQ等）、多模态模型架构（ViT、Cross-Attention等）、文档理解（OCR/Layout分析）、端侧推理优化等核心技术中的一项或多项，具备算法创新与系统工程能力。",
-        "4）前沿技术研究：跟踪多模态大模型、终端高效推理与端云协同领域的最新研究进展，在顶级会议（NeurIPS, ICML, CVPR, ACL, MLSys）发表相关论文。"
-      ],
-      "strong_plus": [
-        "多模态大模型",
-        "视频生成",
-        "3D重建",
-        "语音大模型",
-        "数字人",
-        "跨模态检索",
-        "可控生成",
-        "世界模型",
-        "AIGC产品化经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "Python",
-        "C++",
-        "PyTorch",
-        "大模型",
-        "LLM",
-        "多模态",
-        "算法",
-        "系统",
-        "工程能力"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有AIGC工具使用或业务运营经验",
-        "无模型训练/生成/理解证据时降权。"
-      ],
-      "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
-      "search_keywords": [
-        "多模态智能体",
-        "agent",
-        "智能体",
-        "端侧",
-        "终端",
-        "终端推理",
-        "端侧推理优化",
-        "多模态ReAct推理框架",
-        "推理框架",
-        "ReAct"
-      ],
-      "core_keywords": [
-        "多模态智能体",
-        "agent",
-        "智能体",
-        "端侧",
-        "终端",
-        "终端推理",
-        "端侧推理优化",
-        "多模态ReAct推理框架",
-        "推理框架",
-        "ReAct"
-      ],
-      "strong_keywords": [
-        "量化",
-        "感知",
-        "CV",
-        "检索"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "未明确/需人工确认",
-      "research_direction_suggestion": "计算机视觉、多模态、生成模型、视频/语音/3D、AIGC",
-      "recall_tags": [
-        "多模态智能体",
-        "agent",
-        "智能体",
-        "端侧",
-        "终端",
-        "终端推理",
-        "端侧推理优化",
-        "多模态ReAct推理框架",
-        "推理框架",
-        "ReAct"
-      ],
-      "ranking_focus": "强看模态任务一致性和模型训练/生成/评测证据；AIGC应用低权重。",
-      "hr_tip": "确认具体模态和任务：视频、图像、3D、语音、音乐、理解、生成或后训练。",
-      "confidence": "高"
     }
   },
   {
@@ -16441,49 +16552,49 @@ window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-151",
     "category": "alistar",
-    "title": "具身智能的高效训练、数据闭环与云上部署关键技术-阿里星/A Star",
+    "title": "端云多模态智能体推理&调度-阿里星/A Star",
     "department": "阿里云",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640110",
-    "description": "1. 参与PAI具身智能训练与部署基础设施的架构设计与开发,围绕GR00T、Pi0、OpenVLA、VLM Policy、World Model、强化学习/模仿学习等方向,开展高效训练、数据管线、异构硬件适配、性能优化和产品化落地工作；\n2. 负责具身智能数据管线建设,包括多模态数据(视频、轨迹、动作、传感器)的采集、清洗、切分、标注、回放和版本管理,实现仿真数据、真实数据、生成数据的融合和质量评估；\n3. 优化VLA/VLM/机器人策略模型的训练框架适配,实现模仿学习、强化学习、后训练、策略微调等训练链路的高效执行,支持长序列视频、多视角输入、动作token的高效训练；\n4. 支撑机器人、自动驾驶、工业具身、视频世界模型等真实客户场景,将技术成果沉淀为PAI TurboX、DLC、DSW、Notebook Gallery、模型训练和部署链路的核心能力；\n5. 推动具身智能训练与部署方向的学术影响力和产品影响力产出。",
-    "requirementsText": "1. 计算机、人工智能、机器人、自动驾驶、机器学习、系统、高性能计算等相关方向硕士或博士优先。\n2. 熟悉具身智能、机器人学习、VLA/VLM、World Model、强化学习、模仿学习、多模态大模型中的一个或多个方向。\n3. 熟悉 PyTorch、分布式训练、多机多卡训练、数据加载、模型训练调优等基础能力，有大模型或多模态模型训练经验优先。\n4. 具备较强系统工程能力，了解 GPU/异构硬件性能分析、算子优化、通信优化、显存优化、数据管线优化者优先。\n5. 有 CoRL、RSS、ICRA、IROS、NeurIPS、ICLR、MLSys、CVPR 等顶级会议论文、开源项目、机器人/自动驾驶/具身智能项目经验者优先。\n6. 具备较强的问题抽象能力和工程落地能力，能够从真实客户场景中提炼通用技术问题，并推动形成可复用方案。\n7. 对具身智能和 AI 基础设施有长期热情，愿意在前沿模型、训练系统、云上平台和客户场景交叉方向持续深耕。",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640109",
+    "description": "1）负责面向政企场景的多模态智能体终端推理技术研究，突破办公PC上的模型极致压缩、文档视觉Token压缩与CPU/NPU推理加速等核心技术，实现多模态智能体在办公终端的流畅运行。\n2）设计并实现安全感知的端云协同推理架构，支持敏感数据终端本地推理、非敏感任务智能分流云端、压缩表征安全传输，覆盖文档审阅、合规审查、辅助审批、知识问答等核心政企业务场景。\n3）构建面向政企业务的多模态ReAct推理框架，支持文档理解、跨文档对比、知识检索增强推理等深度智能体能力。\n4）推动端云协同推理方案在政务、金融、能源、法务等多个行业的落地验证，持续优化推理体验与数据安全保障。\n5）主导或参与开源政企端云推理工具链的研发与推广，提升技术影响力。",
+    "requirementsText": "1）计算机科学、人工智能等相关学历背景，研究方向聚焦多模态学习、模型压缩与高效推理、文档理解、分布式/端侧推理中的一项或多项。\n2）精通Python/C++/PyTorch，有极强的动手和代码能力，具备大模型推理系统开发经验，熟悉vLLM、llama.cpp、TensorRT、ONNX Runtime、OpenVINO等框架者优先。\n3）扎实掌握模型量化（GPTQ/AWQ等）、多模态模型架构（ViT、Cross-Attention等）、文档理解（OCR/Layout分析）、端侧推理优化等核心技术中的一项或多项，具备算法创新与系统工程能力。\n4）前沿技术研究：跟踪多模态大模型、终端高效推理与端云协同领域的最新研究进展，在顶级会议（NeurIPS, ICML, CVPR, ACL, MLSys）发表相关论文。",
     "required": [],
     "bonus": [],
-    "profile_id": "JOB-006",
+    "profile_id": "JOB-052",
     "search_keywords": [
-      "具身智能模型训练",
-      "模型部署",
-      "训练框架优化",
-      "具身智能",
-      "模型数据",
-      "多模态数据"
+      "多模态智能体",
+      "agent",
+      "智能体",
+      "端侧",
+      "终端",
+      "终端推理",
+      "端侧推理优化",
+      "多模态ReAct推理框架",
+      "推理框架",
+      "ReAct"
     ],
     "job_profile": {
-      "profile_id": "JOB-006",
-      "job_family": "具身智能/机器人",
-      "domain": "具身智能基础设施",
-      "sub_domain": "训练部署与数据闭环",
-      "core_problem": "围绕具身智能/世界模型构建训练、数据闭环、仿真、感知决策、部署和机器人学习能力。",
+      "profile_id": "JOB-052",
+      "job_family": "多模态/视觉/语音算法",
+      "domain": "多模态理解与生成",
+      "sub_domain": "统一多模态大模型",
+      "core_problem": "提升多模态理解、生成、检索、交互和内容生产能力，覆盖图像、视频、语音、3D、音乐等模态。",
       "must_have": [
-        "1. 计算机、人工智能、机器人、自动驾驶、机器学习、系统、高性能计算等相关方向硕士或博士优先。",
-        "2. 熟悉具身智能、机器人学习、VLA/VLM、World Model、强化学习、模仿学习、多模态大模型中的一个或多个方向。",
-        "3. 熟悉 PyTorch、分布式训练、多机多卡训练、数据加载、模型训练调优等基础能力，有大模型或多模态模型训练经验优先。",
-        "4. 具备较强系统工程能力，了解 GPU/异构硬件性能分析、算子优化、通信优化、显存优化、数据管线优化者优先。",
-        "5. 有 CoRL、RSS、ICRA、IROS、NeurIPS、ICLR、MLSys、CVPR 等顶级会议论文、开源项目、机器人/自动驾驶/具身智能项目经验者优先。",
-        "6. 具备较强的问题抽象能力和工程落地能力，能够从真实客户场景中提炼通用技术问题，并推动形成可复用方案。",
-        "7. 对具身智能和 AI 基础设施有长期热情，愿意在前沿模型、训练系统、云上平台和客户场景交叉方向持续深耕。"
+        "1）计算机科学、人工智能等相关学历背景，研究方向聚焦多模态学习、模型压缩与高效推理、文档理解、分布式/端侧推理中的一项或多项。",
+        "2）精通Python/C++/PyTorch，有极强的动手和代码能力，具备大模型推理系统开发经验，熟悉vLLM、llama.cpp、TensorRT、ONNX Runtime、OpenVINO等框架者优先。",
+        "3）扎实掌握模型量化（GPTQ/AWQ等）、多模态模型架构（ViT、Cross-Attention等）、文档理解（OCR/Layout分析）、端侧推理优化等核心技术中的一项或多项，具备算法创新与系统工程能力。",
+        "4）前沿技术研究：跟踪多模态大模型、终端高效推理与端云协同领域的最新研究进展，在顶级会议（NeurIPS, ICML, CVPR, ACL, MLSys）发表相关论文。"
       ],
       "strong_plus": [
-        "OpenVLA",
-        "GR00T",
-        "Pi0",
-        "VLM Policy",
-        "World Model",
-        "机器人学习",
-        "仿真环境",
-        "数据闭环",
-        "强化学习",
-        "云上部署经验。"
+        "多模态大模型",
+        "视频生成",
+        "3D重建",
+        "语音大模型",
+        "数字人",
+        "跨模态检索",
+        "可控生成",
+        "世界模型",
+        "AIGC产品化经验。"
       ],
       "weak_plus": [
         "Python/C++/Java/Golang",
@@ -16496,50 +16607,54 @@ window.ALISTAR_JOB_LIBRARY = [
         "默认低权重处理。"
       ],
       "broad_keywords": [
+        "Python",
+        "C++",
         "PyTorch",
-        "机器学习",
         "大模型",
+        "LLM",
         "多模态",
+        "算法",
         "系统",
-        "工程能力",
-        "高性能",
-        "AI"
+        "工程能力"
       ],
       "negative_signals": [
         "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
         "论文或工程证据",
         "研究方向只停留在应用Demo",
         "无法支撑核心研发判断。",
-        "只做普通CV/NLP",
-        "多模态应用",
-        "缺少机器人/仿真/世界模型/VLA证据时降权。"
+        "只有AIGC工具使用或业务运营经验",
+        "无模型训练/生成/理解证据时降权。"
       ],
-      "target_profile": "具身智能、机器人学习、VLA/VLM、世界模型、强化学习、仿真或自动驾驶相关方向候选人。",
+      "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "具身智能模型训练",
-        "模型部署",
-        "训练框架优化",
-        "具身智能",
-        "模型数据",
-        "多模态数据"
+        "多模态智能体",
+        "agent",
+        "智能体",
+        "端侧",
+        "终端",
+        "终端推理",
+        "端侧推理优化",
+        "多模态ReAct推理框架",
+        "推理框架",
+        "ReAct"
       ],
       "core_keywords": [
-        "具身智能模型训练",
-        "模型部署",
-        "训练框架优化",
-        "具身智能",
-        "模型数据",
-        "多模态数据"
+        "多模态智能体",
+        "agent",
+        "智能体",
+        "端侧",
+        "终端",
+        "终端推理",
+        "端侧推理优化",
+        "多模态ReAct推理框架",
+        "推理框架",
+        "ReAct"
       ],
       "strong_keywords": [
-        "显存优化",
-        "多机多卡",
-        "数据闭环",
-        "云上部署",
-        "机器人学习",
+        "量化",
+        "感知",
         "CV",
-        "视频",
-        "性能分析"
+        "检索"
       ],
       "weak_keywords": [
         "Python/C++/Java/Golang",
@@ -16551,18 +16666,22 @@ window.ALISTAR_JOB_LIBRARY = [
         "沟通协作等基础或高频通用信号",
         "默认低权重处理。"
       ],
-      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
-      "research_direction_suggestion": "机器人学习、具身智能、VLA/VLM、世界模型、强化学习、仿真、控制/感知",
+      "seniority_requirement": "未明确/需人工确认",
+      "research_direction_suggestion": "计算机视觉、多模态、生成模型、视频/语音/3D、AIGC",
       "recall_tags": [
-        "具身智能模型训练",
-        "模型部署",
-        "训练框架优化",
-        "具身智能",
-        "模型数据",
-        "多模态数据"
+        "多模态智能体",
+        "agent",
+        "智能体",
+        "端侧",
+        "终端",
+        "终端推理",
+        "端侧推理优化",
+        "多模态ReAct推理框架",
+        "推理框架",
+        "ReAct"
       ],
-      "ranking_focus": "强看机器人/仿真/强化学习/VLA/VLM Policy证据；普通CV/NLP需降权。",
-      "hr_tip": "确认候选人是否真的做过机器人/仿真/世界模型/VLA/VLM Policy，而非普通多模态。",
+      "ranking_focus": "强看模态任务一致性和模型训练/生成/评测证据；AIGC应用低权重。",
+      "hr_tip": "确认具体模态和任务：视频、图像、3D、语音、音乐、理解、生成或后训练。",
       "confidence": "高"
     }
   },
@@ -16827,6 +16946,134 @@ window.ALISTAR_JOB_LIBRARY = [
   {
     "id": "alistar-154",
     "category": "alistar",
+    "title": "具身智能的高效训练、数据闭环与云上部署关键技术-阿里星/A Star",
+    "department": "阿里云",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640110",
+    "description": "1. 参与PAI具身智能训练与部署基础设施的架构设计与开发,围绕GR00T、Pi0、OpenVLA、VLM Policy、World Model、强化学习/模仿学习等方向,开展高效训练、数据管线、异构硬件适配、性能优化和产品化落地工作；\n2. 负责具身智能数据管线建设,包括多模态数据(视频、轨迹、动作、传感器)的采集、清洗、切分、标注、回放和版本管理,实现仿真数据、真实数据、生成数据的融合和质量评估；\n3. 优化VLA/VLM/机器人策略模型的训练框架适配,实现模仿学习、强化学习、后训练、策略微调等训练链路的高效执行,支持长序列视频、多视角输入、动作token的高效训练；\n4. 支撑机器人、自动驾驶、工业具身、视频世界模型等真实客户场景,将技术成果沉淀为PAI TurboX、DLC、DSW、Notebook Gallery、模型训练和部署链路的核心能力；\n5. 推动具身智能训练与部署方向的学术影响力和产品影响力产出。",
+    "requirementsText": "1. 计算机、人工智能、机器人、自动驾驶、机器学习、系统、高性能计算等相关方向硕士或博士优先。\n2. 熟悉具身智能、机器人学习、VLA/VLM、World Model、强化学习、模仿学习、多模态大模型中的一个或多个方向。\n3. 熟悉 PyTorch、分布式训练、多机多卡训练、数据加载、模型训练调优等基础能力，有大模型或多模态模型训练经验优先。\n4. 具备较强系统工程能力，了解 GPU/异构硬件性能分析、算子优化、通信优化、显存优化、数据管线优化者优先。\n5. 有 CoRL、RSS、ICRA、IROS、NeurIPS、ICLR、MLSys、CVPR 等顶级会议论文、开源项目、机器人/自动驾驶/具身智能项目经验者优先。\n6. 具备较强的问题抽象能力和工程落地能力，能够从真实客户场景中提炼通用技术问题，并推动形成可复用方案。\n7. 对具身智能和 AI 基础设施有长期热情，愿意在前沿模型、训练系统、云上平台和客户场景交叉方向持续深耕。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-006",
+    "search_keywords": [
+      "具身智能模型训练",
+      "模型部署",
+      "训练框架优化",
+      "具身智能",
+      "模型数据",
+      "多模态数据"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-006",
+      "job_family": "具身智能/机器人",
+      "domain": "具身智能基础设施",
+      "sub_domain": "训练部署与数据闭环",
+      "core_problem": "围绕具身智能/世界模型构建训练、数据闭环、仿真、感知决策、部署和机器人学习能力。",
+      "must_have": [
+        "1. 计算机、人工智能、机器人、自动驾驶、机器学习、系统、高性能计算等相关方向硕士或博士优先。",
+        "2. 熟悉具身智能、机器人学习、VLA/VLM、World Model、强化学习、模仿学习、多模态大模型中的一个或多个方向。",
+        "3. 熟悉 PyTorch、分布式训练、多机多卡训练、数据加载、模型训练调优等基础能力，有大模型或多模态模型训练经验优先。",
+        "4. 具备较强系统工程能力，了解 GPU/异构硬件性能分析、算子优化、通信优化、显存优化、数据管线优化者优先。",
+        "5. 有 CoRL、RSS、ICRA、IROS、NeurIPS、ICLR、MLSys、CVPR 等顶级会议论文、开源项目、机器人/自动驾驶/具身智能项目经验者优先。",
+        "6. 具备较强的问题抽象能力和工程落地能力，能够从真实客户场景中提炼通用技术问题，并推动形成可复用方案。",
+        "7. 对具身智能和 AI 基础设施有长期热情，愿意在前沿模型、训练系统、云上平台和客户场景交叉方向持续深耕。"
+      ],
+      "strong_plus": [
+        "OpenVLA",
+        "GR00T",
+        "Pi0",
+        "VLM Policy",
+        "World Model",
+        "机器人学习",
+        "仿真环境",
+        "数据闭环",
+        "强化学习",
+        "云上部署经验。"
+      ],
+      "weak_plus": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "broad_keywords": [
+        "PyTorch",
+        "机器学习",
+        "大模型",
+        "多模态",
+        "系统",
+        "工程能力",
+        "高性能",
+        "AI"
+      ],
+      "negative_signals": [
+        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
+        "论文或工程证据",
+        "研究方向只停留在应用Demo",
+        "无法支撑核心研发判断。",
+        "只做普通CV/NLP",
+        "多模态应用",
+        "缺少机器人/仿真/世界模型/VLA证据时降权。"
+      ],
+      "target_profile": "具身智能、机器人学习、VLA/VLM、世界模型、强化学习、仿真或自动驾驶相关方向候选人。",
+      "search_keywords": [
+        "具身智能模型训练",
+        "模型部署",
+        "训练框架优化",
+        "具身智能",
+        "模型数据",
+        "多模态数据"
+      ],
+      "core_keywords": [
+        "具身智能模型训练",
+        "模型部署",
+        "训练框架优化",
+        "具身智能",
+        "模型数据",
+        "多模态数据"
+      ],
+      "strong_keywords": [
+        "显存优化",
+        "多机多卡",
+        "数据闭环",
+        "云上部署",
+        "机器人学习",
+        "CV",
+        "视频",
+        "性能分析"
+      ],
+      "weak_keywords": [
+        "Python/C++/Java/Golang",
+        "Linux",
+        "PyTorch/TensorFlow",
+        "机器学习/深度学习",
+        "大模型/LLM",
+        "多模态",
+        "沟通协作等基础或高频通用信号",
+        "默认低权重处理。"
+      ],
+      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
+      "research_direction_suggestion": "机器人学习、具身智能、VLA/VLM、世界模型、强化学习、仿真、控制/感知",
+      "recall_tags": [
+        "具身智能模型训练",
+        "模型部署",
+        "训练框架优化",
+        "具身智能",
+        "模型数据",
+        "多模态数据"
+      ],
+      "ranking_focus": "强看机器人/仿真/强化学习/VLA/VLM Policy证据；普通CV/NLP需降权。",
+      "hr_tip": "确认候选人是否真的做过机器人/仿真/世界模型/VLA/VLM Policy，而非普通多模态。",
+      "confidence": "高"
+    }
+  },
+  {
+    "id": "alistar-155",
+    "category": "alistar",
     "title": "面向异构计算的多模态数据处理性能优化技术-阿里星/A Star",
     "department": "阿里云",
     "location": "北京",
@@ -16948,7 +17195,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-155",
+    "id": "alistar-156",
     "category": "alistar",
     "title": "大规模模型训练的调度与框架协同优化-阿里星/A Star",
     "department": "阿里云",
@@ -17083,7 +17330,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-156",
+    "id": "alistar-157",
     "category": "alistar",
     "title": "AI Agent应用研发&平台架构（AIGC）-阿里星/A Star",
     "department": "阿里云",
@@ -17232,7 +17479,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-157",
+    "id": "alistar-158",
     "category": "alistar",
     "title": "超大规模训练关键技术-阿里星/A Star",
     "department": "阿里云",
@@ -17353,7 +17600,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-158",
+    "id": "alistar-159",
     "category": "alistar",
     "title": "大模型推理优化-算子与框架适配-阿里星/A Star",
     "department": "阿里云",
@@ -17466,7 +17713,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-159",
+    "id": "alistar-160",
     "category": "alistar",
     "title": "Streaming Agent 技术-阿里星/A Star",
     "department": "阿里云",
@@ -17593,45 +17840,110 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-160",
+    "id": "alistar-161",
     "category": "alistar",
-    "title": "基于行为奖励与快慢脑协同的实时AI导购研究-阿里星/T-Star",
-    "department": "淘天集团",
+    "title": "医疗多模态大模型与AI智能体-阿里星",
+    "department": "阿里巴巴控股集团",
     "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740109",
-    "description": "淘天集团AI助手算法团队承担了淘天集团新一代AI原生购物助手的开发工作，通过统一的All in One大模型解决淘宝在不同场景的用户需求。团队在大模型强化学习、Agentic训练、原生多模态训练以及Agent框架设计有着行业领先的认知和实际落地效果。\n在这里，你将\n● 全链路模型训练\n    ○ 深度参与购物场景统一大模型的完整训练周期：预训练退火 → SFT → RLVR → RLHF\n    ○ 你碰到的不是一个冻结的API，而是一个你可以从底层塑造的模型\n● Agent框架设计——让大模型真正\"\"能办事\"\"\n    ○ 设计大模型原生的Agent架构，通过Skill编排、Sub-agent协作等机制，将淘系搜索、推荐、交易、客服等全域能力注入AI助手\n    ○ 让模型不只是\"\"能聊\"\"，而是\"\"能买、能比、能帮你做决定\"\"\n●  奖励信号发现——在真实场景中定义\"\"什么是好\"\"\n    ○ 基于淘天数亿用户的真实交互行为，挖掘和设计最能提升用户体验的奖励信号\n    ○ 用RL的方式让模型在电商场景下持续逼近SOTA体验\n● 无人区探索——做业界还没有答案的事\n    ○ 异步实时Agent：用户不等你，你怎么让Agent在真实时间约束下又快又好？\n    ○ 原生Any-to-Any多模态：文字、图片、视频、商品卡片……如何让模型原生理解和生成一切？\n    ○ 这些方向没有教科书，我们需要你带着自己的判断力走进去\n为什么值得来\n你会加入这样一个团队：\n● “师兄机制”：为你配置经验丰富的师兄，亲自带你熟悉环境，在进行实习期间进行全方位的指导。\n● 灵活开放的技术氛围：根据你的实际研究内容，结合你感兴趣的方向，量身定制匹配的研究方向。\n● 浓厚的技术氛围：定期记性技术分享，保持对前沿技术的敏感度。\n● 充足的算力资源：学校的卡不够用？在这里不存在的，会有足够的资源支持实验迭代。\n收获在学校无法获得的宝贵经验：\n● 场景稀缺性：数亿级日活用户 × 极其丰富的电商意图 × 可闭环的商业验证\n● 技术纵深：从模型训练到Agent系统到产品体验，你可以一竿子插到底，而不是只做流水线上的一环\n● 前沿密度：团队在RLVR、Agentic Training、多模态等前沿研究方向持续投入\n● 影响力：你训练的模型、设计的Agent，会直接服务于淘宝用户\n我们期待你\n● 在大模型预训练/SFT/RLHF/强化学习中有扎实的实战经验。对Agent/Tool-use/Multi-agent系统有深入理解。\n● 有科研成果或在顶会发表过自己的论文，或在Github有自己的维护的小项目。\n● 有自己的想法想要落地、通过实际场景来证明自己的科研价值。\n\n职位描述：\n课题1：Action-to-Rewards（行为即奖励）：利用淘宝海量用户真实行为构建可无限扩展的奖励信号，解决传统奖励模型无法规模化难题。通过将行为数据融入强化学习链路，驱动模型从“做对”进化至“做好”，开辟全新的Scaling维度。\n课题2：Duet快-慢脑协同架构：构建统一音频前端与快慢双脑协同机制，实现感知、即时应答与深度推理的并行处理。通过“边说边想”消除对话延迟与阻塞，打造低延迟、主动介入的实时多模态智能交互体验。\"",
-    "requirementsText": "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++），熟悉常用算法与数据结构。\n2. 深入理解强化学习（RLHF/RLAIF）理论或大模型推理加速机制，在NLP、多模态交互、搜推广系统中至少一个领域有深厚积累。\n3. 熟练掌握PyTorch/TensorFlow等深度学习框架，有大规模分布式训练、模型微调或高性能推理引擎开发经验者优先。\n4. 对AI Agent前沿技术充满好奇心，重点关注大模型Scaling Law、实时多模态交互、端云协同及强化学习在推荐/导购场景的应用。\n5. 在顶级会议（如NeurIPS, ICML, ACL, CVPR等）发表过相关论文，或有复现SOTA模型及开源项目贡献者优先。\n6. 具备极强的工程落地与问题拆解能力，能从海量用户行为数据中挖掘价值，并通过数据分析优化模型奖励机制或降低交互延迟。\n7. 良好的跨团队协作能力，能与后端工程师、产品经理高效配合，将“行为即奖励”或“快慢脑”技术方案转化为真实的业务增长指标。\n8. 对电商导购场景有敏锐洞察，愿意深入探索用户意图识别、多轮对话管理及商业转化逻辑。\n【加分项】\n1. 针对课题1：有基于真实用户反馈构建Reward Model的经验，或在大规模RLHF/在线强化学习链路中有实际落地成果。\n2. 针对课题2：有流式音频处理、低延迟LLM推理优化（如Speculative Decoding）、或多模态端到端模型（Audio-Text）研发经验。\n3. 拥有海量时序行为数据处理经验，或在Kaggle/天池等竞赛中针对推荐系统、对话智能体赛道获得优异成绩。\"",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907740108",
+    "description": "1.研发面向医疗场景的多模态大模型（医学VLM），涵盖模型架构设计、多模态预训练与对齐、指令微调等\n2.探索医疗AI Agent的构建，包括多步推理、工具调用、临床工作流编排等\n3.与临床医生合作完成数据收集、标注和临床验证\n4.每年发表1-2篇顶会/顶刊论文（如CVPR、NeurIPS、AAAI、MICCAI、IEEE TMI、MedIA等）\n5.与工程产品团队协作，推动模型在业务场景中的落地应用",
+    "requirementsText": "1.计算机、人工智能、电子工程等相关专业的优秀硕士或博士生\n2.熟悉大语言模型或多模态大模型的训练流程（预训练、SFT、RLHF/DPO等）\n3.掌握深度学习模型（CNN、Transformer、VIT）及分布式训练，动手能力强\n4.在计算机视觉、NLP或多模态方向的顶会顶刊发表过高质量论文\n5.具备清晰的逻辑思考能力，善于从复杂问题中提炼核心\n\n加分项：\n1.有医学影像分析（分割、检测、报告生成）相关经验\n2.有LLM/VLM训练或Agent系统开发经验\n3.熟悉强化学习、推理增强（CoT/ToT）或检索增强生成（RAG）技术",
     "required": [],
     "bonus": [],
-    "profile_id": "JOB-160",
+    "profile_id": "JOB-030",
     "search_keywords": [
-      "强化学习",
-      "RL",
-      "模型训练",
-      "Agent框架",
-      "Agent架构",
-      "AI Agent",
-      "智能体",
-      "Agent训练",
-      "Reward Model",
-      "奖励模型",
-      "时序数据处理"
+      "医疗AI",
+      "VLM",
+      "MLLM",
+      "医学影像",
+      "多模态大模型"
     ],
     "job_profile": {
-      "profile_id": "JOB-160",
+      "profile_id": "JOB-030",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1.研发面向医疗场景的多模态大模型（医学VLM），涵盖模型架构设计、多模态预训练与对齐、指令微调等\n2.探索医疗AI Agent的构建，包括多步推理、工具调用、临床工作流编排等\n3.与临床医生合作完成数据收集、标注和临床验证\n4.每年发表1-2篇顶会/顶刊论文（如CVPR、NeurIPS、AAAI、MICCAI、IEEE TMI、MedIA等）\n5.与工程产品团队协作，推动模型在业务场景中的落地应用",
+      "must_have": [
+        "1.计算机、人工智能、电子工程等相关专业的优秀硕士或博士生",
+        "2.熟悉大语言模型或多模态大模型的训练流程（预训练、SFT、RLHF/DPO等）",
+        "3.掌握深度学习模型（CNN、Transformer、VIT）及分布式训练，动手能力强",
+        "4.在计算机视觉、NLP或多模态方向的顶会顶刊发表过高质量论文",
+        "5.具备清晰的逻辑思考能力，善于从复杂问题中提炼核心",
+        "加分项：",
+        "1.有医学影像分析（分割、检测、报告生成）相关经验",
+        "2.有LLM/VLM训练或Agent系统开发经验"
+      ],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": [
+        "医疗AI",
+        "VLM",
+        "MLLM",
+        "医学影像",
+        "多模态大模型"
+      ],
+      "core_keywords": [
+        "医疗AI",
+        "VLM",
+        "MLLM",
+        "医学影像",
+        "多模态大模型"
+      ],
+      "strong_keywords": [],
+      "weak_keywords": [],
+      "seniority_requirement": "",
+      "research_direction_suggestion": "",
+      "recall_tags": [
+        "医疗AI",
+        "VLM",
+        "MLLM",
+        "医学影像",
+        "多模态大模型"
+      ],
+      "ranking_focus": "优先完全命中人工岗位搜索关键词；多个关键词命中数量越多排序越靠前。",
+      "hr_tip": "",
+      "confidence": "表格导入"
+    }
+  },
+  {
+    "id": "alistar-162",
+    "category": "alistar",
+    "title": "国际智能供应链与物流 AI Agent-阿里星/BravoStar",
+    "department": "阿里国际数字商业集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907720104",
+    "description": "阿里国际数字商业集团智能供应链物流和定价算法团队专注于海外零售经营的建设与优化，支持覆盖全球的千亿级零售行业。团队运用大模型、运筹优化、深度学习、强化学习、仿真等算法技术，解决需求洞察、价格损益、库存供给、供应链物流成本优化、履约体验等商业现实问题，重塑海外零售体系，创造社会价值。多年来团队紧跟工业界和学术界前沿，带来业务快速增长同时发表⾼⽔平学术论⽂20余篇（如AAAI、KDD、MS等），获得专利10余项。\n\n1、全链路算法攻坚与运筹求解： 主导 AI 与库存、物流、预测全链路结合的核心算法突破。针对配舱、分单、定仓等复杂网络问题，设计高效启发式或精确求解算法，实现成本与时效的极致平衡；\n2、业务闭环与极致效能： 将顶尖算法转化为真实的商业结果（降本增效、降低缺货率），引领团队技术方向，构筑基于产研深度结合的技术护城河；\n3、旨在构建专注于国际智能供应链与物流的 AI Agent。依托前沿的多模态大模型、强化学习与运筹优化算法，我们将彻底打通物理属性认知与端到端物流决策链路。以此应对高不确定性环境，极致压缩单均履约成本，提升现货率并提供确定性的交付承诺，推动国际电商供应链向高效、智能与韧性的全面升级。",
+    "requirementsText": "1、背景与学术： 人工智能、深度学习、强化学习、运筹学或相关专业全球顶尖高校（C9/985/QS Top50）硕博毕业生。在 NeurIPS, ICML, ICLR, KDD 等顶会发表过高质量论文或拥有核心应用专利者优先；\n2、技术深度： 精通 Java/C++/Python 等编程语言；在 LLM 微调落地、Agent 应用设计、多模态理解、强化学习（RL）或运筹优化（OR）领域具备深厚的理论功底与丰富的产研结合经验；\n3、全局视野与综合素质： 具备极强的系统抽象能力，能将复杂的全球商业与供应链逻辑转化为严谨的数学或算法模型，极度关注算法的实际业务产出。自我驱动强，皮实自省，勇于面对全球化的高难度挑战，善于跨域协同推动落地。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "JOB-170",
+    "search_keywords": [
+      "ai agent",
+      "agent",
+      "大模型应用",
+      "物流",
+      "运筹优化",
+      "运筹",
+      "预测",
+      "智能体",
+      "Agent应用",
+      "供应链"
+    ],
+    "job_profile": {
+      "profile_id": "JOB-170",
       "job_family": "搜广推/商业AI",
-      "domain": "推荐与导购Agent",
-      "sub_domain": "推荐/导购/用户理解",
+      "domain": "经营决策Agent",
+      "sub_domain": "定价/供应链/物流决策",
       "core_problem": "用大模型/智能体重构搜索、推荐、广告、导购、定价、供应链和用户理解等商业决策链路。",
       "must_have": [
-        "1. 计算机科学/人工智能/机器学习等相关领域的硕士或博士，具备扎实的编程基础（Python/C++），熟悉常用算法与数据结构。",
-        "2. 深入理解强化学习（RLHF/RLAIF）理论或大模型推理加速机制，在NLP、多模态交互、搜推广系统中至少一个领域有深厚积累。",
-        "3. 熟练掌握PyTorch/TensorFlow等深度学习框架，有大规模分布式训练、模型微调或高性能推理引擎开发经验者优先。",
-        "4. 对AI Agent前沿技术充满好奇心，重点关注大模型Scaling Law、实时多模态交互、端云协同及强化学习在推荐/导购场景的应用。",
-        "5. 在顶级会议（如NeurIPS, ICML, ACL, CVPR等）发表过相关论文，或有复现SOTA模型及开源项目贡献者优先。",
-        "6. 具备极强的工程落地与问题拆解能力，能从海量用户行为数据中挖掘价值，并通过数据分析优化模型奖励机制或降低交互延迟。",
-        "7. 良好的跨团队协作能力，能与后端工程师、产品经理高效配合，将“行为即奖励”或“快慢脑”技术方案转化为真实的业务增长指标。",
-        "8. 对电商导购场景有敏锐洞察，愿意深入探索用户意图识别、多轮对话管理及商业转化逻辑。"
+        "1、背景与学术： 人工智能、深度学习、强化学习、运筹学或相关专业全球顶尖高校（C9/985/QS Top50）硕博毕业生。在 NeurIPS, ICML, ICLR, KDD 等顶会发表过高质量论文或拥有核心应用专利者优先",
+        "2、技术深度： 精通 Java/C++/Python 等编程语言",
+        "在 LLM 微调落地、Agent 应用设计、多模态理解、强化学习（RL）或运筹优化（OR）领域具备深厚的理论功底与丰富的产研结合经验",
+        "3、全局视野与综合素质： 具备极强的系统抽象能力，能将复杂的全球商业与供应链逻辑转化为严谨的数学或算法模型，极度关注算法的实际业务产出。自我驱动强，皮实自省，勇于面对全球化的高难度挑战，善于跨域协同推动落地。"
       ],
       "strong_plus": [
         "电商搜索",
@@ -17656,17 +17968,12 @@ window.ALISTAR_JOB_LIBRARY = [
       "broad_keywords": [
         "Python",
         "C++",
-        "PyTorch",
-        "TensorFlow",
-        "机器学习",
+        "Java",
         "深度学习",
-        "大模型",
         "LLM",
         "多模态",
         "算法",
         "系统",
-        "数据结构",
-        "高性能",
         "AI",
         "Agent"
       ],
@@ -17680,173 +17987,31 @@ window.ALISTAR_JOB_LIBRARY = [
       ],
       "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
       "search_keywords": [
-        "强化学习",
-        "RL",
-        "模型训练",
-        "Agent框架",
-        "Agent架构",
-        "AI Agent",
+        "ai agent",
+        "agent",
+        "大模型应用",
+        "物流",
+        "运筹优化",
+        "运筹",
+        "预测",
         "智能体",
-        "Agent训练",
-        "Reward Model",
-        "奖励模型",
-        "时序数据处理"
+        "Agent应用",
+        "供应链"
       ],
       "core_keywords": [
-        "强化学习",
-        "RL",
-        "模型训练",
-        "Agent框架",
-        "Agent架构",
-        "AI Agent",
+        "ai agent",
+        "agent",
+        "大模型应用",
+        "物流",
+        "运筹优化",
+        "运筹",
+        "预测",
         "智能体",
-        "Agent训练",
-        "Reward Model",
-        "奖励模型",
-        "时序数据处理"
+        "Agent应用",
+        "供应链"
       ],
       "strong_keywords": [
-        "低延迟",
-        "Reward Model",
-        "SFT",
-        "感知",
-        "NLP",
-        "CV",
-        "视频",
-        "音频"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
-      "research_direction_suggestion": "搜索推荐广告、用户理解、商品理解、电商/商业智能体、定价/供应链决策",
-      "recall_tags": [
-        "强化学习",
-        "RL",
-        "模型训练",
-        "Agent框架",
-        "Agent架构",
-        "AI Agent",
-        "智能体",
-        "Agent训练",
-        "Reward Model",
-        "奖励模型",
-        "时序数据处理"
-      ],
-      "ranking_focus": "强看搜广推链路、排序/召回/用户理解/业务指标优化证据。",
-      "hr_tip": "确认候选人是否理解搜索/推荐/广告链路和业务指标，避免只按大模型泛化匹配。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-161",
-    "category": "alistar",
-    "title": "Agentic RL 训练基础设施的关键技术研究-阿里星/A Star",
-    "department": "阿里云",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740110",
-    "description": "1. 设计和优化面向 Agent 训练的分布式 RL 训练系统，包括训练-推理统一调度、大规模 rollout 生成加速、长轨迹高效训练、异步奖励计算流水线等；基于 verl/Slime/RLInf 等开源框架进行系统级创新，结合 SGLang/vLLM 等推理引擎提升 Agentic RL 训练效率；\n2. 探索面向多步 Agent 任务的 RL 算法创新，包括长程信用分配方法、过程奖励建模、探索策略设计、GRPO/PPO 在 Agent 场景的改进、多智能体 RL 训练方法等；结合算法创新提升 Agent 的任务完成率、泛化能力和安全性；\n3. 构建可大规模并行的 Agent 训练环境基础设施，支持代码执行、Web 交互、API 调用等多种环境类型；设计和实现面向 Agentic RL 的评测体系和 benchmark 工具；\n4. 将 Agentic RL 训练的核心技术沉淀为 PAI 的产品能力，支持云上客户训练和部署领域 Agent，形成端到端的 Agent 训练平台；\n5. 有一定的技术前瞻性，可以对平台演进中的技术需求（如多智能体协作训练、Agent 安全对齐等）进行预研和设计，满足 AI 基础设施快速发展过程中各项业务场景的客户需求。",
-    "requirementsText": "1. 具备扎实的计算机基础知识和分布式系统研发经验，Python/C++ 编程能力强，并对操作系统原理、计算机网络等系统领域知识有较好的理解和项目应用经验。\n2. 对强化学习理论和算法有深入理解，熟悉 PPO、GRPO、REINFORCE 等算法，了解 LLM 训练和微调的基本流程（SFT、RLHF、DPO、OPD 等）。\n3. 具有较强的学习能力、复杂问题归纳梳理能力、沟通和团队协作能力，具备能够深度钻研技术的耐心。\n4. 有很强的学术研究能力和优秀的学术成果（AI/ML/Systems 领域顶会/顶刊论文），有以下方向的研究经验者尤为优先：强化学习、大模型训练/推理系统、LLM Agent、分布式系统。\n5. 熟悉 PyTorch 及相关训练生态（DeepSpeed、Megatron-LM、FSDP 等），有大模型训练或 RL 训练实战经验者优先。熟悉 verl、Slime、RLInf 等 RL 训练框架或 vLLM、SGLang 等推理引擎者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-008",
-    "search_keywords": [
-      "agent训练",
-      "Agent RL",
-      "模型训练",
-      "强化学习",
-      "RL训练",
-      "RL infra"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-008",
-      "job_family": "AI Infra/系统",
-      "domain": "训练与强化学习基础设施",
-      "sub_domain": "Agentic RL/RL Infra",
-      "core_problem": "提升大规模模型训练/后训练/强化学习训练的并行效率、资源利用率、稳定性和成本效率。",
-      "must_have": [
-        "1. 具备扎实的计算机基础知识和分布式系统研发经验，Python/C++ 编程能力强，并对操作系统原理、计算机网络等系统领域知识有较好的理解和项目应用经验。",
-        "2. 对强化学习理论和算法有深入理解，熟悉 PPO、GRPO、REINFORCE 等算法，了解 LLM 训练和微调的基本流程（SFT、RLHF、DPO、OPD 等）。",
-        "3. 具有较强的学习能力、复杂问题归纳梳理能力、沟通和团队协作能力，具备能够深度钻研技术的耐心。",
-        "4. 有很强的学术研究能力和优秀的学术成果（AI/ML/Systems 领域顶会/顶刊论文），有以下方向的研究经验者尤为优先：强化学习、大模型训练/推理系统、LLM Agent、分布式系统。",
-        "5. 熟悉 PyTorch 及相关训练生态（DeepSpeed、Megatron-LM、FSDP 等），有大模型训练或 RL 训练实战经验者优先。熟悉 verl、Slime、RLInf 等 RL 训练框架或 vLLM、SGLang 等推理引擎者优先。"
-      ],
-      "strong_plus": [
-        "Megatron-LM",
-        "DeepSpeed",
-        "FSDP",
-        "MoE",
-        "FlashMoE",
-        "rollout",
-        "RLHF/PPO/GRPO",
-        "显存优化",
-        "调度器",
-        "训练稳定性经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "Python",
-        "C++",
-        "PyTorch",
-        "大模型",
-        "LLM",
-        "算法",
-        "系统",
-        "操作系统",
-        "计算机网络",
-        "分布式系统",
-        "AI",
-        "Agent"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有模型应用或Prompt经验",
-        "无系统/性能/分布式/推理训练证据时降权。"
-      ],
-      "target_profile": "做过分布式训练、机器学习系统、RL Infra、MoE训练优化、集群调度或MLSys方向论文/项目的候选人。",
-      "search_keywords": [
-        "agent训练",
-        "Agent RL",
-        "模型训练",
-        "强化学习",
-        "RL训练",
-        "RL infra"
-      ],
-      "core_keywords": [
-        "agent训练",
-        "Agent RL",
-        "模型训练",
-        "强化学习",
-        "RL训练",
-        "RL infra"
-      ],
-      "strong_keywords": [
-        "异步奖励",
-        "长轨迹",
-        "SFT",
-        "DPO",
-        "PPO",
-        "GRPO",
-        "评测体系"
+        "多模态理解"
       ],
       "weak_keywords": [
         "Python/C++/Java/Golang",
@@ -17859,69 +18024,72 @@ window.ALISTAR_JOB_LIBRARY = [
         "默认低权重处理。"
       ],
       "seniority_requirement": "未明确/需人工确认",
-      "research_direction_suggestion": "机器学习系统、分布式系统、操作系统、计算机网络、HPC、GPU优化、系统性能优化",
+      "research_direction_suggestion": "搜索推荐广告、用户理解、商品理解、电商/商业智能体、定价/供应链决策",
       "recall_tags": [
-        "agent训练",
-        "Agent RL",
-        "模型训练",
-        "强化学习",
-        "RL训练",
-        "RL infra"
+        "ai agent",
+        "agent",
+        "大模型应用",
+        "物流",
+        "运筹优化",
+        "运筹",
+        "预测",
+        "智能体",
+        "Agent应用",
+        "供应链"
       ],
-      "ranking_focus": "方向匹配优先；强看系统/性能/分布式项目证据；泛化LLM词低权重。",
-      "hr_tip": "沟通时先确认候选人更偏训练、推理、通信、调度、存储还是算子优化，再按核心证据推荐具体岗位。",
+      "ranking_focus": "强看搜广推链路、排序/召回/用户理解/业务指标优化证据。",
+      "hr_tip": "确认候选人是否理解搜索/推荐/广告链路和业务指标，避免只按大模型泛化匹配。",
       "confidence": "高"
     }
   },
   {
-    "id": "alistar-162",
+    "id": "alistar-163",
     "category": "alistar",
-    "title": "面向多模态与Agentic 湖仓的 AI-aware 查询优化技术-阿里星/A Star",
-    "department": "阿里云",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740111",
-    "description": "AI 正在重塑数据平台的形态。未来的湖仓系统不再只是承载人写的 SQL，也将成为 AI agent 理解数据、检索知识、规划任务、调用工具和执行决策的核心基础设施。传统查询优化技术主要围绕结构化数据，关注 CPU、IO、网络、cardinality、join order、数据分布和访问路径选择；而在 AI Native 时代，查询执行链路中会越来越多地出现 LLM 调用、semantic operator、embedding、向量检索、全文检索、多模态文档解析、RAG pipeline 和 agentic workflow。\n\n这带来了全新的技术挑战：查询优化技术不仅要决定数据如何访问、计算如何组织、结果如何物化，还需要进一步感知和优化 模型调用成本、token 消耗、推理 latency、语义质量、向量召回率、多模态解析成本、AI 结果缓存与增量维护成本。查询优化技术正在从传统 CBO / RBO / 执行计划优化，演进为面向 AI workload 的 AI-aware 查询优化体系，成为连接数据、模型和 agent 的智能规划与执行基础。\n\n本岗位面向阿里云湖仓 / 数仓引擎核心技术团队，聚焦 “面向多模态与 Agentic 湖仓的 AI-aware 查询优化技术”，探索下一代 AI 数据平台的核心系统能力。你将参与建设 semantic operator、AI-aware cost model、混合检索优化、多模态 AI pipeline、AI function 增量计算、Agentic智能数仓等前沿方向，让大规模湖仓系统能够更高效、更低成本、更可解释地支撑 AI agent 和多模态数据处理。\n\n这是一个处在数据库系统、分布式系统、机器学习系统、LLM 应用基础设施和 AI Native 数据平台交叉处的前沿方向。你将有机会在真实超大规模工业系统中解决学术界和工业界都在探索的新问题，并将研究创新沉淀为产品能力、工程系统和业界影响力。\n\n岗位职责\n1. 探索 AI-aware 查询优化核心技术\n面向 LLM、AI function、semantic operator 和多模态 workload，研究和实现下一代查询优化能力，包括 AI-aware cost model、语义算子重写、模型调用优化、推理成本优化、结果缓存与复用等。\n2. 建设面向 AI workload 的 semantic operator 体系\n设计和实现 AI_FILTER、AI_CLASSIFY、AI_AGG / AI_SUMMARY_AGG、AI_EMBED、AI_SIMILARITY 等语义算子的优化能力，使 AI 计算不再只是黑盒 UDF，而是可被系统理解、规划和优化的一等计算能力。\n优化向量检索、全文检索和混合检索执行路径\n3. 面向 RAG、知识检索、多模态搜索等场景，建设向量检索、全文检索、混合检索的统一查询优化能力，探索 filter pushdown、ANN / exact search 选择、top-k fusion、semantic rerank、retrieval + rerank 两阶段优化等策略。\n4. 构建多模态 AI pipeline 的增量计算能力\n结合湖仓增量计算能力，探索文档解析、embedding 生成、分类、摘要、RAG 预处理等 AI function 的增量维护机制，降低多模态 AI 数据处理的计算成本和刷新延迟。\n5. 推动智能数仓走向 Agentic 自反馈优化\n参与 Agentic AutoMV、智能数据排布、索引 / 排序 / clustering 推荐与自动应用等能力建设，探索由 agent 驱动的“发现问题—生成优化方案—自动应用—观测收益—自反馈调整”闭环。\n6. 打造 AI Native 数据基础设施的技术影响力\n围绕 AI-aware 查询优化技术、semantic operator、Agentic Lakehouse、多模态增量计算、混合检索优化等方向，沉淀高质量技术方案、论文、专利和系统能力，提升团队在 AI + Data Infrastructure 方向的业界影响力。",
-    "requirementsText": "1. 计算机相关专业博士\n2. 熟悉数据库系统、分布式系统、查询优化技术、机器学习系统、向量检索、大规模数据处理中的一个或多个方向。\n3. 对 AI Native 数据平台、Agent Native 工程体系、Agentic Lakehouse 和多模态数据处理有强烈兴趣，愿意探索 LLM、Agent、RAG、semantic operator、AI function、向量检索、全文检索、混合检索等前沿方向。\n4. 具备较强的问题抽象、技术判断和工程落地能力，能够将前沿 AI 技术问题转化为可运行、可优化、可观测、可规模化落地的系统能力。\n5. 有数据库、分布式系统、AI 系统、机器学习系统、Agent 系统相关顶会论文、开源项目、竞赛或高质量实习经历者优先。\n6. 愿意在 AI + Data Infrastructure 的交叉方向长期深耕，参与构建下一代 AI Native / Agent Native 湖仓基础设施。",
+    "title": "多模态大模型与智能体算法研究-阿里星",
+    "department": "Token Foundry",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907720105",
+    "description": "以大模型为核心的生成式人工智能技术正在深刻重塑人机交互的方式与边界。手机及智能终端作为人类最高频的数字入口，天然承载着视觉、语音、触觉、传感器等丰富的多模态信息流，是多模态大模型与智能体技术落地的最关键战场。\n我们致力于通用人工智能（AGI）方向的前沿探索与产业落地创新。在迈向AGI的路径中，以手机和智能终端为核心载体，多模态感知、融合、推理与智能体协同等关键问题日益凸显，成为构建下一代通用智能系统的核心挑战。围绕端侧智能交互、设备端多模态理解、跨终端智能体协作等典型场景，我们正在探索如何将大模型能力真正下沉到用户的指尖，实现\"\"无处不在的智能\"\"。\n如果你对生成式AI、多模态大模型、智能体（Agent）系统有浓厚兴趣，并有志于将前沿AI技术在手机和智能终端场景中规模化落地，欢迎加入我们，共同定义下一代端智能的能力边界，牵引千行百业在智能时代的深度变革。\n\n职位描述\n1. 多模态大模型与智能体算法创新\n定义下一代多模态通用大模型与智能体技术范式，实现文本、语音、视觉及传感器等多模态的联合建模，重点探索并解决面向手机及智能终端场景的多模态对齐、多轮推理、Agentic决策等核心挑战，持续追寻通用多模态模型的效果上限。\n2. 端侧场景驱动的算法创新\n结合手机、平板、穿戴设备、IoT终端等真实业务场景（如智能语音助手、端侧视觉理解、设备端内容生成、跨模态检索与交互等），设计并优化大模型与智能体架构，在效果、效率与端侧资源约束之间取得最优平衡，提升模型鲁棒性与用户体验。\n3. 端到端技术闭环\n主导从数据构建、模型训练、端侧评测到设备部署的完整技术链路，通过AB实验、线上调用量、真实用户反馈等多维度指标验证技术价值，推动大模型技术在终端亿级设备上的规模化落地。\n4. 前沿技术探索与智能体系统研发\n深度跟踪并驱动LLM、多模态VLM、多模态AIGC/Diffusion Models、强化学习、Memory、工具调用（Tool Use）、GUI Agent、多智能体协作等前沿技术进展，结合终端交互场景定义技术新范式，快速迭代创新方案，推动相关模型达到并超越SOTA水平。",
+    "requirementsText": "1. 学术背景\n来自全球Top高校计算机科学、人工智能、信号处理、数学、物理或相关领域的应届博士 / 顶尖硕士毕业生；有手机厂商、智能终端或消费电子AI相关研究/实习经历者优先。\n2. 核心技术能力\n深入掌握深度学习、强化学习、表示学习等建模方法；在多模态建模、跨模态对齐、大模型智能体（Agent）系统设计等方向有深入研究；具备面向端侧/移动设备的模型压缩、量化、高效推理等优化经验者优先。\n3. 学术或开源影响力\n在国际顶级计算机会议/期刊（如NeurIPS、ICLR、CVPR、ECCV、ACL、InterSpeech、TPAMI等）以一作身份发表多篇论文，或在开源社区、行业竞赛中展示出引领性研究成果；有与手机/智能终端场景相关的研究发表或落地项目经历者优先。\n4. 工程与实验能力\n熟练掌握PyTorch / TensorFlow等主流框架，具备大规模语言/视觉模型训练与调优经验，能高效实现定制化训练流程；重视代码质量与实验严谨性，追求\"\"不仅work，而且高效优雅\"\"；有手机操作系统、端侧AI框架使用经验者优先。\n5. 场景理解与产品感知\n热衷于将AI技术从实验室推向真实终端产品，能够从手机和智能设备的复杂用户行为与交互需求中精准提炼核心AI建模问题，并设计创新性解决方案；对消费级智能产品有深刻的用户视角与产品直觉者优先。\n6. 跨团队协作\n善于与产品、基础研究、系统工程团队高效沟通，能够平衡技术理想与终端落地约束，在复杂的多方协作中推动技术方案高质量交付。",
     "required": [],
     "bonus": [],
-    "profile_id": "JOB-015",
+    "profile_id": "JOB-169",
     "search_keywords": [
-      "数据平台",
-      "湖仓",
-      "数据湖",
-      "查询优化",
-      "数据库",
-      "向量检索",
-      "数据处理",
-      "数仓引擎",
-      "数据库引擎",
-      "多模态数据"
+      "多模态大模型",
+      "MLLM",
+      "智能体",
+      "agent",
+      "端侧",
+      "终端",
+      "大模型智能体",
+      "大模型agent"
     ],
     "job_profile": {
-      "profile_id": "JOB-015",
-      "job_family": "数据系统/数据库/存储",
-      "domain": "AI湖仓与数据湖",
-      "sub_domain": "多模态湖仓/表格式存储",
-      "core_problem": "构建AI Native数据库、湖仓、向量检索、查询优化或高性能存储系统，支撑Data+AI融合场景。",
+      "profile_id": "JOB-169",
+      "job_family": "多模态/视觉/语音算法",
+      "domain": "多模态理解与生成",
+      "sub_domain": "统一多模态大模型",
+      "core_problem": "提升多模态理解、生成、检索、交互和内容生产能力，覆盖图像、视频、语音、3D、音乐等模态。",
       "must_have": [
-        "1. 计算机相关专业博士",
-        "2. 熟悉数据库系统、分布式系统、查询优化技术、机器学习系统、向量检索、大规模数据处理中的一个或多个方向。",
-        "3. 对 AI Native 数据平台、Agent Native 工程体系、Agentic Lakehouse 和多模态数据处理有强烈兴趣，愿意探索 LLM、Agent、RAG、semantic operator、AI function、向量检索、全文检索、混合检索等前沿方向。",
-        "4. 具备较强的问题抽象、技术判断和工程落地能力，能够将前沿 AI 技术问题转化为可运行、可优化、可观测、可规模化落地的系统能力。",
-        "5. 有数据库、分布式系统、AI 系统、机器学习系统、Agent 系统相关顶会论文、开源项目、竞赛或高质量实习经历者优先。",
-        "6. 愿意在 AI + Data Infrastructure 的交叉方向长期深耕，参与构建下一代 AI Native / Agent Native 湖仓基础设施。"
+        "1. 学术背景",
+        "来自全球Top高校计算机科学、人工智能、信号处理、数学、物理或相关领域的应届博士 / 顶尖硕士毕业生",
+        "有手机厂商、智能终端或消费电子AI相关研究/实习经历者优先。",
+        "2. 核心技术能力",
+        "深入掌握深度学习、强化学习、表示学习等建模方法",
+        "在多模态建模、跨模态对齐、大模型智能体（Agent）系统设计等方向有深入研究",
+        "具备面向端侧/移动设备的模型压缩、量化、高效推理等优化经验者优先。",
+        "3. 学术或开源影响力"
       ],
       "strong_plus": [
-        "Flink",
-        "Paimon",
-        "Elasticsearch",
-        "向量数据库",
-        "RAG",
-        "DAG",
-        "Query Planner",
-        "湖仓",
-        "并行文件存储",
-        "多模态数据管理经验。"
+        "多模态大模型",
+        "视频生成",
+        "3D重建",
+        "语音大模型",
+        "数字人",
+        "跨模态检索",
+        "可控生成",
+        "世界模型",
+        "AIGC产品化经验。"
       ],
       "weak_plus": [
         "Python/C++/Java/Golang",
@@ -17934,55 +18102,58 @@ window.ALISTAR_JOB_LIBRARY = [
         "默认低权重处理。"
       ],
       "broad_keywords": [
-        "机器学习",
+        "PyTorch",
+        "TensorFlow",
+        "深度学习",
+        "大模型",
         "LLM",
         "多模态",
+        "算法",
         "系统",
-        "分布式系统",
+        "操作系统",
         "AI",
-        "Agent"
+        "Agent",
+        "AIGC"
       ],
       "negative_signals": [
         "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
         "论文或工程证据",
         "研究方向只停留在应用Demo",
         "无法支撑核心研发判断。",
-        "只会SQL/业务分析",
-        "无数据库内核/分布式存储/检索系统证据时降权。"
+        "只有AIGC工具使用或业务运营经验",
+        "无模型训练/生成/理解证据时降权。"
       ],
-      "target_profile": "数据库、数据系统、分布式存储、搜索引擎、向量检索或大数据系统方向的候选人。",
+      "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
       "search_keywords": [
-        "数据平台",
-        "湖仓",
-        "数据湖",
-        "查询优化",
-        "数据库",
-        "向量检索",
-        "数据处理",
-        "数仓引擎",
-        "数据库引擎",
-        "多模态数据"
+        "多模态大模型",
+        "MLLM",
+        "智能体",
+        "agent",
+        "端侧",
+        "终端",
+        "大模型智能体",
+        "大模型agent"
       ],
       "core_keywords": [
-        "数据平台",
-        "湖仓",
-        "数据湖",
-        "查询优化",
-        "数据库",
-        "向量检索",
-        "数据处理",
-        "数仓引擎",
-        "数据库引擎",
-        "多模态数据"
+        "多模态大模型",
+        "MLLM",
+        "智能体",
+        "agent",
+        "端侧",
+        "终端",
+        "大模型智能体",
+        "大模型agent"
       ],
       "strong_keywords": [
+        "量化",
         "感知",
-        "数据库系统",
-        "大规模数据处理",
-        "索引",
+        "CV",
+        "语音",
+        "多模态理解",
+        "跨模态检索",
         "检索",
-        "SQL",
-        "多模态数据处理"
+        "开源社区",
+        "能力边界"
       ],
       "weak_keywords": [
         "Python/C++/Java/Golang",
@@ -17994,27 +18165,25 @@ window.ALISTAR_JOB_LIBRARY = [
         "沟通协作等基础或高频通用信号",
         "默认低权重处理。"
       ],
-      "seniority_requirement": "博士优先/博士强相关",
-      "research_direction_suggestion": "数据库、分布式存储、大数据系统、搜索引擎、向量数据库、数据湖/湖仓",
+      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
+      "research_direction_suggestion": "计算机视觉、多模态、生成模型、视频/语音/3D、AIGC",
       "recall_tags": [
-        "数据平台",
-        "湖仓",
-        "数据湖",
-        "查询优化",
-        "数据库",
-        "向量检索",
-        "数据处理",
-        "数仓引擎",
-        "数据库引擎",
-        "多模态数据"
+        "多模态大模型",
+        "MLLM",
+        "智能体",
+        "agent",
+        "端侧",
+        "终端",
+        "大模型智能体",
+        "大模型agent"
       ],
-      "ranking_focus": "强看数据库/存储/检索系统内核经验；业务SQL或数据分析低权重。",
-      "hr_tip": "重点确认数据库内核、查询优化、存储系统、检索系统或大数据框架经验。",
+      "ranking_focus": "强看模态任务一致性和模型训练/生成/评测证据；AIGC应用低权重。",
+      "hr_tip": "确认具体模态和任务：视频、图像、3D、语音、音乐、理解、生成或后训练。",
       "confidence": "高"
     }
   },
   {
-    "id": "alistar-163",
+    "id": "alistar-164",
     "category": "alistar",
     "title": "AI驱动的RISC-V高性能编译优化方法 - 阿里星",
     "department": "阿里巴巴控股集团",
@@ -18143,7 +18312,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-164",
+    "id": "alistar-165",
     "category": "alistar",
     "title": "国际智能定价和投资AI Agent-阿里星/BravoStar",
     "department": "阿里国际数字商业集团",
@@ -18292,9 +18461,9 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-165",
+    "id": "alistar-166",
     "category": "alistar",
-    "title": "电商多模态大模型及在商品理解的应用-阿里星/Bravo Star",
+    "title": "电商多模态大模型及在商品理解的应用-阿里星/BravoStar",
     "department": "阿里国际数字商业集团",
     "location": "杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907820098",
@@ -18304,10 +18473,11 @@ window.ALISTAR_JOB_LIBRARY = [
     "bonus": [],
     "profile_id": "ALISTAR-165",
     "search_keywords": [
-      "电商",
       "多模态大模型",
       "多模态理解",
-      "MLLM"
+      "电商",
+      "商品理解",
+      "多模态表征"
     ],
     "job_profile": {
       "profile_id": "ALISTAR-165",
@@ -18322,358 +18492,16 @@ window.ALISTAR_JOB_LIBRARY = [
       "negative_signals": [],
       "target_profile": "",
       "search_keywords": [
-        "电商",
         "多模态大模型",
         "多模态理解",
-        "MLLM"
+        "电商",
+        "商品理解",
+        "多模态表征"
       ]
     }
   },
   {
-    "id": "alistar-166",
-    "category": "alistar",
-    "title": "医疗多模态大模型与AI智能体-阿里星",
-    "department": "阿里巴巴控股集团",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740108",
-    "description": "1.研发面向医疗场景的多模态大模型（医学VLM），涵盖模型架构设计、多模态预训练与对齐、指令微调等\n2.探索医疗AI Agent的构建，包括多步推理、工具调用、临床工作流编排等\n3.与临床医生合作完成数据收集、标注和临床验证\n4.每年发表1-2篇顶会/顶刊论文（如CVPR、NeurIPS、AAAI、MICCAI、IEEE TMI、MedIA等）\n5.与工程产品团队协作，推动模型在业务场景中的落地应用",
-    "requirementsText": "1.计算机、人工智能、电子工程等相关专业的优秀硕士或博士生\n2.熟悉大语言模型或多模态大模型的训练流程（预训练、SFT、RLHF/DPO等）\n3.掌握深度学习模型（CNN、Transformer、VIT）及分布式训练，动手能力强\n4.在计算机视觉、NLP或多模态方向的顶会顶刊发表过高质量论文\n5.具备清晰的逻辑思考能力，善于从复杂问题中提炼核心\n\n加分项：\n1.有医学影像分析（分割、检测、报告生成）相关经验\n2.有LLM/VLM训练或Agent系统开发经验\n3.熟悉强化学习、推理增强（CoT/ToT）或检索增强生成（RAG）技术",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-030",
-    "search_keywords": [
-      "医疗AI",
-      "VLM",
-      "MLLM",
-      "医学影像",
-      "多模态大模型"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-030",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1.研发面向医疗场景的多模态大模型（医学VLM），涵盖模型架构设计、多模态预训练与对齐、指令微调等\n2.探索医疗AI Agent的构建，包括多步推理、工具调用、临床工作流编排等\n3.与临床医生合作完成数据收集、标注和临床验证\n4.每年发表1-2篇顶会/顶刊论文（如CVPR、NeurIPS、AAAI、MICCAI、IEEE TMI、MedIA等）\n5.与工程产品团队协作，推动模型在业务场景中的落地应用",
-      "must_have": [
-        "1.计算机、人工智能、电子工程等相关专业的优秀硕士或博士生",
-        "2.熟悉大语言模型或多模态大模型的训练流程（预训练、SFT、RLHF/DPO等）",
-        "3.掌握深度学习模型（CNN、Transformer、VIT）及分布式训练，动手能力强",
-        "4.在计算机视觉、NLP或多模态方向的顶会顶刊发表过高质量论文",
-        "5.具备清晰的逻辑思考能力，善于从复杂问题中提炼核心",
-        "加分项：",
-        "1.有医学影像分析（分割、检测、报告生成）相关经验",
-        "2.有LLM/VLM训练或Agent系统开发经验"
-      ],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": [
-        "医疗AI",
-        "VLM",
-        "MLLM",
-        "医学影像",
-        "多模态大模型"
-      ],
-      "core_keywords": [
-        "医疗AI",
-        "VLM",
-        "MLLM",
-        "医学影像",
-        "多模态大模型"
-      ],
-      "strong_keywords": [],
-      "weak_keywords": [],
-      "seniority_requirement": "",
-      "research_direction_suggestion": "",
-      "recall_tags": [
-        "医疗AI",
-        "VLM",
-        "MLLM",
-        "医学影像",
-        "多模态大模型"
-      ],
-      "ranking_focus": "优先完全命中人工岗位搜索关键词；多个关键词命中数量越多排序越靠前。",
-      "hr_tip": "",
-      "confidence": "表格导入"
-    }
-  },
-  {
     "id": "alistar-167",
-    "category": "alistar",
-    "title": "国际智能供应链与物流 AI Agent-阿里星/BravoStar",
-    "department": "阿里国际数字商业集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907720104",
-    "description": "阿里国际数字商业集团智能供应链物流和定价算法团队专注于海外零售经营的建设与优化，支持覆盖全球的千亿级零售行业。团队运用大模型、运筹优化、深度学习、强化学习、仿真等算法技术，解决需求洞察、价格损益、库存供给、供应链物流成本优化、履约体验等商业现实问题，重塑海外零售体系，创造社会价值。多年来团队紧跟工业界和学术界前沿，带来业务快速增长同时发表⾼⽔平学术论⽂20余篇（如AAAI、KDD、MS等），获得专利10余项。\n\n1、全链路算法攻坚与运筹求解： 主导 AI 与库存、物流、预测全链路结合的核心算法突破。针对配舱、分单、定仓等复杂网络问题，设计高效启发式或精确求解算法，实现成本与时效的极致平衡；\n2、业务闭环与极致效能： 将顶尖算法转化为真实的商业结果（降本增效、降低缺货率），引领团队技术方向，构筑基于产研深度结合的技术护城河；\n3、旨在构建专注于国际智能供应链与物流的 AI Agent。依托前沿的多模态大模型、强化学习与运筹优化算法，我们将彻底打通物理属性认知与端到端物流决策链路。以此应对高不确定性环境，极致压缩单均履约成本，提升现货率并提供确定性的交付承诺，推动国际电商供应链向高效、智能与韧性的全面升级。",
-    "requirementsText": "1、背景与学术： 人工智能、深度学习、强化学习、运筹学或相关专业全球顶尖高校（C9/985/QS Top50）硕博毕业生。在 NeurIPS, ICML, ICLR, KDD 等顶会发表过高质量论文或拥有核心应用专利者优先；\n2、技术深度： 精通 Java/C++/Python 等编程语言；在 LLM 微调落地、Agent 应用设计、多模态理解、强化学习（RL）或运筹优化（OR）领域具备深厚的理论功底与丰富的产研结合经验；\n3、全局视野与综合素质： 具备极强的系统抽象能力，能将复杂的全球商业与供应链逻辑转化为严谨的数学或算法模型，极度关注算法的实际业务产出。自我驱动强，皮实自省，勇于面对全球化的高难度挑战，善于跨域协同推动落地。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-170",
-    "search_keywords": [
-      "ai agent",
-      "agent",
-      "大模型应用",
-      "物流",
-      "运筹优化",
-      "运筹",
-      "预测",
-      "智能体",
-      "Agent应用",
-      "供应链"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-170",
-      "job_family": "搜广推/商业AI",
-      "domain": "经营决策Agent",
-      "sub_domain": "定价/供应链/物流决策",
-      "core_problem": "用大模型/智能体重构搜索、推荐、广告、导购、定价、供应链和用户理解等商业决策链路。",
-      "must_have": [
-        "1、背景与学术： 人工智能、深度学习、强化学习、运筹学或相关专业全球顶尖高校（C9/985/QS Top50）硕博毕业生。在 NeurIPS, ICML, ICLR, KDD 等顶会发表过高质量论文或拥有核心应用专利者优先",
-        "2、技术深度： 精通 Java/C++/Python 等编程语言",
-        "在 LLM 微调落地、Agent 应用设计、多模态理解、强化学习（RL）或运筹优化（OR）领域具备深厚的理论功底与丰富的产研结合经验",
-        "3、全局视野与综合素质： 具备极强的系统抽象能力，能将复杂的全球商业与供应链逻辑转化为严谨的数学或算法模型，极度关注算法的实际业务产出。自我驱动强，皮实自省，勇于面对全球化的高难度挑战，善于跨域协同推动落地。"
-      ],
-      "strong_plus": [
-        "电商搜索",
-        "推荐大模型",
-        "广告增效",
-        "AI导购",
-        "用户理解",
-        "商品理解",
-        "多语言电商",
-        "定价/供应链/物流智能体经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "Python",
-        "C++",
-        "Java",
-        "深度学习",
-        "LLM",
-        "多模态",
-        "算法",
-        "系统",
-        "AI",
-        "Agent"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有泛化大模型研究",
-        "无搜索/推荐/广告/电商业务建模证据时降权。"
-      ],
-      "target_profile": "推荐/广告/搜索、NLP、多模态商品理解、商业智能体、用户建模方向候选人。",
-      "search_keywords": [
-        "ai agent",
-        "agent",
-        "大模型应用",
-        "物流",
-        "运筹优化",
-        "运筹",
-        "预测",
-        "智能体",
-        "Agent应用",
-        "供应链"
-      ],
-      "core_keywords": [
-        "ai agent",
-        "agent",
-        "大模型应用",
-        "物流",
-        "运筹优化",
-        "运筹",
-        "预测",
-        "智能体",
-        "Agent应用",
-        "供应链"
-      ],
-      "strong_keywords": [
-        "多模态理解"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "未明确/需人工确认",
-      "research_direction_suggestion": "搜索推荐广告、用户理解、商品理解、电商/商业智能体、定价/供应链决策",
-      "recall_tags": [
-        "ai agent",
-        "agent",
-        "大模型应用",
-        "物流",
-        "运筹优化",
-        "运筹",
-        "预测",
-        "智能体",
-        "Agent应用",
-        "供应链"
-      ],
-      "ranking_focus": "强看搜广推链路、排序/召回/用户理解/业务指标优化证据。",
-      "hr_tip": "确认候选人是否理解搜索/推荐/广告链路和业务指标，避免只按大模型泛化匹配。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-168",
-    "category": "alistar",
-    "title": "多模态大模型与智能体算法研究-阿里星",
-    "department": "Token Foundry",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907720105",
-    "description": "以大模型为核心的生成式人工智能技术正在深刻重塑人机交互的方式与边界。手机及智能终端作为人类最高频的数字入口，天然承载着视觉、语音、触觉、传感器等丰富的多模态信息流，是多模态大模型与智能体技术落地的最关键战场。\n我们致力于通用人工智能（AGI）方向的前沿探索与产业落地创新。在迈向AGI的路径中，以手机和智能终端为核心载体，多模态感知、融合、推理与智能体协同等关键问题日益凸显，成为构建下一代通用智能系统的核心挑战。围绕端侧智能交互、设备端多模态理解、跨终端智能体协作等典型场景，我们正在探索如何将大模型能力真正下沉到用户的指尖，实现\"\"无处不在的智能\"\"。\n如果你对生成式AI、多模态大模型、智能体（Agent）系统有浓厚兴趣，并有志于将前沿AI技术在手机和智能终端场景中规模化落地，欢迎加入我们，共同定义下一代端智能的能力边界，牵引千行百业在智能时代的深度变革。\n\n职位描述\n1. 多模态大模型与智能体算法创新\n定义下一代多模态通用大模型与智能体技术范式，实现文本、语音、视觉及传感器等多模态的联合建模，重点探索并解决面向手机及智能终端场景的多模态对齐、多轮推理、Agentic决策等核心挑战，持续追寻通用多模态模型的效果上限。\n2. 端侧场景驱动的算法创新\n结合手机、平板、穿戴设备、IoT终端等真实业务场景（如智能语音助手、端侧视觉理解、设备端内容生成、跨模态检索与交互等），设计并优化大模型与智能体架构，在效果、效率与端侧资源约束之间取得最优平衡，提升模型鲁棒性与用户体验。\n3. 端到端技术闭环\n主导从数据构建、模型训练、端侧评测到设备部署的完整技术链路，通过AB实验、线上调用量、真实用户反馈等多维度指标验证技术价值，推动大模型技术在终端亿级设备上的规模化落地。\n4. 前沿技术探索与智能体系统研发\n深度跟踪并驱动LLM、多模态VLM、多模态AIGC/Diffusion Models、强化学习、Memory、工具调用（Tool Use）、GUI Agent、多智能体协作等前沿技术进展，结合终端交互场景定义技术新范式，快速迭代创新方案，推动相关模型达到并超越SOTA水平。",
-    "requirementsText": "1. 学术背景\n来自全球Top高校计算机科学、人工智能、信号处理、数学、物理或相关领域的应届博士 / 顶尖硕士毕业生；有手机厂商、智能终端或消费电子AI相关研究/实习经历者优先。\n2. 核心技术能力\n深入掌握深度学习、强化学习、表示学习等建模方法；在多模态建模、跨模态对齐、大模型智能体（Agent）系统设计等方向有深入研究；具备面向端侧/移动设备的模型压缩、量化、高效推理等优化经验者优先。\n3. 学术或开源影响力\n在国际顶级计算机会议/期刊（如NeurIPS、ICLR、CVPR、ECCV、ACL、InterSpeech、TPAMI等）以一作身份发表多篇论文，或在开源社区、行业竞赛中展示出引领性研究成果；有与手机/智能终端场景相关的研究发表或落地项目经历者优先。\n4. 工程与实验能力\n熟练掌握PyTorch / TensorFlow等主流框架，具备大规模语言/视觉模型训练与调优经验，能高效实现定制化训练流程；重视代码质量与实验严谨性，追求\"\"不仅work，而且高效优雅\"\"；有手机操作系统、端侧AI框架使用经验者优先。\n5. 场景理解与产品感知\n热衷于将AI技术从实验室推向真实终端产品，能够从手机和智能设备的复杂用户行为与交互需求中精准提炼核心AI建模问题，并设计创新性解决方案；对消费级智能产品有深刻的用户视角与产品直觉者优先。\n6. 跨团队协作\n善于与产品、基础研究、系统工程团队高效沟通，能够平衡技术理想与终端落地约束，在复杂的多方协作中推动技术方案高质量交付。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "JOB-169",
-    "search_keywords": [
-      "多模态大模型",
-      "MLLM",
-      "智能体",
-      "agent",
-      "端侧",
-      "终端",
-      "大模型智能体",
-      "大模型agent"
-    ],
-    "job_profile": {
-      "profile_id": "JOB-169",
-      "job_family": "多模态/视觉/语音算法",
-      "domain": "多模态理解与生成",
-      "sub_domain": "统一多模态大模型",
-      "core_problem": "提升多模态理解、生成、检索、交互和内容生产能力，覆盖图像、视频、语音、3D、音乐等模态。",
-      "must_have": [
-        "1. 学术背景",
-        "来自全球Top高校计算机科学、人工智能、信号处理、数学、物理或相关领域的应届博士 / 顶尖硕士毕业生",
-        "有手机厂商、智能终端或消费电子AI相关研究/实习经历者优先。",
-        "2. 核心技术能力",
-        "深入掌握深度学习、强化学习、表示学习等建模方法",
-        "在多模态建模、跨模态对齐、大模型智能体（Agent）系统设计等方向有深入研究",
-        "具备面向端侧/移动设备的模型压缩、量化、高效推理等优化经验者优先。",
-        "3. 学术或开源影响力"
-      ],
-      "strong_plus": [
-        "多模态大模型",
-        "视频生成",
-        "3D重建",
-        "语音大模型",
-        "数字人",
-        "跨模态检索",
-        "可控生成",
-        "世界模型",
-        "AIGC产品化经验。"
-      ],
-      "weak_plus": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "broad_keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "深度学习",
-        "大模型",
-        "LLM",
-        "多模态",
-        "算法",
-        "系统",
-        "操作系统",
-        "AI",
-        "Agent",
-        "AIGC"
-      ],
-      "negative_signals": [
-        "仅出现LLM/Python/PyTorch/深度学习等泛化词但缺少项目",
-        "论文或工程证据",
-        "研究方向只停留在应用Demo",
-        "无法支撑核心研发判断。",
-        "只有AIGC工具使用或业务运营经验",
-        "无模型训练/生成/理解证据时降权。"
-      ],
-      "target_profile": "CV、多模态、生成模型、语音、视频、3D视觉、AIGC方向的硕博候选人。",
-      "search_keywords": [
-        "多模态大模型",
-        "MLLM",
-        "智能体",
-        "agent",
-        "端侧",
-        "终端",
-        "大模型智能体",
-        "大模型agent"
-      ],
-      "core_keywords": [
-        "多模态大模型",
-        "MLLM",
-        "智能体",
-        "agent",
-        "端侧",
-        "终端",
-        "大模型智能体",
-        "大模型agent"
-      ],
-      "strong_keywords": [
-        "量化",
-        "感知",
-        "CV",
-        "语音",
-        "多模态理解",
-        "跨模态检索",
-        "检索",
-        "开源社区",
-        "能力边界"
-      ],
-      "weak_keywords": [
-        "Python/C++/Java/Golang",
-        "Linux",
-        "PyTorch/TensorFlow",
-        "机器学习/深度学习",
-        "大模型/LLM",
-        "多模态",
-        "沟通协作等基础或高频通用信号",
-        "默认低权重处理。"
-      ],
-      "seniority_requirement": "硕士及以上，博士优先/博士强相关",
-      "research_direction_suggestion": "计算机视觉、多模态、生成模型、视频/语音/3D、AIGC",
-      "recall_tags": [
-        "多模态大模型",
-        "MLLM",
-        "智能体",
-        "agent",
-        "端侧",
-        "终端",
-        "大模型智能体",
-        "大模型agent"
-      ],
-      "ranking_focus": "强看模态任务一致性和模型训练/生成/评测证据；AIGC应用低权重。",
-      "hr_tip": "确认具体模态和任务：视频、图像、3D、语音、音乐、理解、生成或后训练。",
-      "confidence": "高"
-    }
-  },
-  {
-    "id": "alistar-169",
     "category": "alistar",
     "title": "AI Agent CPU 架构探索-阿里星",
     "department": "阿里巴巴控股集团",
@@ -18786,7 +18614,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-170",
+    "id": "alistar-168",
     "category": "alistar",
     "title": "大规模多地域数据存储和异构计算系统研究-阿里星",
     "department": "阿里巴巴控股集团",
@@ -18937,7 +18765,7 @@ window.ALISTAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "alistar-171",
+    "id": "alistar-169",
     "category": "alistar",
     "title": "淘宝闪购C端Agent研究与实践-阿里星",
     "department": "淘宝闪购",
@@ -19179,7 +19007,7 @@ window.REGULAR_JOB_LIBRARY = [
     "id": "regular-4",
     "category": "regular",
     "title": "AI Infra工程师",
-    "department": "阿里巴巴控股集团、淘天集团、淘宝闪购、飞猪、阿里国际数字商业集团、阿里云、Token Foundry、千问事业部、虎鲸文娱集团",
+    "department": "阿里巴巴控股集团、淘天集团、飞猪、阿里国际数字商业集团、阿里云、Token Foundry、千问事业部、虎鲸文娱集团",
     "location": "北京、成都、广州、杭州、上海、深圳",
     "source": "https://campus-talent.alibaba.com/campus/position/199907640056",
     "description": "在这里，你将成为大模型技术落地的“幕后推手”。你将参与构建支撑千卡/万卡规模的 AI 计算基础设施，通过软硬件协同优化，解决大模型在训练、推理、调度全链路中的工程挑战。你的代码将直接决定大模型训练的效率、推理的响应速度以及集群资源的利用率，为 AI 时代的算力底座注入核心动力。\n\n具体的职责包括以下相关方向的一项或多项：\n1. 算力基建与分布式训练：\n● 深入分布式训练架构，优化通信与底层算子性能，解决大规模集群通信瓶颈，提升模型训练的吞吐量与计算效率。参与研究新的训练框架和模式。\n极致推理加速：\n● 针对大规模推理场景，研发高性能推理引擎，通过kernel、框架、与算法结合的有损优化等手段，实现极致的低延迟与高并发。\n2. 智能化资源调度与系统：\n● 构建大规模 GPU 集群的统一调度与编排系统，实现算力资源的弹性分配与自动化调度，设计与优化面向 AI 计算场景的高性能通信、存储系统，保障海量任务的极致的效率。\n3. 工程效率与平台化建设：\n● 打造一体化的平台，覆盖大模型研发和迭代的全流程，降低模型迭代门槛，提升研发效能。",
@@ -19290,18 +19118,18 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-8",
     "category": "regular",
-    "title": "算法研究员-多模态",
-    "department": "Token Foundry",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199909520002",
-    "description": "我们正在构建下一代多模态智能系统，我们围绕以下核心方向开展研究，欢迎对其中任一方向有深度积累或强烈兴趣的候选人加入：\n1.视频生成与世界模型 ：研究大规模视频生成的高效架构和训练方法，突破长时序、物理一致性等核心瓶颈；\n2.多模态理解 ：提升多模态表征能力，构建具备强泛化能力的多模态理解模型，实现图像、视频、音频的高质量理解；\n3.语音与音频模型 ：构建高自然度、强表现力的语音生成系统，探索音频-语言-视觉的多模态融合；\n4.大规模预训练与后训练优化 ：优化大规模多模态预训练策略，探索面向生成模型的强化学习方法，研究模型蒸馏、推理加速等部署优化技术。",
-    "requirementsText": "1、 计算机、人工智能、自动化等相关专业；\n2、在国际顶级会议/期刊发表过高质量论文，或拥有具备行业影响力的开源项目/竞赛成果；\n3、对生成模型（Diffusion Models、自回归模型等）和多模态大模型（VLM/LMM）有系统性理解和实战经验；\n4、具备从第一性原理出发思考问题的能力，有志于定义下一代多模态智能系统；\n5、代码功底扎实，熟悉PyTorch等主流框架，具备大规模模型训练经验者优先。",
+    "title": "Product Operations- Forward Youth Program (TH/ID/VN/MY/PH)",
+    "department": "阿里国际数字商业集团",
+    "location": "广州、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907780022",
+    "description": "1-AI Product Definition: Conduct user research and competitive analysis to define AI-powered solutions across full-link business scenarios.\n2-AI Implementation: Translate model capabilities into operational strategies. Manage Prompt engineering, tagging systems, and feature quality; collaborate with R&D/Algorithm teams to deploy AI features.\n3-Model Monitoring: Track AI performance metrics, manage grayscale releases, and monitor output consistency and stability to ensure healthy online services.\n4-Data Iteration: Monitor core KPIs using SQL/Python for data mining and experimental evaluation to continuously iterate AI strategies.\n5-AIGC Content: Develop creative packaging and content strategies for AIGC products to drive user engagement and loyalty.\n\nSpecial Note: This position is part of the company’s Southeast Asia Talent Development Initiative. We are looking for candidates who are willing to complete a 1-year rotation and practice in China and prepare for long-term roles in Thailand, Philippines, Indonesia, Malaysia, or Vietnam. Candidates with a strong passion for Southeast Asia region market and proficiency in Malay, Indonesian, Thai, Filipino, or Vietnamese are especially encouraged to apply.",
+    "requirementsText": "Proficiency in at least one Southeast Asian language (e.g., Indonesian, Thai, Malay, Vietnamese, or Filipino) is required.\n\n1-Education：Pursuing a Bachelor’s degree or higher; majors in Computer Science, Artificial Intelligence, Statistics, Mathematics, Information Management, Data Science, or related fields are preferred.\n2-Data Skills: Proficient in SQL, with the ability to independently conduct data analysis, feature interpretation, and experimental evaluation. Familiarity with Python (e.g., Pandas/NumPy) or common machine learning metrics (e.g., AUC, F1 score) is a plus.\n3-Experience: Strong interest in and hands-on experience with large language models and multimodal generation; solid understanding of core AIGC principles and workflows (e.g., ComfyUI, RAG).\n4-Problem Solving: Excellent logical thinking and structured problem-decomposition skills, capable of abstracting complex business scenarios into algorithmically solvable problems; possesses a systematic understanding of internet operations metrics.\n5-Soft Skills: Highly self-motivated, curious, and accountable; demonstrates strong cross-team communication and collaboration skills, resilience under pressure, and the ability to act as a bridge between technical and business stakeholders to drive projects forward.",
     "required": [],
     "bonus": [],
-    "profile_id": "REGULAR-008",
+    "profile_id": "REGULAR-299",
     "search_keywords": [],
     "job_profile": {
-      "profile_id": "REGULAR-008",
+      "profile_id": "REGULAR-299",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
@@ -19318,22 +19146,22 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-9",
     "category": "regular",
-    "title": "RISC-V软件测试工程师",
-    "department": "阿里巴巴控股集团",
-    "location": "杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199908460008",
-    "description": "1、负责 RISC-V 软件生态各层级的测试工作，包括但不限于工具链（编译器/链接器/汇编器）、指令集模拟器、调试器、操作系统内核、AI 推理框架等\n2、开发AI Agent和Skill，组织数字人进行端到端的测试，持续利用AI提升测试质量与效率\n3、针对编译器优化（指令调度、向量化、寄存器分配等）设计正确性验证用例，通过反汇编分析验证代码生成质量\n4、对模拟器进行指令精度、时序准确性及性能一致性测试，验证其对 RISC-V 扩展指令集的模拟完整度\n5、调试器功能与稳定性测试，覆盖断点、单步、内存查看、多核调试等核心场景\n6、操作系统内核测试，包括启动流程、中断处理、内存管理、驱动兼容性及系统调用等模块的功能与压力测试\n7、AI 相关软件栈测试，验证算子正确性、推理精度、模型部署流程及端到端性能表现\n8、搭建和维护多平台测试环境（硬件开发板、QEMU、Spike 模拟器等），管理测试资产与环境配置",
-    "requirementsText": "1、硕士及以上学历，计算机科学、软件工程、电子工程、微电子等相关专业 2025/2026 届应届毕业生\n2、扎实的计算机体系结构基础，熟悉 CPU 流水线、缓存层次、中断机制、MMU/TLB 等核心概念\n3、熟练掌握 C/C++ 或 Python 中至少一门编程语言，具备良好的代码阅读、调试与问题定位能力\n4、熟悉 Linux 开发环境，能熟练使用 Shell 脚本进行日常开发与自动化任务\n5、具备较强的逻辑分析能力，能独立设计测试方案并系统性推进执行\n6、良好的文档撰写能力和团队协作意识\n\n加分项：\n1、有开源社区贡献经历（提交过 PR 至 GCC、LLVM、QEMU、Linux Kernel 等项目）\n2、熟悉 CI/CD 工具链（Jenkins、GitLab CI、GitHub Actions）\n3、在校期间参与过 ACM/ICPC、操作系统/编译相关竞赛或科研项目\n\n我们提供深入参与 RISC-V 全栈软件生态建设，从指令集到 AI 推理端到端覆盖；接触编译器核心优化、模拟器微架构建模、内核适配、AI 部署等前沿技术领域；资深工程师一对一带教，系统化的技术培训与成长体系；参与开源社区协作，有机会向国际顶级开源项目贡献代码；具有竞争力的薪酬福利与清晰的职业发展通道。",
+    "title": "Merchandise Operations- Forward Youth Program (TH/ID/VN/MY/PH)",
+    "department": "阿里国际数字商业集团",
+    "location": "广州、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907740022",
+    "description": "1. Familiar with and understand the processes and functions of all merchandise operations stages;\n2. Analyze and gain insights into consumer and product demands, formulate merchandise strategies and marketing campaign planning, and drive implementation to boost order growth;\n3. Develop effective merchandise planning, create competitive products, rapidly supplement category demands, control costs and improve gross margins;\n4. Leverage internal and external resources to introduce competitive merchants and build merchant tier structures;\n5. Analyze the impact of product characteristics on user behavior, identify growth opportunities, and build understanding of user decision-making pathways;\n6. Skilled in data analysis, use data to guide frontend operations, and drive coordinated growth among merchants through data-driven approaches.\n\n\nSpecial Note: This position is part of the company’s Southeast Asia Talent Development Initiative. We are looking for candidates who are willing to complete a 1-year rotation and practice in China and prepare for long-term roles in Thailand, Philippines, Indonesia, Malaysia, or Vietnam. Candidates with a strong passion for Southeast Asia region market and proficiency in Malay, Indonesian, Thai, Filipino, or Vietnamese are especially encouraged to apply.",
+    "requirementsText": "Proficiency in at least one Southeast Asian language (e.g., Indonesian, Thai, Malay, Vietnamese, or Filipino) is required.\n\n1. Prior internship experience in well-known e-commerce or community group buying platforms is preferred;\n2. Strong data analysis and communication skills, excellent systematic and logical thinking abilities, understanding of complexity and ability to consider issues from a holistic perspective;\n3. Proficient in various computer office software including Word, Excel, PPT, etc.; skilled in editing software such as AE, PS, AI, PR, etc.;\n4. Strong presentation skills, able to communicate in language that others can understand, express clearly to ensure timely and accurate information delivery, with good aesthetic sense and strong video breakdown capabilities with good rhythm;\n5. Honest and upright character, proactive and initiative-taking, meticulous and detail-oriented, able to embrace new concepts; possess strong learning ability, high execution capability, strong principles, and driving force.",
     "required": [],
     "bonus": [],
-    "profile_id": "REGULAR-117",
+    "profile_id": "REGULAR-298",
     "search_keywords": [],
     "job_profile": {
-      "profile_id": "REGULAR-117",
+      "profile_id": "REGULAR-298",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
-      "core_problem": "1、负责 RISC-V 软件生态各层级的测试工作，包括但不限于工具链（编译器/链接器/汇编器）、指令集模拟器、调试器、操作系统内核、AI 推理框架等",
+      "core_problem": "",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -19346,22 +19174,22 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-10",
     "category": "regular",
-    "title": "阿里云管培生-商业技术方向",
-    "department": "阿里云",
-    "location": "北京、杭州、上海、深圳",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907780029",
-    "description": "1、客情建设和商机拓展，产品和技术价值传递，做好业务支持；\n2、推动决策和商机转化，与客户一线技术人员和采购团队建立紧密链接，在商业场景下诊断客户需求，解决客户问题，为客户创造价值；\n3、通过集中培训及实战演练，深入理解云架构及应用场景，学习阿里云最佳实践，深入理解业务并帮助客户在数字化转型中取得成功；\n4、你将获得：\n1）6-8个月的沉浸式云计算学习与培养机会；\n2）产品解决方案团队轮岗及学习经历；\n3）顶级行业大咖面对面；\n4）全球工作机会。",
-    "requirementsText": "1、泛计算机相关专业，至少熟练掌握一种编程语言；具有2年及以上系统学习经历；\n2、具备较好的学习能力、沟通能力、协调能力和团队合作能力；\n3、担任过学生干部、社团干部等，有校内外大型活动组织经验。\n\n【加分项】\n1、在校期间获得奖学金；\n2、作为项目负责人参加校级及以上大赛并有获奖经历；\n3、有大型互联网公司相关岗位实习经历。",
+    "title": "User Operations- Forward Youth Program (TH/ID/VN/MY/PH)",
+    "department": "阿里国际数字商业集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640029",
+    "description": "1-User Lifecycle Management：Manage the full user lifecycle, including new user acquisition, first activation, retention, and re-engagement.\n2-Strategy & Execution：Support the design and end-to-end execution of user engagement strategies—from ideation and implementation to timeline management—by effectively coordinating cross-functional resources (Product, Engineering, BI) to achieve user activity goals.\n3-User Insight & Personalization：Deeply understand user needs to create high-engagement scenarios and personalized services that boost stickiness.\n\nSpecial Note: This position is part of the company’s Southeast Asia Talent Development Initiative. We are looking for candidates who are willing to complete a 1-year rotation and practice in China and prepare for long-term roles in Thailand, Philippines, Indonesia, Malaysia, or Vietnam. Candidates with a strong passion for Southeast Asia region market and proficiency in Malay, Indonesian, Thai, Filipino, or Vietnamese are especially encouraged to apply.",
+    "requirementsText": "1-Education: Pursuing a Bachelor’s degree or higher; experience in large-scale internet products or user operations is a plus.\n2-Data-Driven: Analytical mindset with the ability to identify opportunities through data and independently solve operational challenges.\n3-Collaboration: Strong cross-functional coordination skills to achieve win-win outcomes.\n4-Problem Solving: Ability to see through complexity to identify core pain points and business essentials.\n5-Agility: Fast learner with a curious mindset and the ability to thrive in a fast-paced environment.",
     "required": [],
     "bonus": [],
-    "profile_id": "REGULAR-041",
+    "profile_id": "REGULAR-297",
     "search_keywords": [],
     "job_profile": {
-      "profile_id": "REGULAR-041",
+      "profile_id": "REGULAR-297",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
-      "core_problem": "1、客情建设和商机拓展，产品和技术价值传递，做好业务支持；",
+      "core_problem": "",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -19373,426 +19201,6 @@ window.REGULAR_JOB_LIBRARY = [
   },
   {
     "id": "regular-11",
-    "category": "regular",
-    "title": "云基础设施规划与交付数据工程师",
-    "department": "阿里云",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907780039",
-    "description": "1. 从数据中心资源规划、供需匹配、容量计划、运营分析等多角度，进行数据挖潜并以系统为主体实时计算出最优策略，实现容量统计分析和资源治理；\n2. 基于IDC、网络、和服务器一体化的角度剖析问题，用数据支持有落地可能性的策略建议或解决方案；\n3. 与产品技术团队协同，发现、孵化算法、产品类项目。",
-    "requirementsText": "1.硕士及以上学历，信息工程、统计学、数据科学、计算机相关专业优先\n2.了解云计算Infra基础概念（服务器产品架构、IDC资源规划、网络架构等），理解技术规划、供应、交付等供应链管理知识；\n3.具备数据处理与报告能力，能处理大规模数据集，撰写结构化分析报告，将复杂数据转化为业务可理解的洞察与行动建议；\n4.数据敏感度高，善于从数据中发现异常与机会，具备结构化思维，能将复杂问题拆解为可执行的分析步骤并驱动决策；\n5.学习能力强，对云计算、AI芯片、半导体周期等技术趋势有好奇心，能快速掌握新领域知识并应用于实际工作；\n6.具备良好的沟通协调能力，逻辑清晰，能与销售、研发、供应链等多角色协作，有类似云厂商或头部科技企业相关实习经验优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-043",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-043",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 从数据中心资源规划、供需匹配、容量计划、运营分析等多角度，进行数据挖潜并以系统为主体实时计算出最优策略，实现容量统计分析和资源治理；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-12",
-    "category": "regular",
-    "title": "供应链运营-俄语",
-    "department": "阿里国际数字商业集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199909220002",
-    "description": "1. 规划不同地区业务个性化场景的开拓，依据前台业务逻辑设计解决方案来应对前台商业规划的供应链/物流需求，该解决方案需要考虑物流产品,物流能力,物流服务框架的匹配；\n2. 设计合作伙伴运营管理及相应的产品体系，包括接入、运营及退出方案、分层分类机制等，实现平台与合作伙伴间的良性、健康的合作关系的建立，结合网站现状，使用产品化、数据化促进合作伙伴服务及能力的提升，提高消费者体验；\n3.制定供应链与物流计划，实现准时履约和更高的顾客满意度；\n4.仓储运营管理，商家运营项目管理，仓储流程规划，仓网规划设计。",
-    "requirementsText": "1. 物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业本科及以上学历，有物流、供应链、互联网产品运营相关实习经历者优先；\n2. 必须具备俄语熟练工作能力（B2及以上水平），能独立使用俄语进行跨团队沟通、商务文档本地化审核及合作伙伴协作（熟悉独联体地区俄语使用习惯者优先）；同时具备良好的中文或英文工作能力；\n3. 较强的数据挖掘和分析能力，好奇并追求问题的本质，能对结果进行解读并给出建议方案；掌握 Excel 等基础分析工具，了解数据逻辑；\n4. 热爱电商与物流行业，关注跨境供应链趋势与消费者体验，有良好的逻辑思维和方案呈现能力；\n5. 表达与协作能力强，逻辑清晰，能准确表达观点，具备良好的跨文化、跨团队沟通意识\n【加分项】\n有俄语国家留学、工作或生活经历者优先；",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-012",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-012",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-13",
-    "category": "regular",
-    "title": "AI产品经理-超级智能体",
-    "department": "千问事业部",
-    "location": "北京、广州、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907680002",
-    "description": "1.参与或负责千问AI产品规划、模型迭代、行业策略、数据机制、产品方案；\n2.分析用户需求、技术趋势、行业场景和竞品动态，落实到具体产品业务；\n3.构建用户需求、产品形态和模型范式之间的评估评价体系，不拘一格思考产品方案；\n4.跟进产品开发or运营进度，与算法、研发、设计等团队密切协同，确保产品快速迭代和实践。",
-    "requirementsText": "1.本科及以上学历；\n2.围绕大模型技术，有丰富的相关产品的深度使用思考习惯，有一定大模型动手创造实践经历更佳；\n3.优秀的创造力、想象力、逻辑思维与系统分析能力，突出的思考总结能力和沟通能力；\n4.希望你热爱产品和AI，有好奇心，想要突破自我上限。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-017",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-017",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1.参与或负责千问AI产品规划、模型迭代、行业策略、数据机制、产品方案；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-14",
-    "category": "regular",
-    "title": "风险策略分析师",
-    "department": "阿里国际数字商业集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199909260001",
-    "description": "1、负责阿里巴巴国际站业务风控策略运营：基于专家规则与数据分析，运用机器学习、AI模型等手段，对商家、买家及平台风险进行治理，涉及账号安全、商家站外引流、商品虚假价格、刷单作弊、营销反作弊、垃圾消息、AIGC内容安全等风险场景。\n2、负责业务平台治理规则体系与整体治理策略的建设、迭代，以及具体治理策略和指标体系（如风险水位、拦截率、误伤率、申诉率等）的搭建。\n3、深入理解阿里国际业务，精准追踪并评估业务风险程度，制定相关业务治理策略，有效利用产品化与数据化手段，推动风险管控形成良性循环，并持续优化治理成本。\n4、整合资源，协同上下游各职能团队，推动重要治理项目落地实施，实现风险控制与商业价值的平衡。",
-    "requirementsText": "1、计算机、软件工程、数学、统计、金融工程等相关专业硕士或以上学历；\n2、良好的数据处理与分析能力，以及数据化运营能力；熟练使用至少一种专业分析工具，如 Python、R、SAS、SQL 等；有 AI 应用经验（如 Prompt 优化、Agent 开发等）者优先；\n3、具备较高的风险敏锐度，能够快速理解新业务特性，主动发现风险点并提出体系化解决方案；有风险策略实习经验者优先；\n4、学习能力强，对新事物保持好奇心，并能快速适应新环境；具备良好的沟通能力与团队协同能力；对风控治理领域有热情，善于独立思考并反思总结。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-014",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-014",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-15",
-    "category": "regular",
-    "title": "算法工程师-具身智能数据应用",
-    "department": "阿里巴巴控股集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199909160002",
-    "description": "1.世界模型研发\n研究面向机器人操作场景的生成式世界模型，探索用生成模型辅助或替代真实环境进行数据生成的技术路径，提升机器人数据获取的效率与灵活性。\n2.数据编辑增广\n设计高效的数据处理方法，对现有的人类视频和真机数据进行编辑、转换与增广，将有限的原始数据转化为大规模、多场景的机器人训练数据。\n3.策略训练与效果验证\n将生成/增广后的数据接入下游机器人策略的训练流程，评估其对策略性能和泛化能力的实际提升效果，并据此持续优化数据生成方案。\n4.前沿技术跟踪与创新\n跟踪具身智能、生成式模型、机器人等领域的前沿进展，结合实际业务场景进行技术创新与落地探索。",
-    "requirementsText": "1.计算机视觉、机器人学、深度学习相关方向硕士及以上学历，有具身智能/世界模型/视频生成/VLA/Sim2Real 相关研究或工程经验优先；\n2.熟悉视频扩散/生成模型、模型蒸馏等技术原理与工程实现；\n3.熟悉 real-to-sim-to-real 流程，包括物体位姿追踪、仿真环境搭建、强化学习奖励设计者优先；\n4.具备大规模分布式训练（多卡/多机 GPU 集群）经验，能独立完成从数据处理到模型训练部署的全流程；\n5.熟悉机器人逆运动学（IK）、动作重定向（re-targeting）、遥操作系统者优先；\n6.有顶会论文发表（CVPR/ICCV/ECCV/RSS/CoRL 等）或核心项目落地经验者优先；\n7.具备较强的工程实现能力与快速实验迭代能力，能在真机平台上完成算法验证。\n\n加分项\n1.熟悉相关基础模型如 Genie、Cosmos、Wan、V-JEPA 2；\n2.有 pi0、pi 0.5、Diffusion Policy 等 VLA/操作策略训练与部署经验；\n3.熟悉人到机器人视频迁移/编辑类工作，如 Phantom、Masquerade、H2R、EgoEngine；\n4.熟悉 real-to-sim-to-real 数据合成路线，如 Human2Sim2Robot。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-015",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-015",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-16",
-    "category": "regular",
-    "title": "算法工程师-AI药物结构",
-    "department": "阿里巴巴控股集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199909080003",
-    "description": "1.蛋白质结构预测模型研发：开发与迭代蛋白质及复合物结构预测模型；\n2.生成式蛋白质设计：基于生成式架构，开发并优化蛋白质从头设计、抗体序列优化等模型；\n3.蛋白互作与结合建模：构建蛋白-蛋白相互作用预测与分子对接模型，研发抗体-抗原结合、亲和力、突变效应等预测方法，优化候选分子；\n4.设计-验证-迭代闭环：与湿实验团队（蛋白表达、纯化、生物物理表征、功能检测）紧密协作，基于实验反馈迭代优化模型与设计策略。",
-    "requirementsText": "1.计算生物学、生物信息学、计算机科学、结构生物学、生物物理、计算化学或相关专业博士学位；硕士学历需具备5年以上相关研发经验；\n2.精通Python编程，熟练掌握PyTorch（或TensorFlow）等主流深度学习框架，具备独立完成模型设计、训练与评估的能力；\n3.熟悉Transformer、生成模型、图神经网络等主流模型架构的原理与实现，有实际模型训练经验；\n4.具备扎实的蛋白质科学基础，理解序列-结构-功能关系、蛋白质物理化学性质与结构生物学基本原理；\n5.熟悉蛋白质结构AI领域主流方法与工具，如AlphaFold2/3、RoseTTA、ESM等，了解其原理与适用边界；\n6.熟悉蛋白质结构相关数据库（PDB、UniProt、SAbDab、OAS等）的使用与数据处理；\n7.有良好的学术产出记录：在顶级会议（NeurIPS、ICML、ICLR等），顶级期刊（CNS及其子刊）发表过多篇第一作者论文；\n8.良好的中英文文献阅读与学术写作能力，具备跨团队协作与沟通能力。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-012",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-012",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1.蛋白质结构预测模型研发：开发与迭代蛋白质及复合物结构预测模型；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-17",
-    "category": "regular",
-    "title": "AI Infra研发工程师-广告引擎",
-    "department": "淘天集团",
-    "location": "北京",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740016",
-    "description": "我们在做什么\n● 在AI与广告技术融合的最前沿，我们正在打造世界领先的AI广告系统，用技术驱动千亿级商业决策。每一行代码都将释放巨大商业价值！\n\n你将参与的核心项目\nAI 训推 Infra 优化建设\n● 从稀疏传统广告模型 到 稠密计算大模型，从端到端训练 到 大模型微调，持续优化改造工业级模型训练框架。\n● 从GPU到PPU到AMD，针对高度复杂的异构计算资源和环境，优化构建万卡推理引擎，支持广告全链路大模型提效。\n云原生架构赋能\n● 践行DevOps、ServiceMesh、Serverless-GaaS、落地AI运维、科学实验，为广告系统提供强大的基础设施。\n● 运用容器化、微服务构建弹性高可用的广告平台，管控海量广告引擎在离线资源 和 模型训推资源。\n用 AI 重塑研发\n● 基于LLM和Agent构建高质量知识库，高效管理数据、代码、系统、文档知识，让AI成为你最靠谱的技术伙伴。\n● 从 需求理解、方案设计、代码编写、测试验证，到 生产发布、日常答疑、问题诊断，端到端实现AI研发赋能。\n极致性能建模\n● 运用现代C++技术、CUDA等异构硬件编程技术，结合各种先进设施，构建毫秒级响应的分布式计算引擎。\n● 在训推之外， 探索GPU/PPU异构硬件在广告引擎各场景的优化落地，帮助业务提升RT/建模Scalingup空间。\n业务赋能前沿\n● 参与广告产品 Agent重塑、AI·Targeting等 重大升级，帮助AIGA/AIGB/AIGC/LUM/MUSE 等算法落地，助力AI提升广告效果。\n● 从容应对海量流量峰值，大促日常化不是梦！\n\n加入我们\n这里有开放、创新、追求卓越的团队文化 和 发展土壤:\n● 你将与行业顶尖工程师并肩作战, 共同成长\n● 用技术改变商业世界，让AI赋能每一个决策\n期待与你一起，在阿里妈妈创造属于我们的技术传奇！",
-    "requirementsText": "我们期待这样的你\n● 本科及以上学历，计算机、软件工程、人工智能 等计算机相关专业。\n● 热爱编程，熟练掌握C/C++、Python 等编程语言，具备扎实的编程功底。掌握常用数据结构与算法，熟悉 网络编程、多线程编程。\n● 熟悉CUDA编程，了解Tensorflow、PyTorch等机器学习平台，熟悉XLA/TensorRT/TVM 等机器学习编译器。\n● 了解DNN/LLM模型原理、工程架构，熟悉CPU/GPU/XPU硬件原理，能够参与定制化的模型算子改造、训推优化。\n● 学习能力强，不畏挑战，喜欢钻研，善于独立思考并反思总结，有良好的沟通表达能力。\n加分项\n● 有大型项目开发经验或ACM/ICPC等算法竞赛经验\n● 有 AI Agent 开发 or AI 应用落地，有异构计算优化经验者\n● 权威竞赛获奖者或顶级会议论文发表者",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-013",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-013",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "我们在做什么",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-18",
-    "category": "regular",
-    "title": "AI引擎研发工程师-C/C++",
-    "department": "淘天集团",
-    "location": "北京",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820009",
-    "description": "聚焦核心业务场景，借助现代C/C++、AI Agent等前沿技术推动AI提效的落地。你将参与从需求洞察到系统构建的全流程，通过建设和应用智能研发工具，通过持续推进极致的算力/架构优化，助力业务效率与效果提升，在AI新时代，实现技术驱动业务增长的完整闭环。进而推动业务和技术的智能化演进，实现技术价值高效转化。\n\n\n具体职责包括以下相关方向的一项或多项：\n1 深度参与业务提效\n● 参与核心商业化产品的 Agent重塑，见证传统系统到Agent系统的完整重生。通过持续的算力和架构优化助力AI提效的全面落地。\n2 持续推进极致的性能优化\n● 运用现代C/C++技术、CUDA等异构硬件编程技术，结合各种先进设施，构建构建高并发、低延迟，高可用的AI引擎框架和内核，支撑业务快速迭代；探索GPU/PPU异构硬件在业务系统的落地，帮助业务提升RT/建模Scalingup空间。\n 3 全面重塑AI研发全过程\n● 基于 LLM 和 Agent 构建高质量知识库，高效管理业务和技术知识，优化建设最先进的AICoding系统。推动日常工作，从需求理解到代码编写到生产发布到日常运维，端到端实现AI赋能。\n4 通过数据驱动业务提效\n● 借助湖仓、AIData、超参寻优、OLAP 等技术，洞察业务提效机会、系统算力洼地，直接赋能大盘效果提升和系统算力优化。\n5 深度参与云原生架构赋能\n● 践行DevOps、ServiceMesh、Serverless、落地AI运维、科学实验，为广告系统提供强大的基础设施。运用容器化、微服务构建弹性高可用的广告平台，管控海量CPU/GPU资源。",
-    "requirementsText": "1.基础条件\n● 计算机、软件工程、人工智能 等相关专业优先。\n2.专业能力\n● 扎实的计算机基础：具备扎实的计算机基础知识，深入理解数据结构、算法、网络和操作系统等相关知识，对大规模分布式系统有深刻理解。\n● 硬核的编程能力：熟练掌握C/C++、Python 等编程语言，掌握常见工程实践并具备优秀的Coding 能力，能根据场景灵活选型并快速上手。在AICoding上有深度的实践经验。\n● 熟悉异构硬件编程：熟悉CUDA编程，了解Tensorflow、PyTorch等机器学习平台，熟悉XLA/TensorRT/TVM 等机器学习编译器。\n● 理解分布式和云原生：具备构建复杂工程系统的潜力。熟悉现代云原生基础设施，例如 Kubernetes。\n● 熟悉Agent架构：对 Context Engineering、Prompt Engineering、AI-Memory 、主流Agent框架（LangChain 等）有一定理解，能够独立开发并优化Agent系统。\n3.能力特质\n● 好奇心重： 对未知事物保持渴望，对新鲜技术忍不住要实践（手痒）。\n● 学习力强： 具备快速学习并跟进前沿技术进展的能力，并能将理论知识转化为工程代码。\n● 动手力强： 拒绝纸上谈兵，有项目有实践，展现极客精神。\n具备坚韧不拔，彻底解决问题的冲动。\n● 思考力强： 具备敏锐的问题定义、识别、和 拆解 能力。能把复杂事物讲给人听、讲给AI听。\n● 积极主动： 具备强烈的自驱力，能够主动探索边界，而不是等待被分配任务。\n\n加分项\n● 有Agent 开发 or AI 应用落地，包括不限于RAG系统、多智能体编排、结合MCP、Skill等的Agent项目，有可展示的项目/实习成果者优先。\n● 对AI Infra有基本理解，了解vLLM、Ollama等推理框架原理，理解延迟优化、KV cache优化、流式输出等工程全局视角。\n● 有大型项目开发经验或ACM/ICPC等权威竞赛获奖者，或顶级会议论文发表，在开源社区上有高质量项目、技术博客或社区影响力。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-014",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-014",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "聚焦核心业务场景，借助现代C/C++、AI Agent等前沿技术推动AI提效的落地。你将参与从需求洞察到系统构建的全流程，通过建设和应用智能研发工具，通过持续推进极致的算力/架构优化，助力业务效率与效果提升，在AI新时代，实现技术驱动业务增长的完整闭环。进而推动业务和技术的智能化演进，实现技术价值高效转化。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-19",
-    "category": "regular",
-    "title": "算法工程师-多模态AIGC",
-    "department": "淘天集团、淘宝闪购、阿里国际数字商业集团、Token Foundry、千问事业部",
-    "location": "北京、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907700029",
-    "description": "1. 基于海量文本、图像、视频、音频等多模态数据，开展内容理解、匹配分发与生成的算法研究、系统研发及产品开发，构建智能内容生态；\n2. 探索AIGC前沿技术，包括扩散模型（如Stable Diffusion、Flux系列）、自回归生成（AR）、强化学习、多模态大模型等，持续打磨通用与垂域SOTA基座模型，提升下游应用效果，打造团队技术先进性与行业影响力；\n3. 推动AIGC的创新落地，包括但不限于：\n- 智能化内容生成工具（图文/短视频/广告素材等）\n- 视频生产、增强处理与直播智能看点提取\n- 虚拟试穿、3D内容生成、基于文本的通用图像/视频编辑\n- 结合计算机图形学、物理仿真与大语言模型的跨领域联合创新，开创视觉生成新范式。",
-    "requirementsText": "1. 硕士及以上学历，计算机、人工智能、电子与通信等相关专业；\n2. 熟悉扩散模型（如Stable Diffusion、Flux）、自回归生成、多模态理解等AIGC核心技术原理，有图像/视频生成、编辑或多模态项目经验；\n3. 具备扎实的工程实现能力，熟练掌握 Python/C++/Java 至少一门语言，熟悉 PyTorch/TensorFlow 等深度学习框架；\n4. 对生成式AI有强烈热情，具备快速复现前沿论文并推动技术落地的能力；\n5. 良好的沟通协作能力，乐于分享，能与跨职能团队高效推进项目。\n\n【加分项】\n1. 有互联网公司AIGC相关实习或项目经历；\n2. 在 ICCV/CVPR/NeurIPS/ECCV 等顶会发表论文，或在相关学术会议组织的权威比赛中获奖;\n3. 熟悉计算机图形学、物理仿真、3D生成或大模型微调/Agent开发者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-015",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-015",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 基于海量文本、图像、视频、音频等多模态数据，开展内容理解、匹配分发与生成的算法研究、系统研发及产品开发，构建智能内容生态；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-20",
-    "category": "regular",
-    "title": "算法工程师-AI搜索/推荐/广告",
-    "department": "淘天集团",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820022",
-    "description": "1. 前沿技术落地：负责 Agentic Search/Reasoning、Deep Research 及多模态大模型在电商场景的应用；探索 RLHF/RLAIF 对齐技术，推动搜推广架构向生成式预估/召回演进，验证 Scaling Law 潜力。\n2. 体验重构优化：深耕 Query 意图理解、语义检索及 UGC 内容生成；利用 LLM CoT 增强用户行为建模与偏好推理，提升搜推相关性、丰富度及匹配精准度。\n3. AIGC 商业提效：构建生成式内容生态（自动标题/卖点、文生图/视频、自动化投放），通过提升内容质量与生产效率，驱动用户体验与商业转化双增长。\n4. 智能体体系构建：研发 AI Agent、Agentic RL 及多智能体协同技术，应用于智能导购、交互式搜推及复杂供需匹配，打造具备自主推理、动态规划及自进化能力的智能系统。",
-    "requirementsText": "1. 基础扎实：计算机/AI相关专业硕士及以上，机器学习/深度学习理论基础深厚。\n2. 技术栈：精通 Python/C++ 及 PyTorch/TF，深入理解 Transformer，有 LLM 预训练/SFT/RLHF/RAG 实战经验者优先。\n3. 业务经验：熟悉搜/推/广经典算法（召回/排序/相关性等），有大模型改造传统链路经验者极佳。\n4. 前沿视野：对 AI Agent、Multi-modal LLM、Generative Retrieval 有深入研究，具备极强的工程落地能力与创新意识。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-016",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-016",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 前沿技术落地：负责 Agentic Search/Reasoning、Deep Research 及多模态大模型在电商场景的应用；探索 RLHF/RLAIF 对齐技术，推动搜推广架构向生成式预估/召回演进，验证 Scaling Law 潜力。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-21",
-    "category": "regular",
-    "title": "算法工程师-RL数据",
-    "department": "阿里巴巴控股集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199908780001",
-    "description": "你将深度参与强化学习后训练数据产线的构建，通过迭代数据来优化基模的各种能力。\n1.结合训练需求和模型能力分析，确定 RL 数据的覆盖范围与优先级；从多种渠道的海量数据里筛选挖掘样本并构建出清晰、可执行的问题描述。\n2.针对 Coding 及 Work 等场景，以人机协作的方式设计并构建Agent的运行环境，以及可量化的 Verifier 或多维度打分 Rubric。需要保证环境和Judge的正确性、完整性、鲁棒性，且持续迭代以应对 Reward Hacking等各类挑战，确保评估信号与训练目标对齐。\n3.端到端搭建批量化的数据生产与验证 Pipeline，涵盖任务生成、轨迹采样、自动校验和质量过滤，保障进入训练的数据可信、可追溯。\n4.与领域专家和算法/训练等团队紧密配合，将模型效果反馈转化为数据策略调整（任务难度、Reward 信号、标注规范等）。",
-    "requirementsText": "1.计算机、数学、统计学等相关专业硕士/博士优先，优秀本科生不受限制。有顶会论文（ACL/EMNLP/ICLR/NeurIPS/ICML等）/高影响项目/开源贡献者加分。\n2.具备Data-centric AI意识，精通后训练所需高质量数据挖掘与构造，具备合成数据（Synthetic Data）与动作轨迹（Trajectory）构建实践经验者优先。\n3.能理解 Reward Modeling 基本原理及 Reward 信号设计对 RL 训练（PPO/GRPO/DAPO 等）的影响，有 RL/Post-Training 研究或机器学习Applied Scientist 相关经历者优先，\n4.熟练使用 Python，熟悉主流的harness/agent框架，能独立完成数据处理脚本、自动化 Pipeline 和 QA 校验工具的开发\n5.沟通与文档能力：优秀的书面表达能力，能产出清晰的 Rubric 规范、技术方案和问题定义文档；善于跨团队协作，能将算法侧的模型反馈准确翻译为数据策略调整。\n6.有大规模机器学习任务调优经验者优先，有某个领域任务深度经验者优先（数学物理，ACM，kernel研发，高并发/HFT，软件工程，research，science等）\n对LLM，AGI/ASI感兴趣，践行AI Native工作范式者优先",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-018",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-018",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "你将深度参与强化学习后训练数据产线的构建，通过迭代数据来优化基模的各种能力。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-22",
-    "category": "regular",
-    "title": "游戏动效",
-    "department": "灵犀互娱",
-    "location": "广州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907680022",
-    "description": "1、对动画节奏把控强，懂基础的镜头语言。为不同世界观游戏设计具有创意，炫酷的界面动效；\n2、有交互思维，对游戏交互设计的原理有所了解，使玩家体验到视觉与交互下带来的感官刺激；\n3、能设计出有技术与理论沉淀的动效作品，并有自己的思考，设计出独具创新的动效。",
-    "requirementsText": "1、游戏发烧友，关注游戏体验，结合本岗位工作配合产品改进游戏体验；\n2、动画、特效、影视等设计类相关专业，有丰富的创新能力和设计经验，对vx动效有一定的经验与见解；\n3、善于沟通，能清晰的表达设计创意。注重职能间的相互配合；\n4、有较强的学习能力，主动研究与学习新技术运用到工作中，对市面流行设计较为关注并且有自己的见解；\n5、有较强的责任心，自主能动性高，工作投入度高，效率高，配合团队完成目标。\n\n同时，我们还希望你：\n1、学习能力强，对新事物保有好奇心，并能快速适应新环境；\n2、良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；\n3、对所在领域有热情，善于独立思考并反思总结；\n4、热爱游戏，简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等），或游戏相关作品/项目经历。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-019",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-019",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1、对动画节奏把控强，懂基础的镜头语言。为不同世界观游戏设计具有创意，炫酷的界面动效；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-23",
-    "category": "regular",
-    "title": "面向云原生的因果世界模型与自主运维智能体-A Star",
-    "department": "阿里云",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640055",
-    "description": "负责阿里云可观测平台核心算法与智能引擎建设，沉淀深厚的运维领域知识与经验。加入该岗位，您将基于大模型技术，构建下一代 AIOps 产品核心竞争力，打造面向未来的智能运维基础设施。\n1. 研发可观测核心算子，负责设计与研发面向海量可观测数据的核心算法算子，实现对海量原始数据的高效预处理与特征提取，为上层智能应用提供高质量输入；\n2. 参与 AIOps Agent 设计与研发，负责 LLM 驱动的 AIOps Agent 的核心算法研发。通过多 Agent 架构解决复杂场景下的根因定位、影响评估、智能巡检、辅助运维等难题；\n3. 构建并应用 AIOps Benchmark 体系，设计和落地具有业界影响力的 AIOps Benchmark 评测体系。通过系统化的故障注入与案例复盘，构建覆盖广泛、高度真实的评测数据集，用于度量和持续优化 AIOps 系统的泛化能力；\n4. 探索前沿模型训练与优化技术，运用监督微调（SFT）、强化学习（RLHF）等前沿技术，针对 AIOps 中的关键过程进行模型优化和迭代，持续提升 AIOps 的准确性和性能；\n5. 追踪前沿并推动技术落地，持续追踪和研究 LLM、Agent、知识图谱、图神经网络、因果推理等技术在 AIOps 领域的最新进展，结合阿里云可观测产品的实际场景，探索和推动前沿技术的应用与落地，构建技术壁垒。",
-    "requirementsText": "1. 专业背景扎实，计算机、人工智能、软件工程、模式识别、统计学等相关专业；\n2. 具备扎实的算法功底，熟练掌握机器学习/深度学习算法基础，在顶级会议/期刊发表过相关论文；\n3. 掌握 LLM 技术能力，熟悉 LLM 主流算法原理，在 Fine-tuning、Prompt Engineering、RAG、Agentic 应用开发等一个或多个方向有实践经验；\n4. 对 AI 有极客般的探索与实战精神：对大模型、AI Agent 技术有浓厚兴趣，能熟练使用 AI 编程工具，有过大模型微调，或 Agent 应用开发，上下文工程等相关开发经验优先；\n5. 有强烈技术热情和好奇心，自驱力和学习力强；具备良好的分析与解决问题的能力、沟通以及团队合作能力；喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。\n\n加分项：\n1. 在时序分析、异常检测、因果推断、图算法（GNN）、强化学习等领域有研究或实践经验；\n2. 熟悉可观测、智能运维，有 Kubernetes、Prometheus、OpenTelemetry 等开源项目相关使用经验。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-020",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-020",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "负责阿里云可观测平台核心算法与智能引擎建设，沉淀深厚的运维领域知识与经验。加入该岗位，您将基于大模型技术，构建下一代 AIOps 产品核心竞争力，打造面向未来的智能运维基础设施。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-24",
-    "category": "regular",
-    "title": "百炼MaaS网关工程师",
-    "department": "阿里巴巴控股集团",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199908340003",
-    "description": "1. 设计并实现高性能AI原生网关。构建低延迟、高并发的网关系统，支持多模态、多协议接入，为国内及全球客户提供灵活、安全、可扩展的流量接入方案，提供完整的数据面控制与可观测能力。\n2. 提供AI 安全防护 和 流量防护能力，提供智能的，柔性流控策略，应接尽接，最大限度确保合法流量进入。\n3. 提供流量调度能力，支持就近接入，Global/Local 调度，Fast/普通模式调度，极致性能转发，软硬一体，确保最短RT和体验。\n4. 提供流量千人千面的AI流量调度能力，构建AI时代的高速神经网络，提供多模态世界高速传输网络。",
-    "requirementsText": "1. 计算机/人工智能相关专业硕士及以上学历，熟练掌握 C++/Golang至少一种语言，有很好的抽象能力。\n2. 熟练掌握Linux/Posix操作系统下各种概念和原理，了解多线程，异步编程设计和高效的开发、调试方法。\n3. 熟悉微服务架构、分布式系统设计，有网关、调度系统、k8s或云原生平台开发经验者优先。\n4. 具备良好的抽象能力、工程判断力和跨团队协作意识，追求极致的系统性能与稳定性。\n\n加分项\n1. 熟悉开源Higress / SGlang Gateway / Nginx / Envoy， 对推理引擎领域开源项目有持续关注。\n2. 有过高性能计算领域文章发表等相关经验。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-021",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-021",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 设计并实现高性能AI原生网关。构建低延迟、高并发的网关系统，支持多模态、多协议接入，为国内及全球客户提供灵活、安全、可扩展的流量接入方案，提供完整的数据面控制与可观测能力。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-25",
-    "category": "regular",
-    "title": "算法工程师-预训练评测",
-    "department": "Token Foundry",
-    "location": "北京、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199908720004",
-    "description": "1. 针对预训练（含mid-training）模型在coding，cowork，长尾知识，长文本能力等方面的弱点，设计并构建具有可扩展性的自动化评测方案及高质量数据集。\n2. 整合高质量公开评测集和私有评测集。为不同训练阶段、不同领域、不同优化目标（模型结构/数据配比/主线模型迭代）定制评测方案，挑选质量最高、领域最合适、区分度最好的评测数据与指标。\n3. 与工程团队合作提高评测系统的效率与稳定性，完善评测故障分析与检测，并推动文本评测与Agent评测的自动化与可视化。\n4. 设计Pretrain + LightSFT的数据配比和训练策略并搭建相关pipeline，实时检测预训练模型的agentic潜力。\n5. 设计面向后训练agent能力导向的预训练评测范式，挖掘高预测性的external metrics以及internal indicators，寻找上限更高、潜力更强的预训练基座。",
-    "requirementsText": "1. 本科及以上学历，计算机、人工智能、软件工程、数学、自动化等相关专业优先。\n2. 优秀的数据sense，扎实的算法基础和 (vibe-) coding动手能力。具备对基础模型与Agent研发的热情，认同评测对模型优化的巨大价值。\n3. 有基模团队实习经历或相关领域顶会论文优先。有LLM评测经验，Benchmark构建经验或数据合成经验优先。\n4. 具备跨学科视野、良好的沟通能力和团队协作精神，能与数据、工程团队紧密配合推动落地。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-022",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-022",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 针对预训练（含mid-training）模型在coding，cowork，长尾知识，长文本能力等方面的弱点，设计并构建具有可扩展性的自动化评测方案及高质量数据集。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-26",
     "category": "regular",
     "title": "AI产品经理-智能体",
     "department": "千问办公",
@@ -19820,7 +19228,483 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
+    "id": "regular-12",
+    "category": "regular",
+    "title": "RISC-V软件测试工程师",
+    "department": "阿里巴巴控股集团",
+    "location": "杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199908460008",
+    "description": "1、负责 RISC-V 软件生态各层级的测试工作，包括但不限于工具链（编译器/链接器/汇编器）、指令集模拟器、调试器、操作系统内核、AI 推理框架等\n2、开发AI Agent和Skill，组织数字人进行端到端的测试，持续利用AI提升测试质量与效率\n3、针对编译器优化（指令调度、向量化、寄存器分配等）设计正确性验证用例，通过反汇编分析验证代码生成质量\n4、对模拟器进行指令精度、时序准确性及性能一致性测试，验证其对 RISC-V 扩展指令集的模拟完整度\n5、调试器功能与稳定性测试，覆盖断点、单步、内存查看、多核调试等核心场景\n6、操作系统内核测试，包括启动流程、中断处理、内存管理、驱动兼容性及系统调用等模块的功能与压力测试\n7、AI 相关软件栈测试，验证算子正确性、推理精度、模型部署流程及端到端性能表现\n8、搭建和维护多平台测试环境（硬件开发板、QEMU、Spike 模拟器等），管理测试资产与环境配置",
+    "requirementsText": "1、硕士及以上学历，计算机科学、软件工程、电子工程、微电子等相关专业 2025/2026 届应届毕业生\n2、扎实的计算机体系结构基础，熟悉 CPU 流水线、缓存层次、中断机制、MMU/TLB 等核心概念\n3、熟练掌握 C/C++ 或 Python 中至少一门编程语言，具备良好的代码阅读、调试与问题定位能力\n4、熟悉 Linux 开发环境，能熟练使用 Shell 脚本进行日常开发与自动化任务\n5、具备较强的逻辑分析能力，能独立设计测试方案并系统性推进执行\n6、良好的文档撰写能力和团队协作意识\n\n加分项：\n1、有开源社区贡献经历（提交过 PR 至 GCC、LLVM、QEMU、Linux Kernel 等项目）\n2、熟悉 CI/CD 工具链（Jenkins、GitLab CI、GitHub Actions）\n3、在校期间参与过 ACM/ICPC、操作系统/编译相关竞赛或科研项目\n\n我们提供深入参与 RISC-V 全栈软件生态建设，从指令集到 AI 推理端到端覆盖；接触编译器核心优化、模拟器微架构建模、内核适配、AI 部署等前沿技术领域；资深工程师一对一带教，系统化的技术培训与成长体系；参与开源社区协作，有机会向国际顶级开源项目贡献代码；具有竞争力的薪酬福利与清晰的职业发展通道。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-117",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-117",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1、负责 RISC-V 软件生态各层级的测试工作，包括但不限于工具链（编译器/链接器/汇编器）、指令集模拟器、调试器、操作系统内核、AI 推理框架等",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-13",
+    "category": "regular",
+    "title": "阿里云管培生-商业技术方向",
+    "department": "阿里云",
+    "location": "北京、杭州、上海、深圳",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907780029",
+    "description": "1、客情建设和商机拓展，产品和技术价值传递，做好业务支持；\n2、推动决策和商机转化，与客户一线技术人员和采购团队建立紧密链接，在商业场景下诊断客户需求，解决客户问题，为客户创造价值；\n3、通过集中培训及实战演练，深入理解云架构及应用场景，学习阿里云最佳实践，深入理解业务并帮助客户在数字化转型中取得成功；\n4、你将获得：\n1）6-8个月的沉浸式云计算学习与培养机会；\n2）产品解决方案团队轮岗及学习经历；\n3）顶级行业大咖面对面；\n4）全球工作机会。",
+    "requirementsText": "1、泛计算机相关专业，至少熟练掌握一种编程语言；具有2年及以上系统学习经历；\n2、具备较好的学习能力、沟通能力、协调能力和团队合作能力；\n3、担任过学生干部、社团干部等，有校内外大型活动组织经验。\n\n【加分项】\n1、在校期间获得奖学金；\n2、作为项目负责人参加校级及以上大赛并有获奖经历；\n3、有大型互联网公司相关岗位实习经历。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-041",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-041",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1、客情建设和商机拓展，产品和技术价值传递，做好业务支持；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-14",
+    "category": "regular",
+    "title": "云基础设施规划与交付数据工程师",
+    "department": "阿里云",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907780039",
+    "description": "1. 从数据中心资源规划、供需匹配、容量计划、运营分析等多角度，进行数据挖潜并以系统为主体实时计算出最优策略，实现容量统计分析和资源治理；\n2. 基于IDC、网络、和服务器一体化的角度剖析问题，用数据支持有落地可能性的策略建议或解决方案；\n3. 与产品技术团队协同，发现、孵化算法、产品类项目。",
+    "requirementsText": "1.硕士及以上学历，信息工程、统计学、数据科学、计算机相关专业优先\n2.了解云计算Infra基础概念（服务器产品架构、IDC资源规划、网络架构等），理解技术规划、供应、交付等供应链管理知识；\n3.具备数据处理与报告能力，能处理大规模数据集，撰写结构化分析报告，将复杂数据转化为业务可理解的洞察与行动建议；\n4.数据敏感度高，善于从数据中发现异常与机会，具备结构化思维，能将复杂问题拆解为可执行的分析步骤并驱动决策；\n5.学习能力强，对云计算、AI芯片、半导体周期等技术趋势有好奇心，能快速掌握新领域知识并应用于实际工作；\n6.具备良好的沟通协调能力，逻辑清晰，能与销售、研发、供应链等多角色协作，有类似云厂商或头部科技企业相关实习经验优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-043",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-043",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 从数据中心资源规划、供需匹配、容量计划、运营分析等多角度，进行数据挖潜并以系统为主体实时计算出最优策略，实现容量统计分析和资源治理；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-15",
+    "category": "regular",
+    "title": "供应链运营-俄语",
+    "department": "阿里国际数字商业集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199909220002",
+    "description": "1. 规划不同地区业务个性化场景的开拓，依据前台业务逻辑设计解决方案来应对前台商业规划的供应链/物流需求，该解决方案需要考虑物流产品,物流能力,物流服务框架的匹配；\n2. 设计合作伙伴运营管理及相应的产品体系，包括接入、运营及退出方案、分层分类机制等，实现平台与合作伙伴间的良性、健康的合作关系的建立，结合网站现状，使用产品化、数据化促进合作伙伴服务及能力的提升，提高消费者体验；\n3.制定供应链与物流计划，实现准时履约和更高的顾客满意度；\n4.仓储运营管理，商家运营项目管理，仓储流程规划，仓网规划设计。",
+    "requirementsText": "1. 物流管理、供应链管理、计算机、数学、统计、数据科学等相关专业本科及以上学历，有物流、供应链、互联网产品运营相关实习经历者优先；\n2. 必须具备俄语熟练工作能力（B2及以上水平），能独立使用俄语进行跨团队沟通、商务文档本地化审核及合作伙伴协作（熟悉独联体地区俄语使用习惯者优先）；同时具备良好的中文或英文工作能力；\n3. 较强的数据挖掘和分析能力，好奇并追求问题的本质，能对结果进行解读并给出建议方案；掌握 Excel 等基础分析工具，了解数据逻辑；\n4. 热爱电商与物流行业，关注跨境供应链趋势与消费者体验，有良好的逻辑思维和方案呈现能力；\n5. 表达与协作能力强，逻辑清晰，能准确表达观点，具备良好的跨文化、跨团队沟通意识\n【加分项】\n有俄语国家留学、工作或生活经历者优先；",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-012",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-012",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-16",
+    "category": "regular",
+    "title": "AI产品经理-超级智能体",
+    "department": "千问事业部",
+    "location": "北京、广州、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907680002",
+    "description": "1.参与或负责千问AI产品规划、模型迭代、行业策略、数据机制、产品方案；\n2.分析用户需求、技术趋势、行业场景和竞品动态，落实到具体产品业务；\n3.构建用户需求、产品形态和模型范式之间的评估评价体系，不拘一格思考产品方案；\n4.跟进产品开发or运营进度，与算法、研发、设计等团队密切协同，确保产品快速迭代和实践。",
+    "requirementsText": "1.本科及以上学历；\n2.围绕大模型技术，有丰富的相关产品的深度使用思考习惯，有一定大模型动手创造实践经历更佳；\n3.优秀的创造力、想象力、逻辑思维与系统分析能力，突出的思考总结能力和沟通能力；\n4.希望你热爱产品和AI，有好奇心，想要突破自我上限。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-017",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-017",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1.参与或负责千问AI产品规划、模型迭代、行业策略、数据机制、产品方案；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-17",
+    "category": "regular",
+    "title": "风险策略分析师",
+    "department": "阿里国际数字商业集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199909260001",
+    "description": "1、负责阿里巴巴国际站业务风控策略运营：基于专家规则与数据分析，运用机器学习、AI模型等手段，对商家、买家及平台风险进行治理，涉及账号安全、商家站外引流、商品虚假价格、刷单作弊、营销反作弊、垃圾消息、AIGC内容安全等风险场景。\n2、负责业务平台治理规则体系与整体治理策略的建设、迭代，以及具体治理策略和指标体系（如风险水位、拦截率、误伤率、申诉率等）的搭建。\n3、深入理解阿里国际业务，精准追踪并评估业务风险程度，制定相关业务治理策略，有效利用产品化与数据化手段，推动风险管控形成良性循环，并持续优化治理成本。\n4、整合资源，协同上下游各职能团队，推动重要治理项目落地实施，实现风险控制与商业价值的平衡。",
+    "requirementsText": "1、计算机、软件工程、数学、统计、金融工程等相关专业硕士或以上学历；\n2、良好的数据处理与分析能力，以及数据化运营能力；熟练使用至少一种专业分析工具，如 Python、R、SAS、SQL 等；有 AI 应用经验（如 Prompt 优化、Agent 开发等）者优先；\n3、具备较高的风险敏锐度，能够快速理解新业务特性，主动发现风险点并提出体系化解决方案；有风险策略实习经验者优先；\n4、学习能力强，对新事物保持好奇心，并能快速适应新环境；具备良好的沟通能力与团队协同能力；对风控治理领域有热情，善于独立思考并反思总结。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-014",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-014",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-18",
+    "category": "regular",
+    "title": "算法工程师-具身智能数据应用",
+    "department": "阿里巴巴控股集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199909160002",
+    "description": "1.世界模型研发\n研究面向机器人操作场景的生成式世界模型，探索用生成模型辅助或替代真实环境进行数据生成的技术路径，提升机器人数据获取的效率与灵活性。\n2.数据编辑增广\n设计高效的数据处理方法，对现有的人类视频和真机数据进行编辑、转换与增广，将有限的原始数据转化为大规模、多场景的机器人训练数据。\n3.策略训练与效果验证\n将生成/增广后的数据接入下游机器人策略的训练流程，评估其对策略性能和泛化能力的实际提升效果，并据此持续优化数据生成方案。\n4.前沿技术跟踪与创新\n跟踪具身智能、生成式模型、机器人等领域的前沿进展，结合实际业务场景进行技术创新与落地探索。",
+    "requirementsText": "1.计算机视觉、机器人学、深度学习相关方向硕士及以上学历，有具身智能/世界模型/视频生成/VLA/Sim2Real 相关研究或工程经验优先；\n2.熟悉视频扩散/生成模型、模型蒸馏等技术原理与工程实现；\n3.熟悉 real-to-sim-to-real 流程，包括物体位姿追踪、仿真环境搭建、强化学习奖励设计者优先；\n4.具备大规模分布式训练（多卡/多机 GPU 集群）经验，能独立完成从数据处理到模型训练部署的全流程；\n5.熟悉机器人逆运动学（IK）、动作重定向（re-targeting）、遥操作系统者优先；\n6.有顶会论文发表（CVPR/ICCV/ECCV/RSS/CoRL 等）或核心项目落地经验者优先；\n7.具备较强的工程实现能力与快速实验迭代能力，能在真机平台上完成算法验证。\n\n加分项\n1.熟悉相关基础模型如 Genie、Cosmos、Wan、V-JEPA 2；\n2.有 pi0、pi 0.5、Diffusion Policy 等 VLA/操作策略训练与部署经验；\n3.熟悉人到机器人视频迁移/编辑类工作，如 Phantom、Masquerade、H2R、EgoEngine；\n4.熟悉 real-to-sim-to-real 数据合成路线，如 Human2Sim2Robot。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-015",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-015",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-19",
+    "category": "regular",
+    "title": "算法工程师-AI药物结构",
+    "department": "阿里巴巴控股集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199909080003",
+    "description": "1.蛋白质结构预测模型研发：开发与迭代蛋白质及复合物结构预测模型；\n2.生成式蛋白质设计：基于生成式架构，开发并优化蛋白质从头设计、抗体序列优化等模型；\n3.蛋白互作与结合建模：构建蛋白-蛋白相互作用预测与分子对接模型，研发抗体-抗原结合、亲和力、突变效应等预测方法，优化候选分子；\n4.设计-验证-迭代闭环：与湿实验团队（蛋白表达、纯化、生物物理表征、功能检测）紧密协作，基于实验反馈迭代优化模型与设计策略。",
+    "requirementsText": "1.计算生物学、生物信息学、计算机科学、结构生物学、生物物理、计算化学或相关专业博士学位；硕士学历需具备5年以上相关研发经验；\n2.精通Python编程，熟练掌握PyTorch（或TensorFlow）等主流深度学习框架，具备独立完成模型设计、训练与评估的能力；\n3.熟悉Transformer、生成模型、图神经网络等主流模型架构的原理与实现，有实际模型训练经验；\n4.具备扎实的蛋白质科学基础，理解序列-结构-功能关系、蛋白质物理化学性质与结构生物学基本原理；\n5.熟悉蛋白质结构AI领域主流方法与工具，如AlphaFold2/3、RoseTTA、ESM等，了解其原理与适用边界；\n6.熟悉蛋白质结构相关数据库（PDB、UniProt、SAbDab、OAS等）的使用与数据处理；\n7.有良好的学术产出记录：在顶级会议（NeurIPS、ICML、ICLR等），顶级期刊（CNS及其子刊）发表过多篇第一作者论文；\n8.良好的中英文文献阅读与学术写作能力，具备跨团队协作与沟通能力。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-012",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-012",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1.蛋白质结构预测模型研发：开发与迭代蛋白质及复合物结构预测模型；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-20",
+    "category": "regular",
+    "title": "AI Infra研发工程师-广告引擎",
+    "department": "淘天集团",
+    "location": "北京",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907740016",
+    "description": "我们在做什么\n● 在AI与广告技术融合的最前沿，我们正在打造世界领先的AI广告系统，用技术驱动千亿级商业决策。每一行代码都将释放巨大商业价值！\n\n你将参与的核心项目\nAI 训推 Infra 优化建设\n● 从稀疏传统广告模型 到 稠密计算大模型，从端到端训练 到 大模型微调，持续优化改造工业级模型训练框架。\n● 从GPU到PPU到AMD，针对高度复杂的异构计算资源和环境，优化构建万卡推理引擎，支持广告全链路大模型提效。\n云原生架构赋能\n● 践行DevOps、ServiceMesh、Serverless-GaaS、落地AI运维、科学实验，为广告系统提供强大的基础设施。\n● 运用容器化、微服务构建弹性高可用的广告平台，管控海量广告引擎在离线资源 和 模型训推资源。\n用 AI 重塑研发\n● 基于LLM和Agent构建高质量知识库，高效管理数据、代码、系统、文档知识，让AI成为你最靠谱的技术伙伴。\n● 从 需求理解、方案设计、代码编写、测试验证，到 生产发布、日常答疑、问题诊断，端到端实现AI研发赋能。\n极致性能建模\n● 运用现代C++技术、CUDA等异构硬件编程技术，结合各种先进设施，构建毫秒级响应的分布式计算引擎。\n● 在训推之外， 探索GPU/PPU异构硬件在广告引擎各场景的优化落地，帮助业务提升RT/建模Scalingup空间。\n业务赋能前沿\n● 参与广告产品 Agent重塑、AI·Targeting等 重大升级，帮助AIGA/AIGB/AIGC/LUM/MUSE 等算法落地，助力AI提升广告效果。\n● 从容应对海量流量峰值，大促日常化不是梦！\n\n加入我们\n这里有开放、创新、追求卓越的团队文化 和 发展土壤:\n● 你将与行业顶尖工程师并肩作战, 共同成长\n● 用技术改变商业世界，让AI赋能每一个决策\n期待与你一起，在阿里妈妈创造属于我们的技术传奇！",
+    "requirementsText": "我们期待这样的你\n● 本科及以上学历，计算机、软件工程、人工智能 等计算机相关专业。\n● 热爱编程，熟练掌握C/C++、Python 等编程语言，具备扎实的编程功底。掌握常用数据结构与算法，熟悉 网络编程、多线程编程。\n● 熟悉CUDA编程，了解Tensorflow、PyTorch等机器学习平台，熟悉XLA/TensorRT/TVM 等机器学习编译器。\n● 了解DNN/LLM模型原理、工程架构，熟悉CPU/GPU/XPU硬件原理，能够参与定制化的模型算子改造、训推优化。\n● 学习能力强，不畏挑战，喜欢钻研，善于独立思考并反思总结，有良好的沟通表达能力。\n加分项\n● 有大型项目开发经验或ACM/ICPC等算法竞赛经验\n● 有 AI Agent 开发 or AI 应用落地，有异构计算优化经验者\n● 权威竞赛获奖者或顶级会议论文发表者",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-013",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-013",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "我们在做什么",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-21",
+    "category": "regular",
+    "title": "AI引擎研发工程师-C/C++",
+    "department": "淘天集团",
+    "location": "北京",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820009",
+    "description": "聚焦核心业务场景，借助现代C/C++、AI Agent等前沿技术推动AI提效的落地。你将参与从需求洞察到系统构建的全流程，通过建设和应用智能研发工具，通过持续推进极致的算力/架构优化，助力业务效率与效果提升，在AI新时代，实现技术驱动业务增长的完整闭环。进而推动业务和技术的智能化演进，实现技术价值高效转化。\n\n\n具体职责包括以下相关方向的一项或多项：\n1 深度参与业务提效\n● 参与核心商业化产品的 Agent重塑，见证传统系统到Agent系统的完整重生。通过持续的算力和架构优化助力AI提效的全面落地。\n2 持续推进极致的性能优化\n● 运用现代C/C++技术、CUDA等异构硬件编程技术，结合各种先进设施，构建构建高并发、低延迟，高可用的AI引擎框架和内核，支撑业务快速迭代；探索GPU/PPU异构硬件在业务系统的落地，帮助业务提升RT/建模Scalingup空间。\n 3 全面重塑AI研发全过程\n● 基于 LLM 和 Agent 构建高质量知识库，高效管理业务和技术知识，优化建设最先进的AICoding系统。推动日常工作，从需求理解到代码编写到生产发布到日常运维，端到端实现AI赋能。\n4 通过数据驱动业务提效\n● 借助湖仓、AIData、超参寻优、OLAP 等技术，洞察业务提效机会、系统算力洼地，直接赋能大盘效果提升和系统算力优化。\n5 深度参与云原生架构赋能\n● 践行DevOps、ServiceMesh、Serverless、落地AI运维、科学实验，为广告系统提供强大的基础设施。运用容器化、微服务构建弹性高可用的广告平台，管控海量CPU/GPU资源。",
+    "requirementsText": "1.基础条件\n● 计算机、软件工程、人工智能 等相关专业优先。\n2.专业能力\n● 扎实的计算机基础：具备扎实的计算机基础知识，深入理解数据结构、算法、网络和操作系统等相关知识，对大规模分布式系统有深刻理解。\n● 硬核的编程能力：熟练掌握C/C++、Python 等编程语言，掌握常见工程实践并具备优秀的Coding 能力，能根据场景灵活选型并快速上手。在AICoding上有深度的实践经验。\n● 熟悉异构硬件编程：熟悉CUDA编程，了解Tensorflow、PyTorch等机器学习平台，熟悉XLA/TensorRT/TVM 等机器学习编译器。\n● 理解分布式和云原生：具备构建复杂工程系统的潜力。熟悉现代云原生基础设施，例如 Kubernetes。\n● 熟悉Agent架构：对 Context Engineering、Prompt Engineering、AI-Memory 、主流Agent框架（LangChain 等）有一定理解，能够独立开发并优化Agent系统。\n3.能力特质\n● 好奇心重： 对未知事物保持渴望，对新鲜技术忍不住要实践（手痒）。\n● 学习力强： 具备快速学习并跟进前沿技术进展的能力，并能将理论知识转化为工程代码。\n● 动手力强： 拒绝纸上谈兵，有项目有实践，展现极客精神。\n具备坚韧不拔，彻底解决问题的冲动。\n● 思考力强： 具备敏锐的问题定义、识别、和 拆解 能力。能把复杂事物讲给人听、讲给AI听。\n● 积极主动： 具备强烈的自驱力，能够主动探索边界，而不是等待被分配任务。\n\n加分项\n● 有Agent 开发 or AI 应用落地，包括不限于RAG系统、多智能体编排、结合MCP、Skill等的Agent项目，有可展示的项目/实习成果者优先。\n● 对AI Infra有基本理解，了解vLLM、Ollama等推理框架原理，理解延迟优化、KV cache优化、流式输出等工程全局视角。\n● 有大型项目开发经验或ACM/ICPC等权威竞赛获奖者，或顶级会议论文发表，在开源社区上有高质量项目、技术博客或社区影响力。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-014",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-014",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "聚焦核心业务场景，借助现代C/C++、AI Agent等前沿技术推动AI提效的落地。你将参与从需求洞察到系统构建的全流程，通过建设和应用智能研发工具，通过持续推进极致的算力/架构优化，助力业务效率与效果提升，在AI新时代，实现技术驱动业务增长的完整闭环。进而推动业务和技术的智能化演进，实现技术价值高效转化。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-22",
+    "category": "regular",
+    "title": "算法工程师-多模态AIGC",
+    "department": "淘天集团、淘宝闪购、阿里国际数字商业集团、Token Foundry、千问事业部",
+    "location": "北京、杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907700029",
+    "description": "1. 基于海量文本、图像、视频、音频等多模态数据，开展内容理解、匹配分发与生成的算法研究、系统研发及产品开发，构建智能内容生态；\n2. 探索AIGC前沿技术，包括扩散模型（如Stable Diffusion、Flux系列）、自回归生成（AR）、强化学习、多模态大模型等，持续打磨通用与垂域SOTA基座模型，提升下游应用效果，打造团队技术先进性与行业影响力；\n3. 推动AIGC的创新落地，包括但不限于：\n- 智能化内容生成工具（图文/短视频/广告素材等）\n- 视频生产、增强处理与直播智能看点提取\n- 虚拟试穿、3D内容生成、基于文本的通用图像/视频编辑\n- 结合计算机图形学、物理仿真与大语言模型的跨领域联合创新，开创视觉生成新范式。",
+    "requirementsText": "1. 硕士及以上学历，计算机、人工智能、电子与通信等相关专业；\n2. 熟悉扩散模型（如Stable Diffusion、Flux）、自回归生成、多模态理解等AIGC核心技术原理，有图像/视频生成、编辑或多模态项目经验；\n3. 具备扎实的工程实现能力，熟练掌握 Python/C++/Java 至少一门语言，熟悉 PyTorch/TensorFlow 等深度学习框架；\n4. 对生成式AI有强烈热情，具备快速复现前沿论文并推动技术落地的能力；\n5. 良好的沟通协作能力，乐于分享，能与跨职能团队高效推进项目。\n\n【加分项】\n1. 有互联网公司AIGC相关实习或项目经历；\n2. 在 ICCV/CVPR/NeurIPS/ECCV 等顶会发表论文，或在相关学术会议组织的权威比赛中获奖;\n3. 熟悉计算机图形学、物理仿真、3D生成或大模型微调/Agent开发者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-015",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-015",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 基于海量文本、图像、视频、音频等多模态数据，开展内容理解、匹配分发与生成的算法研究、系统研发及产品开发，构建智能内容生态；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-23",
+    "category": "regular",
+    "title": "算法工程师-AI搜索/推荐/广告",
+    "department": "淘天集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820022",
+    "description": "1. 前沿技术落地：负责 Agentic Search/Reasoning、Deep Research 及多模态大模型在电商场景的应用；探索 RLHF/RLAIF 对齐技术，推动搜推广架构向生成式预估/召回演进，验证 Scaling Law 潜力。\n2. 体验重构优化：深耕 Query 意图理解、语义检索及 UGC 内容生成；利用 LLM CoT 增强用户行为建模与偏好推理，提升搜推相关性、丰富度及匹配精准度。\n3. AIGC 商业提效：构建生成式内容生态（自动标题/卖点、文生图/视频、自动化投放），通过提升内容质量与生产效率，驱动用户体验与商业转化双增长。\n4. 智能体体系构建：研发 AI Agent、Agentic RL 及多智能体协同技术，应用于智能导购、交互式搜推及复杂供需匹配，打造具备自主推理、动态规划及自进化能力的智能系统。",
+    "requirementsText": "1. 基础扎实：计算机/AI相关专业硕士及以上，机器学习/深度学习理论基础深厚。\n2. 技术栈：精通 Python/C++ 及 PyTorch/TF，深入理解 Transformer，有 LLM 预训练/SFT/RLHF/RAG 实战经验者优先。\n3. 业务经验：熟悉搜/推/广经典算法（召回/排序/相关性等），有大模型改造传统链路经验者极佳。\n4. 前沿视野：对 AI Agent、Multi-modal LLM、Generative Retrieval 有深入研究，具备极强的工程落地能力与创新意识。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-016",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-016",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 前沿技术落地：负责 Agentic Search/Reasoning、Deep Research 及多模态大模型在电商场景的应用；探索 RLHF/RLAIF 对齐技术，推动搜推广架构向生成式预估/召回演进，验证 Scaling Law 潜力。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-24",
+    "category": "regular",
+    "title": "算法工程师-RL数据",
+    "department": "阿里巴巴控股集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199908780001",
+    "description": "你将深度参与强化学习后训练数据产线的构建，通过迭代数据来优化基模的各种能力。\n1.结合训练需求和模型能力分析，确定 RL 数据的覆盖范围与优先级；从多种渠道的海量数据里筛选挖掘样本并构建出清晰、可执行的问题描述。\n2.针对 Coding 及 Work 等场景，以人机协作的方式设计并构建Agent的运行环境，以及可量化的 Verifier 或多维度打分 Rubric。需要保证环境和Judge的正确性、完整性、鲁棒性，且持续迭代以应对 Reward Hacking等各类挑战，确保评估信号与训练目标对齐。\n3.端到端搭建批量化的数据生产与验证 Pipeline，涵盖任务生成、轨迹采样、自动校验和质量过滤，保障进入训练的数据可信、可追溯。\n4.与领域专家和算法/训练等团队紧密配合，将模型效果反馈转化为数据策略调整（任务难度、Reward 信号、标注规范等）。",
+    "requirementsText": "1.计算机、数学、统计学等相关专业硕士/博士优先，优秀本科生不受限制。有顶会论文（ACL/EMNLP/ICLR/NeurIPS/ICML等）/高影响项目/开源贡献者加分。\n2.具备Data-centric AI意识，精通后训练所需高质量数据挖掘与构造，具备合成数据（Synthetic Data）与动作轨迹（Trajectory）构建实践经验者优先。\n3.能理解 Reward Modeling 基本原理及 Reward 信号设计对 RL 训练（PPO/GRPO/DAPO 等）的影响，有 RL/Post-Training 研究或机器学习Applied Scientist 相关经历者优先，\n4.熟练使用 Python，熟悉主流的harness/agent框架，能独立完成数据处理脚本、自动化 Pipeline 和 QA 校验工具的开发\n5.沟通与文档能力：优秀的书面表达能力，能产出清晰的 Rubric 规范、技术方案和问题定义文档；善于跨团队协作，能将算法侧的模型反馈准确翻译为数据策略调整。\n6.有大规模机器学习任务调优经验者优先，有某个领域任务深度经验者优先（数学物理，ACM，kernel研发，高并发/HFT，软件工程，research，science等）\n对LLM，AGI/ASI感兴趣，践行AI Native工作范式者优先",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-018",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-018",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "你将深度参与强化学习后训练数据产线的构建，通过迭代数据来优化基模的各种能力。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-25",
+    "category": "regular",
+    "title": "游戏动效",
+    "department": "灵犀互娱",
+    "location": "广州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907680022",
+    "description": "1、对动画节奏把控强，懂基础的镜头语言。为不同世界观游戏设计具有创意，炫酷的界面动效；\n2、有交互思维，对游戏交互设计的原理有所了解，使玩家体验到视觉与交互下带来的感官刺激；\n3、能设计出有技术与理论沉淀的动效作品，并有自己的思考，设计出独具创新的动效。",
+    "requirementsText": "1、游戏发烧友，关注游戏体验，结合本岗位工作配合产品改进游戏体验；\n2、动画、特效、影视等设计类相关专业，有丰富的创新能力和设计经验，对vx动效有一定的经验与见解；\n3、善于沟通，能清晰的表达设计创意。注重职能间的相互配合；\n4、有较强的学习能力，主动研究与学习新技术运用到工作中，对市面流行设计较为关注并且有自己的见解；\n5、有较强的责任心，自主能动性高，工作投入度高，效率高，配合团队完成目标。\n\n同时，我们还希望你：\n1、学习能力强，对新事物保有好奇心，并能快速适应新环境；\n2、良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；\n3、对所在领域有热情，善于独立思考并反思总结；\n4、热爱游戏，简历请附上游戏经历（包括但不限于游戏类型、游戏名称、游戏平台、游戏时长、游戏成就等），或游戏相关作品/项目经历。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-019",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-019",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1、对动画节奏把控强，懂基础的镜头语言。为不同世界观游戏设计具有创意，炫酷的界面动效；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-26",
+    "category": "regular",
+    "title": "面向云原生的因果世界模型与自主运维智能体-A Star",
+    "department": "阿里云",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640055",
+    "description": "负责阿里云可观测平台核心算法与智能引擎建设，沉淀深厚的运维领域知识与经验。加入该岗位，您将基于大模型技术，构建下一代 AIOps 产品核心竞争力，打造面向未来的智能运维基础设施。\n1. 研发可观测核心算子，负责设计与研发面向海量可观测数据的核心算法算子，实现对海量原始数据的高效预处理与特征提取，为上层智能应用提供高质量输入；\n2. 参与 AIOps Agent 设计与研发，负责 LLM 驱动的 AIOps Agent 的核心算法研发。通过多 Agent 架构解决复杂场景下的根因定位、影响评估、智能巡检、辅助运维等难题；\n3. 构建并应用 AIOps Benchmark 体系，设计和落地具有业界影响力的 AIOps Benchmark 评测体系。通过系统化的故障注入与案例复盘，构建覆盖广泛、高度真实的评测数据集，用于度量和持续优化 AIOps 系统的泛化能力；\n4. 探索前沿模型训练与优化技术，运用监督微调（SFT）、强化学习（RLHF）等前沿技术，针对 AIOps 中的关键过程进行模型优化和迭代，持续提升 AIOps 的准确性和性能；\n5. 追踪前沿并推动技术落地，持续追踪和研究 LLM、Agent、知识图谱、图神经网络、因果推理等技术在 AIOps 领域的最新进展，结合阿里云可观测产品的实际场景，探索和推动前沿技术的应用与落地，构建技术壁垒。",
+    "requirementsText": "1. 专业背景扎实，计算机、人工智能、软件工程、模式识别、统计学等相关专业；\n2. 具备扎实的算法功底，熟练掌握机器学习/深度学习算法基础，在顶级会议/期刊发表过相关论文；\n3. 掌握 LLM 技术能力，熟悉 LLM 主流算法原理，在 Fine-tuning、Prompt Engineering、RAG、Agentic 应用开发等一个或多个方向有实践经验；\n4. 对 AI 有极客般的探索与实战精神：对大模型、AI Agent 技术有浓厚兴趣，能熟练使用 AI 编程工具，有过大模型微调，或 Agent 应用开发，上下文工程等相关开发经验优先；\n5. 有强烈技术热情和好奇心，自驱力和学习力强；具备良好的分析与解决问题的能力、沟通以及团队合作能力；喜欢挑战性的技术研发工作，善于攻坚克难，有创新热情，积极乐观，坚韧抗压，结果导向，能够持续推动问题的解决和突破。\n\n加分项：\n1. 在时序分析、异常检测、因果推断、图算法（GNN）、强化学习等领域有研究或实践经验；\n2. 熟悉可观测、智能运维，有 Kubernetes、Prometheus、OpenTelemetry 等开源项目相关使用经验。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-020",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-020",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "负责阿里云可观测平台核心算法与智能引擎建设，沉淀深厚的运维领域知识与经验。加入该岗位，您将基于大模型技术，构建下一代 AIOps 产品核心竞争力，打造面向未来的智能运维基础设施。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
     "id": "regular-27",
+    "category": "regular",
+    "title": "百炼MaaS网关工程师",
+    "department": "阿里巴巴控股集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199908340003",
+    "description": "1. 设计并实现高性能AI原生网关。构建低延迟、高并发的网关系统，支持多模态、多协议接入，为国内及全球客户提供灵活、安全、可扩展的流量接入方案，提供完整的数据面控制与可观测能力。\n2. 提供AI 安全防护 和 流量防护能力，提供智能的，柔性流控策略，应接尽接，最大限度确保合法流量进入。\n3. 提供流量调度能力，支持就近接入，Global/Local 调度，Fast/普通模式调度，极致性能转发，软硬一体，确保最短RT和体验。\n4. 提供流量千人千面的AI流量调度能力，构建AI时代的高速神经网络，提供多模态世界高速传输网络。",
+    "requirementsText": "1. 计算机/人工智能相关专业硕士及以上学历，熟练掌握 C++/Golang至少一种语言，有很好的抽象能力。\n2. 熟练掌握Linux/Posix操作系统下各种概念和原理，了解多线程，异步编程设计和高效的开发、调试方法。\n3. 熟悉微服务架构、分布式系统设计，有网关、调度系统、k8s或云原生平台开发经验者优先。\n4. 具备良好的抽象能力、工程判断力和跨团队协作意识，追求极致的系统性能与稳定性。\n\n加分项\n1. 熟悉开源Higress / SGlang Gateway / Nginx / Envoy， 对推理引擎领域开源项目有持续关注。\n2. 有过高性能计算领域文章发表等相关经验。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-021",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-021",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 设计并实现高性能AI原生网关。构建低延迟、高并发的网关系统，支持多模态、多协议接入，为国内及全球客户提供灵活、安全、可扩展的流量接入方案，提供完整的数据面控制与可观测能力。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-28",
+    "category": "regular",
+    "title": "算法工程师-预训练评测",
+    "department": "Token Foundry",
+    "location": "北京、杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199908720004",
+    "description": "1. 针对预训练（含mid-training）模型在coding，cowork，长尾知识，长文本能力等方面的弱点，设计并构建具有可扩展性的自动化评测方案及高质量数据集。\n2. 整合高质量公开评测集和私有评测集。为不同训练阶段、不同领域、不同优化目标（模型结构/数据配比/主线模型迭代）定制评测方案，挑选质量最高、领域最合适、区分度最好的评测数据与指标。\n3. 与工程团队合作提高评测系统的效率与稳定性，完善评测故障分析与检测，并推动文本评测与Agent评测的自动化与可视化。\n4. 设计Pretrain + LightSFT的数据配比和训练策略并搭建相关pipeline，实时检测预训练模型的agentic潜力。\n5. 设计面向后训练agent能力导向的预训练评测范式，挖掘高预测性的external metrics以及internal indicators，寻找上限更高、潜力更强的预训练基座。",
+    "requirementsText": "1. 本科及以上学历，计算机、人工智能、软件工程、数学、自动化等相关专业优先。\n2. 优秀的数据sense，扎实的算法基础和 (vibe-) coding动手能力。具备对基础模型与Agent研发的热情，认同评测对模型优化的巨大价值。\n3. 有基模团队实习经历或相关领域顶会论文优先。有LLM评测经验，Benchmark构建经验或数据合成经验优先。\n4. 具备跨学科视野、良好的沟通能力和团队协作精神，能与数据、工程团队紧密配合推动落地。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-022",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-022",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 针对预训练（含mid-training）模型在coding，cowork，长尾知识，长文本能力等方面的弱点，设计并构建具有可扩展性的自动化评测方案及高质量数据集。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-29",
     "category": "regular",
     "title": "AI应用算法工程师-PostTrain",
     "department": "阿里巴巴控股集团",
@@ -19848,7 +19732,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-28",
+    "id": "regular-30",
     "category": "regular",
     "title": "AI Infra高性能网络研发工程师",
     "department": "阿里云",
@@ -19876,7 +19760,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-29",
+    "id": "regular-31",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-少儿自制-编剧",
     "department": "虎鲸文娱集团",
@@ -19904,7 +19788,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-30",
+    "id": "regular-32",
     "category": "regular",
     "title": "AI安全技术工程师",
     "department": "阿里巴巴控股集团、阿里云、千问办公",
@@ -19932,7 +19816,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-31",
+    "id": "regular-33",
     "category": "regular",
     "title": "面向AI原生应用的安全智能体关键技术与算法研究-A Star",
     "department": "阿里云",
@@ -19960,7 +19844,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-32",
+    "id": "regular-34",
     "category": "regular",
     "title": "算法工程师-视觉生成大模型",
     "department": "阿里巴巴控股集团",
@@ -19988,7 +19872,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-33",
+    "id": "regular-35",
     "category": "regular",
     "title": "动漫商业化IP授权",
     "department": "虎鲸文娱集团",
@@ -20016,7 +19900,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-34",
+    "id": "regular-36",
     "category": "regular",
     "title": "智能风控策略工程师",
     "department": "阿里云",
@@ -20044,7 +19928,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-35",
+    "id": "regular-37",
     "category": "regular",
     "title": "AI数据安全工程师",
     "department": "阿里云",
@@ -20072,7 +19956,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-36",
+    "id": "regular-38",
     "category": "regular",
     "title": "芯片工艺&良率工程师（PYE）",
     "department": "平头哥",
@@ -20100,7 +19984,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-37",
+    "id": "regular-39",
     "category": "regular",
     "title": "CIPU芯片研发工程师",
     "department": "阿里云",
@@ -20118,62 +20002,6 @@ window.REGULAR_JOB_LIBRARY = [
       "domain": "",
       "sub_domain": "",
       "core_problem": "CIPU芯片是阿里巴巴云计算数据中心的“神经中枢”，通过硬件级卸载与加速云计算核心负载，将通用计算、AI计算、存储与网络资源深度融合，为云上应用提供极致性能与弹性扩展能力。 作为连接云端业务需求与底层硅片实现的战略枢纽，你将主导下一代CIPU芯片的架构演进与产品落地，以自研芯片重新定义云时代的算力范式。在这里，你的每一",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-38",
-    "category": "regular",
-    "title": "封装应力设计工程师",
-    "department": "平头哥",
-    "location": "深圳",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640017",
-    "description": "1.负责开展芯片-封装-系统的端到端结构应力仿真及验证，确保芯片封装与芯片系统应用中的结构及应力可靠性，并指导芯片封装及系统应用开展结构及BOM材料选择及优化，保证芯片本体及应用的长期可靠性；\n2.负责芯片相关结构/应力故障问题的分析与根因定位，并提出对应的解决方案；\n3.负责对芯片封装材料的物理特性开展仿真模拟及实物测试校准，包括模量、CTE、弹塑性、粘弹性等材料物理特性，构建材料数据库及模型库；\n4.负责持续改进及优化材料及结构建模和实测校验的方法，以支撑新材料、新结构、新工艺下的芯片封装解决方案与应用的持续演进。",
-    "requirementsText": "1.工程力学或固体力学，或材料科学与工程，或机械设计等相关专业硕士及以上学历；\n2.具备力学和材料科学的基础知识；\n3.熟悉材料性能测试及机械应力相关失效的分析方法，有实践经验者优先；\n4.有结构应力仿真及测试经验，有Ansys、Abaqus和Hyperworks等仿真软件实践经验者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-035",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-035",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1.负责开展芯片-封装-系统的端到端结构应力仿真及验证，确保芯片封装与芯片系统应用中的结构及应力可靠性，并指导芯片封装及系统应用开展结构及BOM材料选择及优化，保证芯片本体及应用的长期可靠性；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-39",
-    "category": "regular",
-    "title": "国际体验运营-小语种",
-    "department": "阿里国际数字商业集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640018",
-    "description": "深入参与公司全球化战略的核心环节，协助负责特定国家市场（欧洲/拉美/日韩/中东等）的用户体验优化。如果你拥有出色的数理思维，逻辑脑和成长力。并对跨文化交流充满热情，这里将是你通往国际化运营的最佳起点。\n\n1、数据驱动的体验洞察：通过体验链路核心数据指标洞察发现用户旅程中的异常点与机会点，结合用户的VOC原声定位具体卡点问题，结合国家用户的偏好及竞对视角，输出优化方案及数据化衡量监控指标，协同产品/技术等横向团队推动体验改善；\n2、本地化运营支持与执行：对前台文案及服务方案进行系统走查，确保符合当地文化习俗，推进产品与内容的本地化机制或产品化方案的沉淀落地；\n3、常规性收集并整理目标市场的竞品信息、政策法规及用户反馈，并基于个人兴趣与特长，独立承担一个小型的专项课题，并在实习期末进行汇报。",
-    "requirementsText": "1、教育背景与经验：研究生学历，在跨境电商及咨询分析类岗位有实习经验者优先；\n2、核心能力\n● 跨文化敏锐度：深刻理解目标国家的消费心理、风俗习惯、及社会禁忌，具备极强的文化适应性，有本地留学或生活背景者优先；\n● 数据驱动思维：逻辑思维及框架性强，能通过数据发现体验断点并驱动改进，有基础SQL、Tableau 或类似数据分析经验者优先；\n● 个人素质：善于沟通协作，具备的较好抗压能力和拥抱变化的心态，适应快节奏的国际化工作环境；\n3、语言要求\n● 精通目标国家小语种者优先，可顺畅进行对消费者日常语境及工作场景商务语境沟通，满足主流专业等级认定证书及同等级别的评估，如日语N1/葡语C1/西语C1/波兰语C1/荷兰语C1/希伯来语B2或C1，英语专业8级/雅思7分；\n● 小语种人才，如同时具备优秀英语工作能力者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-036",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-036",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "深入参与公司全球化战略的核心环节，协助负责特定国家市场（欧洲/拉美/日韩/中东等）的用户体验优化。如果你拥有出色的数理思维，逻辑脑和成长力。并对跨文化交流充满热情，这里将是你通往国际化运营的最佳起点。",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -20214,6 +20042,62 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-41",
     "category": "regular",
+    "title": "封装应力设计工程师",
+    "department": "平头哥",
+    "location": "深圳",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640017",
+    "description": "1.负责开展芯片-封装-系统的端到端结构应力仿真及验证，确保芯片封装与芯片系统应用中的结构及应力可靠性，并指导芯片封装及系统应用开展结构及BOM材料选择及优化，保证芯片本体及应用的长期可靠性；\n2.负责芯片相关结构/应力故障问题的分析与根因定位，并提出对应的解决方案；\n3.负责对芯片封装材料的物理特性开展仿真模拟及实物测试校准，包括模量、CTE、弹塑性、粘弹性等材料物理特性，构建材料数据库及模型库；\n4.负责持续改进及优化材料及结构建模和实测校验的方法，以支撑新材料、新结构、新工艺下的芯片封装解决方案与应用的持续演进。",
+    "requirementsText": "1.工程力学或固体力学，或材料科学与工程，或机械设计等相关专业硕士及以上学历；\n2.具备力学和材料科学的基础知识；\n3.熟悉材料性能测试及机械应力相关失效的分析方法，有实践经验者优先；\n4.有结构应力仿真及测试经验，有Ansys、Abaqus和Hyperworks等仿真软件实践经验者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-035",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-035",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1.负责开展芯片-封装-系统的端到端结构应力仿真及验证，确保芯片封装与芯片系统应用中的结构及应力可靠性，并指导芯片封装及系统应用开展结构及BOM材料选择及优化，保证芯片本体及应用的长期可靠性；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-42",
+    "category": "regular",
+    "title": "国际体验运营-小语种",
+    "department": "阿里国际数字商业集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640018",
+    "description": "深入参与公司全球化战略的核心环节，协助负责特定国家市场（欧洲/拉美/日韩/中东等）的用户体验优化。如果你拥有出色的数理思维，逻辑脑和成长力。并对跨文化交流充满热情，这里将是你通往国际化运营的最佳起点。\n\n1、数据驱动的体验洞察：通过体验链路核心数据指标洞察发现用户旅程中的异常点与机会点，结合用户的VOC原声定位具体卡点问题，结合国家用户的偏好及竞对视角，输出优化方案及数据化衡量监控指标，协同产品/技术等横向团队推动体验改善；\n2、本地化运营支持与执行：对前台文案及服务方案进行系统走查，确保符合当地文化习俗，推进产品与内容的本地化机制或产品化方案的沉淀落地；\n3、常规性收集并整理目标市场的竞品信息、政策法规及用户反馈，并基于个人兴趣与特长，独立承担一个小型的专项课题，并在实习期末进行汇报。",
+    "requirementsText": "1、教育背景与经验：研究生学历，在跨境电商及咨询分析类岗位有实习经验者优先；\n2、核心能力\n● 跨文化敏锐度：深刻理解目标国家的消费心理、风俗习惯、及社会禁忌，具备极强的文化适应性，有本地留学或生活背景者优先；\n● 数据驱动思维：逻辑思维及框架性强，能通过数据发现体验断点并驱动改进，有基础SQL、Tableau 或类似数据分析经验者优先；\n● 个人素质：善于沟通协作，具备的较好抗压能力和拥抱变化的心态，适应快节奏的国际化工作环境；\n3、语言要求\n● 精通目标国家小语种者优先，可顺畅进行对消费者日常语境及工作场景商务语境沟通，满足主流专业等级认定证书及同等级别的评估，如日语N1/葡语C1/西语C1/波兰语C1/荷兰语C1/希伯来语B2或C1，英语专业8级/雅思7分；\n● 小语种人才，如同时具备优秀英语工作能力者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-036",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-036",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "深入参与公司全球化战略的核心环节，协助负责特定国家市场（欧洲/拉美/日韩/中东等）的用户体验优化。如果你拥有出色的数理思维，逻辑脑和成长力。并对跨文化交流充满热情，这里将是你通往国际化运营的最佳起点。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-43",
+    "category": "regular",
     "title": "AI Infra硬件系统开发工程师",
     "department": "阿里云",
     "location": "杭州、深圳",
@@ -20240,7 +20124,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-42",
+    "id": "regular-44",
     "category": "regular",
     "title": "云AI安全技术工程师",
     "department": "阿里云",
@@ -20268,7 +20152,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-43",
+    "id": "regular-45",
     "category": "regular",
     "title": "用户渠道运营",
     "department": "阿里国际数字商业集团",
@@ -20296,7 +20180,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-44",
+    "id": "regular-46",
     "category": "regular",
     "title": "AI芯片与系统架构科学家",
     "department": "阿里巴巴控股集团",
@@ -20324,7 +20208,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-45",
+    "id": "regular-47",
     "category": "regular",
     "title": "处理器AI架构师",
     "department": "阿里巴巴控股集团",
@@ -20352,7 +20236,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-46",
+    "id": "regular-48",
     "category": "regular",
     "title": "芯片编译研发工程师",
     "department": "平头哥",
@@ -20380,7 +20264,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-47",
+    "id": "regular-49",
     "category": "regular",
     "title": "AI芯片驱动工程师",
     "department": "平头哥",
@@ -20408,7 +20292,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-48",
+    "id": "regular-50",
     "category": "regular",
     "title": "AI内容运营",
     "department": "阿里国际数字商业集团",
@@ -20436,7 +20320,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-49",
+    "id": "regular-51",
     "category": "regular",
     "title": "芯片体系结构工程师",
     "department": "平头哥",
@@ -20464,7 +20348,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-50",
+    "id": "regular-52",
     "category": "regular",
     "title": "AI商业分析师",
     "department": "淘宝闪购",
@@ -20492,7 +20376,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-51",
+    "id": "regular-53",
     "category": "regular",
     "title": "芯片互联体系结构工程师",
     "department": "平头哥",
@@ -20520,7 +20404,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-52",
+    "id": "regular-54",
     "category": "regular",
     "title": "整合营销-小语种",
     "department": "阿里国际数字商业集团",
@@ -20548,35 +20432,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-53",
-    "category": "regular",
-    "title": "芯片软件工程师-存储与网络方向",
-    "department": "平头哥",
-    "location": "成都、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907780047",
-    "description": "1、参与存储SSD芯片/智能网卡/DPU芯片固件（FW）与驱动软件开发、调试及功能验证；\n2、基于对芯片底层架构的深度理解，参与自研芯片的功能验证与性能评估，通过软硬一体化协同设计（Codesign），驱动自研芯片在复杂业务场景下的竞争优势；\n3、开展固件测试（黑盒/灰盒）、问题定位与迭代改进。",
-    "requirementsText": "1、硕士及以上学历，电子工程、微电子、计算机、通信、自动化等相关专业；\n2、扎实的C/C++编程基础，熟悉数据结构与算法，具备良好的代码规范意识；\n3、掌握计算机组成原理、操作系统、嵌入式系统等基础知识；\n4、具备较强的学习能力、逻辑思维能力与团队协作精神，对底层软件开发有浓厚兴趣。\n\n【加分项】\n1、了解存储技术（SSD原理、NVMe、文件系统、RAID）或网络技术（TCP/IP、PCIe、OVS、虚拟化）；\n2、具备操作系统/驱动开发课程设计、竞赛经历（电子设计大赛、OSDI相关赛事等）；\n3、GitHub有技术项目、开源贡献或技术博客分享。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-058",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-058",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1、参与存储SSD芯片/智能网卡/DPU芯片固件（FW）与驱动软件开发、调试及功能验证；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-54",
+    "id": "regular-55",
     "category": "regular",
     "title": "芯片软件工程师-软硬件结合系统优化方向",
     "department": "平头哥",
@@ -20604,7 +20460,35 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-55",
+    "id": "regular-56",
+    "category": "regular",
+    "title": "芯片软件工程师-存储与网络方向",
+    "department": "平头哥",
+    "location": "成都、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907780047",
+    "description": "1、参与存储SSD芯片/智能网卡/DPU芯片固件（FW）与驱动软件开发、调试及功能验证；\n2、基于对芯片底层架构的深度理解，参与自研芯片的功能验证与性能评估，通过软硬一体化协同设计（Codesign），驱动自研芯片在复杂业务场景下的竞争优势；\n3、开展固件测试（黑盒/灰盒）、问题定位与迭代改进。",
+    "requirementsText": "1、硕士及以上学历，电子工程、微电子、计算机、通信、自动化等相关专业；\n2、扎实的C/C++编程基础，熟悉数据结构与算法，具备良好的代码规范意识；\n3、掌握计算机组成原理、操作系统、嵌入式系统等基础知识；\n4、具备较强的学习能力、逻辑思维能力与团队协作精神，对底层软件开发有浓厚兴趣。\n\n【加分项】\n1、了解存储技术（SSD原理、NVMe、文件系统、RAID）或网络技术（TCP/IP、PCIe、OVS、虚拟化）；\n2、具备操作系统/驱动开发课程设计、竞赛经历（电子设计大赛、OSDI相关赛事等）；\n3、GitHub有技术项目、开源贡献或技术博客分享。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-058",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-058",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1、参与存储SSD芯片/智能网卡/DPU芯片固件（FW）与驱动软件开发、调试及功能验证；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-57",
     "category": "regular",
     "title": "商品运营-小语种",
     "department": "阿里国际数字商业集团",
@@ -20632,7 +20516,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-56",
+    "id": "regular-58",
     "category": "regular",
     "title": "物流全链路运营",
     "department": "阿里国际数字商业集团",
@@ -20660,7 +20544,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-57",
+    "id": "regular-59",
     "category": "regular",
     "title": "游戏营销（日语）",
     "department": "灵犀互娱",
@@ -20688,7 +20572,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-58",
+    "id": "regular-60",
     "category": "regular",
     "title": "AI搜索运营专员",
     "department": "灵犀互娱",
@@ -20716,7 +20600,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-59",
+    "id": "regular-61",
     "category": "regular",
     "title": "公共关系专员",
     "department": "千问办公",
@@ -20744,7 +20628,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-60",
+    "id": "regular-62",
     "category": "regular",
     "title": "客户成功经理",
     "department": "千问办公",
@@ -20772,7 +20656,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-61",
+    "id": "regular-63",
     "category": "regular",
     "title": "游戏服务体验管理",
     "department": "灵犀互娱",
@@ -20800,7 +20684,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-62",
+    "id": "regular-64",
     "category": "regular",
     "title": "游戏营销（SLG）",
     "department": "灵犀互娱",
@@ -20828,7 +20712,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-63",
+    "id": "regular-65",
     "category": "regular",
     "title": "游戏美术项目管理",
     "department": "灵犀互娱",
@@ -20856,7 +20740,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-64",
+    "id": "regular-66",
     "category": "regular",
     "title": "游戏营销",
     "department": "灵犀互娱",
@@ -20884,7 +20768,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-65",
+    "id": "regular-67",
     "category": "regular",
     "title": "游戏运营（SLG）",
     "department": "灵犀互娱",
@@ -20912,7 +20796,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-66",
+    "id": "regular-68",
     "category": "regular",
     "title": "游戏技术美术",
     "department": "灵犀互娱",
@@ -20940,7 +20824,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-67",
+    "id": "regular-69",
     "category": "regular",
     "title": "游戏策划（卡牌）",
     "department": "灵犀互娱",
@@ -20968,7 +20852,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-68",
+    "id": "regular-70",
     "category": "regular",
     "title": "游戏策划（放置MMO）",
     "department": "灵犀互娱",
@@ -20996,7 +20880,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-69",
+    "id": "regular-71",
     "category": "regular",
     "title": "游戏产品运营",
     "department": "灵犀互娱",
@@ -21024,7 +20908,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-70",
+    "id": "regular-72",
     "category": "regular",
     "title": "游戏音频设计师",
     "department": "灵犀互娱",
@@ -21052,7 +20936,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-71",
+    "id": "regular-73",
     "category": "regular",
     "title": "人力资源专员",
     "department": "千问办公",
@@ -21080,7 +20964,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-72",
+    "id": "regular-74",
     "category": "regular",
     "title": "动漫制片人",
     "department": "虎鲸文娱集团",
@@ -21108,35 +20992,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-73",
-    "category": "regular",
-    "title": "数据分析师",
-    "department": "阿里巴巴控股集团、阿里国际数字商业集团、阿里云、千问办公、阿里健康",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907780074",
-    "description": "1. 与业务团队协作，共同构建全面的业务监控指标体系，并推动其产品化落地；\n2. 基于业务监控指标体系，及时发现业务问题，进行异动指标分析或深度的专题分析定位问题并寻求解决方案；\n3. 深入业务场景，为业务团队提供专题分析、数据分析与挖掘、模型及算法等相关服务；\n4. 提炼数据产品需求，提供数据产品解决方案，并最终推动数据产品落地；\n5. 负责组织和开展数据技术、产品相关的理念、技能及工具的内部培训，提升整个团队的数据素养。",
-    "requirementsText": "1.本科及以上学历，数学、统计、经济学、商业分析、运筹学、管理学、信息科学等相关专业；\n2. 熟练掌握Excel、SQL；熟悉R、Python或其他编程语言；\n3. 对行为分析感兴趣，喜欢从数据中发现规律，想踏入大数据的门槛；\n4. 学习能力强，对新事物保有好奇心，并能快速适应新环境；\n5.良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；对所在领域有热情，善于独立思考并反思总结。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-076",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-076",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 与业务团队协作，共同构建全面的业务监控指标体系，并推动其产品化落地；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-74",
+    "id": "regular-75",
     "category": "regular",
     "title": "项目管理",
     "department": "千问办公",
@@ -21164,7 +21020,35 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-75",
+    "id": "regular-76",
+    "category": "regular",
+    "title": "数据分析师",
+    "department": "阿里巴巴控股集团、阿里国际数字商业集团、阿里云、千问办公、阿里健康",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907780074",
+    "description": "1. 与业务团队协作，共同构建全面的业务监控指标体系，并推动其产品化落地；\n2. 基于业务监控指标体系，及时发现业务问题，进行异动指标分析或深度的专题分析定位问题并寻求解决方案；\n3. 深入业务场景，为业务团队提供专题分析、数据分析与挖掘、模型及算法等相关服务；\n4. 提炼数据产品需求，提供数据产品解决方案，并最终推动数据产品落地；\n5. 负责组织和开展数据技术、产品相关的理念、技能及工具的内部培训，提升整个团队的数据素养。",
+    "requirementsText": "1.本科及以上学历，数学、统计、经济学、商业分析、运筹学、管理学、信息科学等相关专业；\n2. 熟练掌握Excel、SQL；熟悉R、Python或其他编程语言；\n3. 对行为分析感兴趣，喜欢从数据中发现规律，想踏入大数据的门槛；\n4. 学习能力强，对新事物保有好奇心，并能快速适应新环境；\n5.良好的沟通能力和团队协同能力；能与他人合作，共同完成目标；对所在领域有热情，善于独立思考并反思总结。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-076",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-076",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 与业务团队协作，共同构建全面的业务监控指标体系，并推动其产品化落地；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-77",
     "category": "regular",
     "title": "产品经理-搜推策略",
     "department": "虎鲸文娱集团",
@@ -21192,7 +21076,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-76",
+    "id": "regular-78",
     "category": "regular",
     "title": "风险合规专员",
     "department": "阿里国际数字商业集团",
@@ -21220,7 +21104,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-77",
+    "id": "regular-79",
     "category": "regular",
     "title": "AI Agent产品经理",
     "department": "盒马",
@@ -21248,7 +21132,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-78",
+    "id": "regular-80",
     "category": "regular",
     "title": "风险策略运营",
     "department": "淘宝闪购、阿里国际数字商业集团",
@@ -21276,7 +21160,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-79",
+    "id": "regular-81",
     "category": "regular",
     "title": "游戏技术美术设计师",
     "department": "虎鲸文娱集团",
@@ -21304,7 +21188,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-80",
+    "id": "regular-82",
     "category": "regular",
     "title": "运维开发工程师",
     "department": "阿里云",
@@ -21332,7 +21216,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-81",
+    "id": "regular-83",
     "category": "regular",
     "title": "数据中心技术运维工程师",
     "department": "阿里云",
@@ -21360,7 +21244,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-82",
+    "id": "regular-84",
     "category": "regular",
     "title": "市场营销专员",
     "department": "阿里健康",
@@ -21388,7 +21272,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-83",
+    "id": "regular-85",
     "category": "regular",
     "title": "商务拓展专员",
     "department": "千问办公",
@@ -21416,7 +21300,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-84",
+    "id": "regular-86",
     "category": "regular",
     "title": "商品运营",
     "department": "淘宝闪购、阿里国际数字商业集团",
@@ -21444,7 +21328,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-85",
+    "id": "regular-87",
     "category": "regular",
     "title": "行业运营",
     "department": "阿里国际数字商业集团、千问办公、阿里健康",
@@ -21472,7 +21356,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-86",
+    "id": "regular-88",
     "category": "regular",
     "title": "客户服务体验运营",
     "department": "阿里国际数字商业集团",
@@ -21500,11 +21384,11 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-87",
+    "id": "regular-89",
     "category": "regular",
     "title": "用户运营",
-    "department": "淘宝闪购、阿里国际数字商业集团",
-    "location": "杭州、上海",
+    "department": "阿里国际数字商业集团",
+    "location": "杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907620023",
     "description": "1. 运营用户生命周期，包括新登、首活、留存、复登等；\n2. 能协助策划提升用户活跃的策略方案，从发起、落地、执行、项目节奏把控等，整体协同产品、技术、BI等资源最终为用户活跃目标；\n3. 对用户洞察敏感，能站在用户视角思考，精细化人群需求，并结合自有业务，为用户提供可活跃、提粘度的服务和场景。",
     "requirementsText": "1. 本科以上学历，有大型互联网产品及用户运营实习经验优先；\n2. 对数据敏感，善于通过数据发现问题或机会，可独立思考运营方案、并解决问题；\n3. 能多方协同资源，实现多方共赢；\n4. 擅长透过现象看本质，能够从纷繁复杂的需求中抓住痛点；\n5. 学习能力强，对新事物保有好奇心，并能快速适应新环境。",
@@ -21528,7 +21412,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-88",
+    "id": "regular-90",
     "category": "regular",
     "title": "销售运营",
     "department": "阿里国际数字商业集团、阿里云",
@@ -21556,7 +21440,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-89",
+    "id": "regular-91",
     "category": "regular",
     "title": "硬件开发工程师",
     "department": "平头哥",
@@ -21584,7 +21468,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-90",
+    "id": "regular-92",
     "category": "regular",
     "title": "供应链运营",
     "department": "阿里国际数字商业集团",
@@ -21612,7 +21496,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-91",
+    "id": "regular-93",
     "category": "regular",
     "title": "ATE测试工程师",
     "department": "平头哥",
@@ -21640,7 +21524,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-92",
+    "id": "regular-94",
     "category": "regular",
     "title": "深度学习AI编译和推理引擎研发工程师",
     "department": "平头哥",
@@ -21668,7 +21552,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-93",
+    "id": "regular-95",
     "category": "regular",
     "title": "产品经理",
     "department": "阿里巴巴控股集团、阿里国际数字商业集团、高德地图、虎鲸文娱集团、盒马、灵犀互娱",
@@ -21696,7 +21580,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-94",
+    "id": "regular-96",
     "category": "regular",
     "title": "AI产品运营",
     "department": "阿里巴巴控股集团、淘宝闪购、阿里国际数字商业集团、千问办公、盒马",
@@ -21724,7 +21608,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-95",
+    "id": "regular-97",
     "category": "regular",
     "title": "AI产品经理",
     "department": "阿里巴巴控股集团、淘宝闪购、飞猪、阿里国际数字商业集团、阿里云、Token Foundry、虎鲸文娱集团、盒马、阿里健康、灵犀互娱",
@@ -21752,7 +21636,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-96",
+    "id": "regular-98",
     "category": "regular",
     "title": "信号完整性/电源完整性工程师",
     "department": "平头哥",
@@ -21780,7 +21664,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-97",
+    "id": "regular-99",
     "category": "regular",
     "title": "安全技术工程师",
     "department": "阿里巴巴控股集团、淘宝闪购",
@@ -21808,7 +21692,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-98",
+    "id": "regular-100",
     "category": "regular",
     "title": "芯片/处理器验证工程师",
     "department": "阿里巴巴控股集团",
@@ -21836,7 +21720,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-99",
+    "id": "regular-101",
     "category": "regular",
     "title": "芯片设计/验证/DFT工程师",
     "department": "平头哥",
@@ -21864,7 +21748,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-100",
+    "id": "regular-102",
     "category": "regular",
     "title": "AI知识工程师（KE）",
     "department": "阿里云",
@@ -21892,7 +21776,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-101",
+    "id": "regular-103",
     "category": "regular",
     "title": "软硬件结合开发工程师",
     "department": "阿里云",
@@ -21920,7 +21804,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-102",
+    "id": "regular-104",
     "category": "regular",
     "title": "芯片物理设计工程师",
     "department": "平头哥",
@@ -21948,10 +21832,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-103",
+    "id": "regular-105",
     "category": "regular",
     "title": "AI体验设计师",
-    "department": "淘宝闪购、飞猪、阿里云、千问办公、千问事业部、虎鲸文娱集团、盒马",
+    "department": "淘宝闪购、阿里云、千问办公、千问事业部、虎鲸文娱集团、盒马",
     "location": "北京、广州、杭州、上海",
     "source": "https://campus-talent.alibaba.com/campus/position/199907780089",
     "description": "有机会加入参与阿里云、淘宝闪购、飞猪、阿里国际、钉钉、千问C端、虎鲸文娱等业务参与结合AI的体验设计创新工作。\n\n1.在业务场景中完成用户痛点及需求梳理、设计策略、设计方案、结果验证、优化迭代的全流程体验设计；\n2.参与AI与业务结合的产品体验创新，探索高质量的AI体验范式及设计表达；\n3.参与设计AI能力和资产建设，设计方法与流程迭代，提升设计质量与效率。",
@@ -21976,11 +21860,11 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-104",
+    "id": "regular-106",
     "category": "regular",
     "title": "AI创意设计师",
-    "department": "飞猪、千问事业部、虎鲸文娱集团",
-    "location": "北京、广州、杭州",
+    "department": "飞猪、千问事业部",
+    "location": "广州、杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907720098",
     "description": "1.参与品牌、营销活动创意全案，包括但不限于品牌线上线下全场景；\n2.结合业务营销目标和用户洞察，负责项目的创意表达策略、视觉概念，高质高效完成落地执行。项目上线后，协同相关部门验证设计效果，包括但不限于目标受众感知的一致性、业务营销目标的完成度；\n3.探索AI驱动的创意表达，运用AIGC工具提升设计效率与产能，并参与规范制定与资产沉淀。",
     "requirementsText": "1.本科及以上学历，有良好的设计相关专业和学科教育背景；\n2.具备优秀的审美能力和专业技能，有相关高质量的项目研究和实践经历，可展示证明自己设计能力的案例和作品；\n3.熟练掌握主流AI设计工具，能用AI完整完成一个创意项目全流程。熟悉LLM、主流生成式AI技术原理、有AI Agent产品设计经验者加分；\n4.关注AI技术及行业的发展，愿意主动思考、学习和研究，寻求创新改变，并能转化为实际方案和结果；\n5.善于沟通，乐于合作，高效执行，能够同内外部团队高效协同，推进目标的达成和共赢。",
@@ -22004,7 +21888,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-105",
+    "id": "regular-107",
     "category": "regular",
     "title": "计算机体系结构工程师",
     "department": "平头哥",
@@ -22032,7 +21916,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-106",
+    "id": "regular-108",
     "category": "regular",
     "title": "AIGC设计师",
     "department": "淘天集团",
@@ -22060,7 +21944,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-107",
+    "id": "regular-109",
     "category": "regular",
     "title": "模拟设计工程师",
     "department": "平头哥",
@@ -22088,7 +21972,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-108",
+    "id": "regular-110",
     "category": "regular",
     "title": "AI视觉设计师",
     "department": "淘宝闪购",
@@ -22116,7 +22000,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-109",
+    "id": "regular-111",
     "category": "regular",
     "title": "编译器与计算机体系结构开发工程师（RISC-V方向）",
     "department": "阿里巴巴控股集团",
@@ -22144,7 +22028,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-110",
+    "id": "regular-112",
     "category": "regular",
     "title": "软件解决方案工程师",
     "department": "平头哥",
@@ -22172,7 +22056,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-111",
+    "id": "regular-113",
     "category": "regular",
     "title": "AI SoC芯片架构与设计",
     "department": "阿里巴巴控股集团",
@@ -22200,7 +22084,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-112",
+    "id": "regular-114",
     "category": "regular",
     "title": "AI SoC关键技术研究",
     "department": "阿里巴巴控股集团",
@@ -22228,7 +22112,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-113",
+    "id": "regular-115",
     "category": "regular",
     "title": "高性能计算库优化（RISC-V方向）",
     "department": "阿里巴巴控股集团",
@@ -22256,7 +22140,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-114",
+    "id": "regular-116",
     "category": "regular",
     "title": "游戏媒体运营",
     "department": "灵犀互娱",
@@ -22284,7 +22168,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-115",
+    "id": "regular-117",
     "category": "regular",
     "title": "游戏运营",
     "department": "灵犀互娱",
@@ -22312,7 +22196,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-116",
+    "id": "regular-118",
     "category": "regular",
     "title": "芯片系统软件（RISC-V方向）",
     "department": "阿里巴巴控股集团",
@@ -22340,7 +22224,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-117",
+    "id": "regular-119",
     "category": "regular",
     "title": "游戏测试开发工程师",
     "department": "灵犀互娱",
@@ -22368,7 +22252,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-118",
+    "id": "regular-120",
     "category": "regular",
     "title": "算法工程师- AI手机智能大模型",
     "department": "Token Foundry",
@@ -22396,7 +22280,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-119",
+    "id": "regular-121",
     "category": "regular",
     "title": "商品运营-东京",
     "department": "阿里国际数字商业集团",
@@ -22424,7 +22308,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-120",
+    "id": "regular-122",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-少儿自制-执行导演",
     "department": "虎鲸文娱集团",
@@ -22452,7 +22336,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-121",
+    "id": "regular-123",
     "category": "regular",
     "title": "AI Infra网络研发工程师",
     "department": "阿里云",
@@ -22480,7 +22364,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-122",
+    "id": "regular-124",
     "category": "regular",
     "title": "算法工程师-AI智能决策（生成式/强化学习/因果推断）",
     "department": "淘天集团",
@@ -22508,7 +22392,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-123",
+    "id": "regular-125",
     "category": "regular",
     "title": "AI Infra测试开发工程师-存储方向",
     "department": "阿里云",
@@ -22536,7 +22420,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-124",
+    "id": "regular-126",
     "category": "regular",
     "title": "算法工程师-3D视频建模及压缩",
     "department": "阿里巴巴控股集团",
@@ -22564,7 +22448,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-125",
+    "id": "regular-127",
     "category": "regular",
     "title": "AI全栈开发工程师 -大数据方向",
     "department": "阿里云",
@@ -22592,7 +22476,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-126",
+    "id": "regular-128",
     "category": "regular",
     "title": "AI Infra研发工程师-AI Agent",
     "department": "阿里国际数字商业集团、阿里云",
@@ -22620,7 +22504,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-127",
+    "id": "regular-129",
     "category": "regular",
     "title": "AI安全研发工程师",
     "department": "阿里云、千问办公",
@@ -22648,7 +22532,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-128",
+    "id": "regular-130",
     "category": "regular",
     "title": "算法工程师-AI搜索/推荐/广告（T-Star Lab ）",
     "department": "淘天集团",
@@ -22676,7 +22560,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-129",
+    "id": "regular-131",
     "category": "regular",
     "title": "算法工程师-AI Agent（T-Star Lab ）",
     "department": "淘天集团",
@@ -22704,7 +22588,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-130",
+    "id": "regular-132",
     "category": "regular",
     "title": "算法工程师-机器学习（T-Star Lab ）",
     "department": "淘天集团",
@@ -22732,7 +22616,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-131",
+    "id": "regular-133",
     "category": "regular",
     "title": "算法工程师-大模型应用（T-Star Lab ）",
     "department": "淘天集团",
@@ -22760,7 +22644,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-132",
+    "id": "regular-134",
     "category": "regular",
     "title": "算法工程师-AIGC方向（T-Star Lab ）",
     "department": "淘天集团",
@@ -22788,7 +22672,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-133",
+    "id": "regular-135",
     "category": "regular",
     "title": "AI Infra工程师（T-Star Lab ）",
     "department": "淘天集团",
@@ -22816,7 +22700,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-134",
+    "id": "regular-136",
     "category": "regular",
     "title": "基础平台研发工程师（T-Star Lab ）",
     "department": "淘天集团",
@@ -22844,7 +22728,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-135",
+    "id": "regular-137",
     "category": "regular",
     "title": "算法工程师-多模态（T-Star Lab ）",
     "department": "淘天集团",
@@ -22872,7 +22756,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-136",
+    "id": "regular-138",
     "category": "regular",
     "title": "算法工程师-自然语言处理（T-Star Lab ）",
     "department": "淘天集团",
@@ -22900,7 +22784,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-137",
+    "id": "regular-139",
     "category": "regular",
     "title": "移动端逆向工程师",
     "department": "阿里巴巴控股集团",
@@ -22928,7 +22812,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-138",
+    "id": "regular-140",
     "category": "regular",
     "title": "AI应用产品经理",
     "department": "淘天集团、阿里国际数字商业集团",
@@ -22956,7 +22840,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-139",
+    "id": "regular-141",
     "category": "regular",
     "title": "芯片软件测试开发工程师",
     "department": "平头哥",
@@ -22984,7 +22868,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-140",
+    "id": "regular-142",
     "category": "regular",
     "title": "芯片固件/操作系统工程师",
     "department": "平头哥",
@@ -23012,7 +22896,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-141",
+    "id": "regular-143",
     "category": "regular",
     "title": "芯片软件工程师-AI方向",
     "department": "平头哥",
@@ -23040,7 +22924,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-142",
+    "id": "regular-144",
     "category": "regular",
     "title": "AI 互联通信软件工程师",
     "department": "平头哥",
@@ -23068,7 +22952,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-143",
+    "id": "regular-145",
     "category": "regular",
     "title": "高性能计算加速软件工程师",
     "department": "平头哥",
@@ -23096,7 +22980,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-144",
+    "id": "regular-146",
     "category": "regular",
     "title": "AI框架软件工程师",
     "department": "阿里巴巴控股集团、平头哥",
@@ -23124,7 +23008,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-145",
+    "id": "regular-147",
     "category": "regular",
     "title": "工具研发工程师C++",
     "department": "平头哥",
@@ -23152,7 +23036,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-146",
+    "id": "regular-148",
     "category": "regular",
     "title": "技术服务工程师-AI大模型/智算-香港",
     "department": "阿里云",
@@ -23180,7 +23064,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-147",
+    "id": "regular-149",
     "category": "regular",
     "title": "技术服务工程师",
     "department": "千问办公",
@@ -23208,7 +23092,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-148",
+    "id": "regular-150",
     "category": "regular",
     "title": "技术服务工程师-AI大模型/智算",
     "department": "阿里云",
@@ -23236,7 +23120,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-149",
+    "id": "regular-151",
     "category": "regular",
     "title": "AI技术服务工程师",
     "department": "阿里云",
@@ -23264,7 +23148,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-150",
+    "id": "regular-152",
     "category": "regular",
     "title": "游戏UI设计师",
     "department": "灵犀互娱",
@@ -23292,7 +23176,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-151",
+    "id": "regular-153",
     "category": "regular",
     "title": "游戏策划（MMO）",
     "department": "灵犀互娱",
@@ -23320,7 +23204,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-152",
+    "id": "regular-154",
     "category": "regular",
     "title": "游戏策划（SLG）",
     "department": "灵犀互娱",
@@ -23348,7 +23232,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-153",
+    "id": "regular-155",
     "category": "regular",
     "title": "游戏文案策划（克苏鲁题材）",
     "department": "灵犀互娱",
@@ -23376,7 +23260,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-154",
+    "id": "regular-156",
     "category": "regular",
     "title": "游戏引擎开发工程师",
     "department": "虎鲸文娱集团、灵犀互娱",
@@ -23404,7 +23288,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-155",
+    "id": "regular-157",
     "category": "regular",
     "title": "游戏服务器开发工程师",
     "department": "灵犀互娱",
@@ -23432,7 +23316,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-156",
+    "id": "regular-158",
     "category": "regular",
     "title": "游戏客户端开发工程师",
     "department": "灵犀互娱",
@@ -23460,35 +23344,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-157",
-    "category": "regular",
-    "title": "游戏场景原画（国风）",
-    "department": "灵犀互娱",
-    "location": "上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907700017",
-    "description": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等；\n2.项目风格及题材：新国风，武侠修仙，轻松治愈；\n3.入职1V1导师手把手带教做项目",
-    "requirementsText": "1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合；\n2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想；\n3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历；\n4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-168",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-168",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-158",
+    "id": "regular-159",
     "category": "regular",
     "title": "游戏3D角色",
     "department": "虎鲸文娱集团、灵犀互娱",
@@ -23516,7 +23372,35 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-159",
+    "id": "regular-160",
+    "category": "regular",
+    "title": "游戏场景原画（国风）",
+    "department": "灵犀互娱",
+    "location": "上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907700017",
+    "description": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等；\n2.项目风格及题材：新国风，武侠修仙，轻松治愈；\n3.入职1V1导师手把手带教做项目",
+    "requirementsText": "1.希望热爱武侠修仙题材，擅长把中国传统文化与符合当下年轻人审美的美术表现形式相结合；\n2.乐于学习专研和使用AI工具，能够通过AI帮助自己实现设计构想；\n3.热爱游戏，有放置类MMORPG、修仙品类游戏体验经历；\n4.简历请附作品，相关作品附件 （PDF格式）或者网页链接，请勿放网盘链接。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-168",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-168",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1.根据游戏世界观设计游戏中的场景氛围、道具、界面背景、宣传图等；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-161",
     "category": "regular",
     "title": "游戏场景原画（写实）",
     "department": "灵犀互娱",
@@ -23544,7 +23428,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-160",
+    "id": "regular-162",
     "category": "regular",
     "title": "游戏动作",
     "department": "灵犀互娱",
@@ -23572,35 +23456,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-161",
-    "category": "regular",
-    "title": "游戏2D动作",
-    "department": "灵犀互娱",
-    "location": "广州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907800018",
-    "description": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计；\n2、发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面；\n3、找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你；\n4、获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英；\n5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
-    "requirementsText": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳；\n2、希望具有良好的沟通能力和团队协助能力；\n3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等；\n4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力；\n5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-172",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-172",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-162",
+    "id": "regular-163",
     "category": "regular",
     "title": "游戏3D场景",
     "department": "灵犀互娱",
@@ -23628,7 +23484,35 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-163",
+    "id": "regular-164",
+    "category": "regular",
+    "title": "游戏2D动作",
+    "department": "灵犀互娱",
+    "location": "广州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907800018",
+    "description": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计；\n2、发挥自己的专业能力与团队协助能力给玩家展现构建宏大的游戏世界画面；\n3、找到自己喜欢的方向，深入研究，每次新的积累都成就不一样的你；\n4、获得业界美术大神亲自指导，快速成长为美术设计业务骨干、行业精英；\n5、毕业入职即接受规范的培训，配备经验丰富的导师全程带你飞。",
+    "requirementsText": "1、希望具有过硬的专业技术和审美能力，有游戏行业实习经验更佳；\n2、希望具有良好的沟通能力和团队协助能力；\n3、希望具备熟悉美术制作工具的使用，比如3ds max，maya，photoshop，zbrush等；\n4、希望具备强烈的求知欲和优秀的学习能力，良好的团队协作精神和沟通能力；\n5、简历请附作品，相关作品附件（视频格式）或者网页链接，请勿放网盘链接。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-172",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-172",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1、根据游戏定位、场景氛围、人物性格等设计角色，场景和技能的动作设计；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-165",
     "category": "regular",
     "title": "游戏角色原画（国风二次元）",
     "department": "灵犀互娱",
@@ -23656,7 +23540,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-164",
+    "id": "regular-166",
     "category": "regular",
     "title": "游戏角色/场景原画（二次元）",
     "department": "灵犀互娱",
@@ -23684,7 +23568,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-165",
+    "id": "regular-167",
     "category": "regular",
     "title": "游戏角色原画（写实）",
     "department": "虎鲸文娱集团、灵犀互娱",
@@ -23712,7 +23596,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-166",
+    "id": "regular-168",
     "category": "regular",
     "title": "游戏特效",
     "department": "虎鲸文娱集团、灵犀互娱",
@@ -23740,7 +23624,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-167",
+    "id": "regular-169",
     "category": "regular",
     "title": "游戏交互",
     "department": "灵犀互娱",
@@ -23768,7 +23652,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-168",
+    "id": "regular-170",
     "category": "regular",
     "title": "游戏交互（SLG）",
     "department": "灵犀互娱",
@@ -23796,7 +23680,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-169",
+    "id": "regular-171",
     "category": "regular",
     "title": "游戏界面设计(GUI）",
     "department": "灵犀互娱",
@@ -23824,7 +23708,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-170",
+    "id": "regular-172",
     "category": "regular",
     "title": "游戏界面设计(GUI-三国）",
     "department": "灵犀互娱",
@@ -23852,35 +23736,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-171",
-    "category": "regular",
-    "title": "算法工程师-生成式方向",
-    "department": "淘宝闪购",
-    "location": "北京、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640010",
-    "description": "1. 负责生成式搜推、营销等算法工作，包括但不局限于OneRec/OneSearch类的生成式架构的设计与实现，覆盖千万级DAU的个性化场景；\n2. 负责生成式相关技术项目，包括端到端内容生成、Decoder Only架构优化、强化学习奖励系统设计等创新模块，显著提升计算效率与推荐质量；\n3. 构建多模态用户行为建模系统，将短期搜索点击行为与长期购买偏好融合，打造具备语义理解能力的用户标识(UID)体系；\n4. 探索生成式技术在搜索排序中的应用，开发层次量化编码技术，解决商品、时空、交易等信息结构化难题。",
-    "requirementsText": "1. 计算机、人工智能、应用数学等相关专业硕士及以上学历，在生成式模型领域有深入研究，发表过顶会论文者优先；\n2. 精通Transformer、Diffusion等生成架构，熟悉RQ-VAE等表征增强技术；熟练掌握强化学习框架(如Verl)，能设计偏好感知奖励系统，优化多目标排序问题，参与过生成式、强化学习相关项目实践的优先；\n3. 具备大参数模型调优能力，了解混合精度训练、模型量化等优化技术，有大规模分布式训练经验。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-181",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-181",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 负责生成式搜推、营销等算法工作，包括但不局限于OneRec/OneSearch类的生成式架构的设计与实现，覆盖千万级DAU的个性化场景；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-172",
+    "id": "regular-173",
     "category": "regular",
     "title": "算法工程师-大数据处理",
     "department": "阿里云",
@@ -23908,7 +23764,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-173",
+    "id": "regular-174",
     "category": "regular",
     "title": "算法工程师-多模态检索/RAG",
     "department": "千问事业部",
@@ -23936,10 +23792,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-174",
+    "id": "regular-175",
     "category": "regular",
     "title": "算法工程师-语音多模态大模型",
-    "department": "淘天集团、Token Foundry、千问办公、千问事业部、高德地图、虎鲸文娱集团",
+    "department": "淘天集团、Token Foundry、千问办公、千问事业部、高德地图",
     "location": "北京、杭州、上海",
     "source": "https://campus-talent.alibaba.com/campus/position/199907680036",
     "description": "1. 负责语音生成/语音识别/语音合成/声纹/语种/情感等方向的算法研究和开发；\n2. 负责语音信号处理的相关算法研究和开发，包括语音增强、回声消除、混响消除、自动增益控制、波达方向估计、波束形成等；\n3. 负责口语语言理解/用户意图理解/对话模型/语音交互等算法研究和开发；\n4. 语音统一多模态大模型：研究下一代多模态通用大模型技术范式，实现文本、语音、视觉模态的联合建模。",
@@ -23964,7 +23820,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-175",
+    "id": "regular-176",
     "category": "regular",
     "title": "算法工程师-大模型评测",
     "department": "Token Foundry、千问办公",
@@ -23992,7 +23848,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-176",
+    "id": "regular-177",
     "category": "regular",
     "title": "算法工程师-安全大模型",
     "department": "阿里巴巴控股集团、Token Foundry",
@@ -24020,7 +23876,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-177",
+    "id": "regular-178",
     "category": "regular",
     "title": "算法工程师-机器人感知",
     "department": "阿里巴巴控股集团",
@@ -24048,7 +23904,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-178",
+    "id": "regular-179",
     "category": "regular",
     "title": "算法工程师-AI安全",
     "department": "阿里巴巴控股集团、阿里云、Token Foundry",
@@ -24076,7 +23932,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-179",
+    "id": "regular-180",
     "category": "regular",
     "title": "算法工程师-视频编码与处理",
     "department": "淘天集团、阿里云、虎鲸文娱集团",
@@ -24104,7 +23960,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-180",
+    "id": "regular-181",
     "category": "regular",
     "title": "算法工程师-AI Agent",
     "department": "阿里巴巴控股集团、淘天集团、阿里国际数字商业集团、阿里云、Token Foundry、千问事业部、虎鲸文娱集团",
@@ -24132,7 +23988,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-181",
+    "id": "regular-182",
     "category": "regular",
     "title": "算法工程师-具身智能",
     "department": "高德地图",
@@ -24160,10 +24016,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-182",
+    "id": "regular-183",
     "category": "regular",
     "title": "算法工程师-视频生成",
-    "department": "淘天集团",
+    "department": "淘天集团、Token Foundry",
     "location": "北京、杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907800031",
     "description": "1. 深入探索可控的视频内容生成技术（包括风格迁移、镜头控制、空间一致性控制）， 开发文本到视频基础模型的前沿技术，致力于提升生成视频的画质，真实性，一致性，以及视频生产效率，结合公司业务场景进行研发落地、策略迭代；\n2. 探索AIGC驱动的视频增强与处理技术，专注于将通用大模型架构优化并迁移到垂直领域，推动下游应用性能的突破；\n3. 持续跟踪图像和视频生成领域的最新技术动态，推动技术在公司产品中的应用与创新。",
@@ -24188,7 +24044,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-183",
+    "id": "regular-184",
     "category": "regular",
     "title": "算法工程师-大模型应用",
     "department": "阿里巴巴控股集团、淘天集团、阿里国际数字商业集团、阿里云、高德地图、虎鲸文娱集团",
@@ -24216,7 +24072,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-184",
+    "id": "regular-185",
     "category": "regular",
     "title": "算法工程师-数据合成",
     "department": "阿里巴巴控股集团",
@@ -24244,7 +24100,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-185",
+    "id": "regular-186",
     "category": "regular",
     "title": "算法工程师-医学影像",
     "department": "阿里巴巴控股集团",
@@ -24272,10 +24128,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-186",
+    "id": "regular-187",
     "category": "regular",
     "title": "算法工程师-多模态",
-    "department": "阿里巴巴控股集团、淘天集团、阿里国际数字商业集团、阿里云、Token Foundry、千问事业部、高德地图、虎鲸文娱集团、灵犀互娱",
+    "department": "阿里巴巴控股集团、淘天集团、阿里国际数字商业集团、阿里云、Token Foundry、千问事业部、虎鲸文娱集团、灵犀互娱",
     "location": "北京、广州、杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907620025",
     "description": "1. 从事多模态算法和模型的研究与开发，包括但不局限于文本-图像、文本-视频等跨模态算法研发和优化，跟进并保持业界技术领先； \n2. 推进跨模态内容理解/生成前沿技术的创新落地。设计和优化现有算法，提高性能和准确性，确保高质量的用户体验； \n3. 探索AI智能体（Agent）新范式，构建能真正解决业务问题的以多模态大模型为核心的AI助手；\n4. 引领学术与技术前沿：持续追踪多模态AI、理解&生成、LLM等方向进展，产出高水平论文，建立行业技术影响力。",
@@ -24300,10 +24156,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-187",
+    "id": "regular-188",
     "category": "regular",
     "title": "算法工程师-自然语言处理",
-    "department": "淘天集团、Token Foundry、高德地图",
+    "department": "淘天集团、Token Foundry",
     "location": "北京、杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907800033",
     "description": "1. 紧跟业界最新自然语言处理技术动态，深入研发并努力创新自然语言处理相关的知识库、词法、句法、语义、文档分析、深度学习、机器翻译、智能对话等技术，包括新颖的算法/模型的提出，模块的实际开发，对接自然语言处理平台的接入以及把高水平研发成果以论文/专利等形式进行发布；\n2. 理解自然语言处理技术应用的相关的业务场景及需求，在自然语言处理技术内核的基础上考虑业务场景的特殊性进而适当适配业务需求；\n3. 在核心技术研发之外，也会适当参与到具体的NLP相关业务中，例如文本内容的理解，商业场景的多语言多模态翻译和沟通，搜索Query分析、智能对话的语义解析及意图理解、商品评价的语义理解、内容搜索推荐的结构化分析、商品搜索推荐的标签体系、社会化问答的文本分析、智能客服的场景定制等；\n4. 追踪并转化前沿技术：紧密跟踪大模型（LLM）领域的国际前沿动态，快速实现从论文到代码再到解决方案（Paper→Code→Solution）的技术转化，并有机会将高水平研发成果以论文/专利等形式发布。",
@@ -24328,7 +24184,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-188",
+    "id": "regular-189",
     "category": "regular",
     "title": "算法工程师-大语言模型",
     "department": "阿里巴巴控股集团、阿里国际数字商业集团、阿里云、虎鲸文娱集团",
@@ -24356,7 +24212,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-189",
+    "id": "regular-190",
     "category": "regular",
     "title": "算法工程师-运筹优化",
     "department": "阿里国际数字商业集团、盒马",
@@ -24384,7 +24240,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-190",
+    "id": "regular-191",
     "category": "regular",
     "title": "算法工程师-深度学习",
     "department": "阿里国际数字商业集团、高德地图、虎鲸文娱集团",
@@ -24412,10 +24268,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-191",
+    "id": "regular-192",
     "category": "regular",
     "title": "算法工程师-搜索推荐",
-    "department": "淘天集团、阿里国际数字商业集团、阿里云、高德地图、虎鲸文娱集团、盒马",
+    "department": "淘天集团、阿里国际数字商业集团、虎鲸文娱集团、盒马",
     "location": "北京、杭州、上海",
     "source": "https://campus-talent.alibaba.com/campus/position/199907700038",
     "description": "1. 参与并负责核心内容场景的各类算法，包括个性化推荐系统、内容生态构建、内容理解等核心算法能力；\n2. 深度参与内容分发算法设计，提升流量匹配的效率和用户粘性；\n3. 建设包括AGENT、RAG召回、粗排、精排、重排、混排等推荐算法，打造集团和业界一流的内容算法；\n4. 参与设计多模态内容理解和推荐分发系统，推动解决内容的一致性和标准化问题；\n5. 探索大语言模型（LLM）、多模态大模型、Agent及RAG技术在搜推领域的应用，利用SFT微调、强化学习（RLHF/DPO）、提示词工程等手段，提升对用户意图的深度理解及内容承接能力。",
@@ -24430,34 +24286,6 @@ window.REGULAR_JOB_LIBRARY = [
       "domain": "",
       "sub_domain": "",
       "core_problem": "1. 参与并负责核心内容场景的各类算法，包括个性化推荐系统、内容生态构建、内容理解等核心算法能力；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-192",
-    "category": "regular",
-    "title": "算法工程师-机器学习",
-    "department": "淘天集团、阿里云、千问事业部、高德地图、虎鲸文娱集团",
-    "location": "北京、广州、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907620021",
-    "description": "1. 负责机器学习、深度学习领域的技术研发工作，包括但不限于神经元网络模型设计与优化、强化学习、迁移学习、主动学习、维度降低、核方法、谱方法、特征提取与稀疏学习、等级学习、推荐、随机优化等的算法和系统研发等； \n2. 负责机器学习尤其是深度学习前沿问题的探索与研究，结合未来实际应用场景，提供全面的技术解决方案； \n3. 负责提供分布式的算法实现的解决方案，大幅提升算法计算规模和性能； \n4. 负责提供大数据分析建模方案，沉淀行业解决方案，协助拓展业务边界。",
-    "requirementsText": "1. 熟悉常用机器学习算法，对模式识别、深度学习、增强学习等相关领域，极佳的工程实现能力，精通C/C++、Java、Python等至少一门编程语言；\n2. 有数理分析方面良好的素养以及数理统计基础；\n3. 有良好的数据敏感能力、较强的逻辑分析能力；\n4. 有较强的学习能力，对新事物保有好奇心，并能快速适应新环境；\n5. 有良好的沟通能力和团队协同能力；能与他人合作，共同完成目标。\n\n【加分项】\n1. 有实际成果并发表在国际顶级会议、期刊者优先，有在KDDCUP、ImageNet、MSCOCO、ICDAR等权威比赛中取得优异成绩者优先；\n2. 有deeplearning经验，有linux下开发经验，大规模数据处理经验优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-202",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-202",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 负责机器学习、深度学习领域的技术研发工作，包括但不限于神经元网络模型设计与优化、强化学习、迁移学习、主动学习、维度降低、核方法、谱方法、特征提取与稀疏学习、等级学习、推荐、随机优化等的算法和系统研发等； ",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -24498,6 +24326,34 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-194",
     "category": "regular",
+    "title": "算法工程师-机器学习",
+    "department": "淘天集团、阿里云、千问事业部、高德地图、虎鲸文娱集团",
+    "location": "北京、广州、杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907620021",
+    "description": "1. 负责机器学习、深度学习领域的技术研发工作，包括但不限于神经元网络模型设计与优化、强化学习、迁移学习、主动学习、维度降低、核方法、谱方法、特征提取与稀疏学习、等级学习、推荐、随机优化等的算法和系统研发等； \n2. 负责机器学习尤其是深度学习前沿问题的探索与研究，结合未来实际应用场景，提供全面的技术解决方案； \n3. 负责提供分布式的算法实现的解决方案，大幅提升算法计算规模和性能； \n4. 负责提供大数据分析建模方案，沉淀行业解决方案，协助拓展业务边界。",
+    "requirementsText": "1. 熟悉常用机器学习算法，对模式识别、深度学习、增强学习等相关领域，极佳的工程实现能力，精通C/C++、Java、Python等至少一门编程语言；\n2. 有数理分析方面良好的素养以及数理统计基础；\n3. 有良好的数据敏感能力、较强的逻辑分析能力；\n4. 有较强的学习能力，对新事物保有好奇心，并能快速适应新环境；\n5. 有良好的沟通能力和团队协同能力；能与他人合作，共同完成目标。\n\n【加分项】\n1. 有实际成果并发表在国际顶级会议、期刊者优先，有在KDDCUP、ImageNet、MSCOCO、ICDAR等权威比赛中取得优异成绩者优先；\n2. 有deeplearning经验，有linux下开发经验，大规模数据处理经验优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-202",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-202",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 负责机器学习、深度学习领域的技术研发工作，包括但不限于神经元网络模型设计与优化、强化学习、迁移学习、主动学习、维度降低、核方法、谱方法、特征提取与稀疏学习、等级学习、推荐、随机优化等的算法和系统研发等； ",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-195",
+    "category": "regular",
     "title": "算法工程师-VLM训练",
     "department": "千问事业部",
     "location": "北京、杭州",
@@ -24524,7 +24380,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-195",
+    "id": "regular-196",
     "category": "regular",
     "title": "算法工程师-计算机视觉",
     "department": "阿里巴巴控股集团",
@@ -24552,7 +24408,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-196",
+    "id": "regular-197",
     "category": "regular",
     "title": "算法工程师-强化学习",
     "department": "阿里国际数字商业集团、阿里云、Token Foundry、千问事业部",
@@ -24580,7 +24436,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-197",
+    "id": "regular-198",
     "category": "regular",
     "title": "算法工程师-生成式推荐",
     "department": "淘天集团",
@@ -24608,7 +24464,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-198",
+    "id": "regular-199",
     "category": "regular",
     "title": "算法工程师-运筹&因果推断（AI物流智能决策）",
     "department": "淘宝闪购",
@@ -24636,7 +24492,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-199",
+    "id": "regular-200",
     "category": "regular",
     "title": "AI Native搜推算法工程师-π天才计划",
     "department": "高德地图",
@@ -24664,7 +24520,35 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-200",
+    "id": "regular-201",
+    "category": "regular",
+    "title": "算法工程师-药物基础模型",
+    "department": "阿里巴巴控股集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820048",
+    "description": "1.负责药物设计相关基础模型的研发，包括但不限于分子生成与优化、蛋白质结构预测与设计、蛋白-分子相互作用预测等方向的深度学习模型构建；\n2.跟踪 AI for Science及计算生物学领域的前沿技术，持续优化分子表征学习、序列-结构-功能联合预测、性质/ADMET预测、多目标优化等关键算法模块，提升模型精度与泛化能力；\n3.参与构建覆盖小分子与大分子（蛋白/抗体/多肽）的通用药物设计引擎，支持从靶点发现到候选分子筛选的端到端流程；\n4.与 Agent算法团队、药物化学团队紧密协作，将基础模型能力封装为可被 Agent调用的标准化工具，支撑自动化工作流的运行。",
+    "requirementsText": "1.本科及以上学历，计算机、人工智能、生物信息、计算化学、药学等相关专业背景；\n2.对药物发现流程（靶点验证、先导化合物发现、先导化合物优化、成药性评估等）有基本了解，熟悉至少一个方向的建模经验；\n3.具备良好的编程能力（Python优先），熟练掌握主流 AI框架（PyTorch/JAX），熟悉常见的化学信息学工具包（如 RDKit、Open Babel等）；\n4. 有较强的科研能力与原型搭建能力，能快速实现并验证模型创新想法。\n \n【加分项】\n1.曾在顶级 AI会议或生物/化学/医药相关顶尖期刊发表与分子生成、蛋白质设计、药物-靶点相互作用预测等相关的研究论文；\n2.熟悉 Transformer、图神经网络、扩散模型、Flow Matching等主流模型架构，有生物/化学基础模型训练经验；\n3.有分子动力学模拟（MD）、自由能微扰（FEP）、分子对接（Docking）等计算化学方法的实践经验；\n4.有多模态生物模型训练和开发经验；\n5.有数据集构建、评测体系搭建的实际经验。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-211",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-211",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1.负责药物设计相关基础模型的研发，包括但不限于分子生成与优化、蛋白质结构预测与设计、蛋白-分子相互作用预测等方向的深度学习模型构建；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-202",
     "category": "regular",
     "title": "算法工程师-医疗多模态大模型",
     "department": "阿里巴巴控股集团",
@@ -24692,35 +24576,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-201",
-    "category": "regular",
-    "title": "算法工程师-药物基础模型",
-    "department": "阿里巴巴控股集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820048",
-    "description": "1.负责药物设计相关基础模型的研发，包括但不限于分子生成与优化、蛋白质结构预测与设计、蛋白-分子相互作用预测等方向的深度学习模型构建；\n2.跟踪 AI for Science及计算生物学领域的前沿技术，持续优化分子表征学习、序列-结构-功能联合预测、性质/ADMET预测、多目标优化等关键算法模块，提升模型精度与泛化能力；\n3.参与构建覆盖小分子与大分子（蛋白/抗体/多肽）的通用药物设计引擎，支持从靶点发现到候选分子筛选的端到端流程；\n4.与 Agent算法团队、药物化学团队紧密协作，将基础模型能力封装为可被 Agent调用的标准化工具，支撑自动化工作流的运行。",
-    "requirementsText": "1.本科及以上学历，计算机、人工智能、生物信息、计算化学、药学等相关专业背景；\n2.对药物发现流程（靶点验证、先导化合物发现、先导化合物优化、成药性评估等）有基本了解，熟悉至少一个方向的建模经验；\n3.具备良好的编程能力（Python优先），熟练掌握主流 AI框架（PyTorch/JAX），熟悉常见的化学信息学工具包（如 RDKit、Open Babel等）；\n4. 有较强的科研能力与原型搭建能力，能快速实现并验证模型创新想法。\n \n【加分项】\n1.曾在顶级 AI会议或生物/化学/医药相关顶尖期刊发表与分子生成、蛋白质设计、药物-靶点相互作用预测等相关的研究论文；\n2.熟悉 Transformer、图神经网络、扩散模型、Flow Matching等主流模型架构，有生物/化学基础模型训练经验；\n3.有分子动力学模拟（MD）、自由能微扰（FEP）、分子对接（Docking）等计算化学方法的实践经验；\n4.有多模态生物模型训练和开发经验；\n5.有数据集构建、评测体系搭建的实际经验。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-211",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-211",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1.负责药物设计相关基础模型的研发，包括但不限于分子生成与优化、蛋白质结构预测与设计、蛋白-分子相互作用预测等方向的深度学习模型构建；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-202",
+    "id": "regular-203",
     "category": "regular",
     "title": "算法工程师-大模型后训练 (Post-training)",
     "department": "阿里巴巴控股集团、阿里国际数字商业集团、阿里云、Token Foundry、千问事业部",
@@ -24748,7 +24604,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-203",
+    "id": "regular-204",
     "category": "regular",
     "title": "算法工程师-供应链和定价 AI",
     "department": "盒马",
@@ -24776,7 +24632,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-204",
+    "id": "regular-205",
     "category": "regular",
     "title": "AI软件测试开发工程师",
     "department": "阿里云",
@@ -24804,7 +24660,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-205",
+    "id": "regular-206",
     "category": "regular",
     "title": "AI方案验证工程师",
     "department": "阿里云",
@@ -24832,7 +24688,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-206",
+    "id": "regular-207",
     "category": "regular",
     "title": "AI产品评测工程师",
     "department": "阿里云、千问办公",
@@ -24860,10 +24716,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-207",
+    "id": "regular-208",
     "category": "regular",
     "title": "数据研发工程师",
-    "department": "阿里巴巴控股集团、淘天集团、飞猪、阿里国际数字商业集团、阿里云、高德地图、虎鲸文娱集团、盒马",
+    "department": "阿里巴巴控股集团、淘天集团、飞猪、阿里国际数字商业集团、阿里云、虎鲸文娱集团、盒马",
     "location": "北京、杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907700041",
     "description": "1. 负责海量大数据处理、解析、分析、挖掘、研发及优化工作；\n2. 负责基于大数据体系的数据模型设计、数据分层架构建设与数据资产管理，支撑EB级数据的规范化、资产化管理；\n3. 负责元数据管理、数据血缘、数据质量监控、数据标准等核心数据资产模块的研发与落地，提升数据可信度与可用性；\n4. 参与大数据AI copilot、AI自动取数、AI自动数据分析，通过AI+大数据的力量，让数据价值最大化。",
@@ -24888,7 +24744,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-208",
+    "id": "regular-209",
     "category": "regular",
     "title": "测试开发工程师",
     "department": "阿里巴巴控股集团、Token Foundry、虎鲸文娱集团",
@@ -24916,7 +24772,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-209",
+    "id": "regular-210",
     "category": "regular",
     "title": "数据科学家",
     "department": "淘天集团、淘宝闪购、阿里国际数字商业集团、阿里云、千问事业部、高德地图、盒马",
@@ -24944,7 +24800,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-210",
+    "id": "regular-211",
     "category": "regular",
     "title": "AI前端开发工程师",
     "department": "阿里云、千问办公",
@@ -24972,7 +24828,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-211",
+    "id": "regular-212",
     "category": "regular",
     "title": "AI编译研发工程师",
     "department": "阿里巴巴控股集团、阿里云",
@@ -25000,7 +24856,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-212",
+    "id": "regular-213",
     "category": "regular",
     "title": "AI Infra网络平台研发工程师",
     "department": "阿里云",
@@ -25028,7 +24884,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-213",
+    "id": "regular-214",
     "category": "regular",
     "title": "AI Infra操作系统工程师",
     "department": "阿里云",
@@ -25056,7 +24912,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-214",
+    "id": "regular-215",
     "category": "regular",
     "title": "Agent Infra操作系统研发工程师",
     "department": "阿里云",
@@ -25084,7 +24940,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-215",
+    "id": "regular-216",
     "category": "regular",
     "title": "AI平台研发工程师",
     "department": "阿里云",
@@ -25112,7 +24968,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-216",
+    "id": "regular-217",
     "category": "regular",
     "title": "AI Infra工程师-计算方向",
     "department": "阿里云",
@@ -25130,34 +24986,6 @@ window.REGULAR_JOB_LIBRARY = [
       "domain": "",
       "sub_domain": "",
       "core_problem": "AI 时代的到来为云计算的进一步发展提供了前所未有的广阔舞台，为云计算基础设施带来全新的机遇和挑战。加入我们一起打造 AI 时代持续领先的计算基础设施，依托阿里自研神龙虚拟化架构、CIPU处理器、灵骏智算、以及业界领先的云计算调度能力和容器化管理能力等，你将参与构建支撑亿级计算核心、十万卡级 GPU 集群的规模的 AI",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-217",
-    "category": "regular",
-    "title": "安全AI研发工程师",
-    "department": "阿里云",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907780017",
-    "description": "1. 承接安全及云产品的安全能力建设需求，设计、开发高性能、高可用、安全的系统及工具；\n2. 流量安全分析，面向海量网络流量构建灵敏、高效的流量数据分析和入侵检测系统，能够第一时间识别和防御恶意网络攻击，为阿里平台与用户筑起强大防线；\n3. 主机安全防护，设计并实现高可用的主机恶意行为检测与安全防御系统，能够在百万量级的海量主机上稳定运行，在不影响应用正常运行的前提下精准发现与拦截恶意攻击行为；\n4. 零信任身份认证与访问控制，在大规模生产网络中建立稳定、安全的零信任体系，做到持续验证、最小权限，让攻击者难以入侵渗透，保证阿里的高安全水位；\n5. 安全 for AI：针对大模型及 Agent 系统自身的安全风险，设计并构建 AI 原生的安全防护体系；研究并防范 Prompt 注入、越狱攻击、数据投毒、上下文敏感数据泄露等 AI 特有攻击手段；设计 Agent 系统的权限控制、行为审计与安全沙箱机制，确保自主式 AI 系统在可控范围内安全运行。\n6. AI for 安全：基于安全业务场景设计 Agentic Workflow，将威胁检测、事件响应、溯源分析等安全运营流程实现智能化、自动化；构建安全领域的多 Agent 协作系统，实现告警研判、攻击溯源、漏洞分析等安全任务的端到端自动化处置；探索大模型在安全领域的深度应用，包括但不限于智能安全编排与自动化响应（SOAR）、威胁情报分析、代码审计等；通过数据反馈闭环持续迭代，实现全链路智能化的安全运营。",
-    "requirementsText": "1. 热爱编程，熟悉 Java、Golang、Python、C/C++ 等语言中的至少一种，有良好的编程习惯；\n2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解；\n3. 热爱安全攻防，对网络安全和 AI 安全均有一定了解，理解传统攻防手法与防御思路（如 Web 安全、网络协议安全、系统安全等），同时关注 Prompt 注入、越狱攻击、数据泄露等 AI 时代的新型安全风险；\n4. 对 AI/LLM 技术有浓厚兴趣，了解大模型、Agent、RAG 等相关技术概念，理解 Agent 系统的基本架构（工具调用、规划、记忆、多 Agent 协作等）；\n5. 学习能力强，对新事物抱有好奇心，有良好的沟通能力和团队协同能力，善于独立思考和反思总结。\n\n加分项\n1. 有 ACM、超算、CTF、安全攻防等编程或安全类竞赛获奖者优先；\n2. 有项目开发经验，参与过开源项目者优先；\n3. 熟悉云场景和相关中间件者优先；\n4. 有 LLM 应用开发、Agent / Multi-Agent 系统构建经验者优先，有将 Agent 技术应用于安全场景（如自动化威胁检测、智能告警研判、攻击溯源等）的实践经验更佳；\n5. 对应用层漏洞原理、代码审计、漏洞利用与防御方式有扎实基础，或在 AI 安全方向（如大模型红队测试、Agent 安全沙箱、对抗攻防）有研究或实践经验；\n6. 发现过真实场景的安全问题，在工业界或学术会议上发表过研究成果者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-228",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-228",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 承接安全及云产品的安全能力建设需求，设计、开发高性能、高可用、安全的系统及工具；",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -25198,22 +25026,22 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-219",
     "category": "regular",
-    "title": "AI Infra工程师-存储方向",
+    "title": "安全AI研发工程师",
     "department": "阿里云",
-    "location": "北京、成都、杭州、上海、深圳",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640015",
-    "description": "在这里，你将成为大模型时代算力底座的“核心引擎构造者”。依托阿里自研分布式存储系统与业界领先的计算网络架构，你将参与构建支撑千卡/万卡乃至十万卡规模的 AI 计算基础设施。\n我们致力于通过软硬件协同优化、存算分离架构创新，解决大模型在预训练、微调、推理全链路中的极致工程挑战。你的代码将直接运行在阿里核心的 AI 存储产品中，决定千万级并发的数据加载吞吐、秒级 Checkpoint 的可靠性以及庞大 GPU 集群的 MFU（模型算力利用率）。加入我们，为全球顶尖 AI 模型注入最澎湃的数据动力！\n\n具体的职责包括以下相关方向的一项或多项：\n1. 面向 AI 计算的高性能存储系统研发：针对 AI 工作负载复杂且严苛的 I/O 特征（如海量小文件的高并发元数据检索、超大块数据的并行顺序流），进行内核态与协议栈级别的深度优化。主导研发基于 NVMe、RDMA/RoCEv2/eRDMA 的超低延时存储网络链路。\n2. 极致性能的数据加载（Data Pipeline）与缓存加速：深度剖析大模型训练的数据读取链路，解决万卡集群下的 I/O 阻塞（I/O Bottleneck）与长尾延迟问题。研发面向大模型的分布式多级缓存与数据预取引擎，确保数据吞吐完全满足 GPU 显存带宽需求，实现计算与存储的完美 Overlap。\n3. 云原生 AI 存储编排与智能化调度：结合 Kubernetes 生态构建云原生数据编排系统（如主导或参与 CNCF Fluid 等项目），将存储系统与计算调度平台深度集成。实现存算感知调度（Data-aware Scheduling）与弹性扩缩容，根据计算任务拓扑动态调整数据副本与亲和性策略，保障全网存储资源的极致效率。\n4. Checkpointing 极致加速与容灾：针对超千亿/万亿参数模型的断点续传（Fault Tolerance）需求，设计高性能分布式持久化方案。通过内存-SSD-对象存储的分层拓扑、异步流式写入（Async I/O）、拓扑感知（Topology-aware）路由以及 GPUDirect Storage (GDS) 等技术，实现百 GB/TB 级模型权重的秒级保存与恢复，极大降低计算资源的闲置浪费。\n5. 面向 Agent 使用场景的存储系统研发：通过分布式数据、元数据管理和高性能的分布式一致性协议等技术，支持海量 Agent 下的数据规模以及 IO 访问安全隔离、性能隔离。",
-    "requirementsText": "1. 基础条件：\n● 计算机、软件工程及相关专业。\n● 热衷于数据结构和算法，在 ACM/ICPC 等大赛中成绩优异者优先。\n● 在分布式系统、存储或操作系统领域顶会（如 FAST, OSDI, SOSP, SIGCOMM, NSDI 等）发表过一作论文，或在核心开源存储项目中有重大贡献（Maintainer/Committer）者优先考虑。\n2. 专业能力（系统工程与分布式底座）：\n● 系统编程功底：精通 C/C++ 或 Go/Rust，具备扎实的系统级编程能力。熟悉 Linux 内核（VFS, Block Layer, Memory Management）及高性能网络开发（Socket, RDMA, DPDK/SPDK），具备极强的底层工程实现与缺陷排查能力。\n● 分布式系统：深刻理解分布式系统理论（如 Paxos/Raft 一致性协议、分布式锁、纠删码 EC、数据分片与副本管理、分布式事务）。具备大规模分布式存储（如 HDFS, Pangu）的研发或深度调优经验。\n3. AI 存储领域专业知识（满足其一即可）：\n● 深入理解 AI 训练与推理的 I/O 模式，熟练掌握底层数据加载机制（如 PyTorch Dataloader），熟悉 Megatron-LM, DeepSpeed, Ray, vLLM 等主流分布式训练/推理框架的存储诉求。\n● 熟悉高性能存储协议及硬件架构，有 NVMe-oF, PCIe, CXL, GPUDirect Storage (GDS) 相关驱动开发与性能压测经验。\n● 深刻理解云原生架构，有大规模 Kubernetes 集群下的存储 CSI、数据缓存编排调优经验。\n4. 能力特质：\n● 全局技术视野：具备跨域的技术视野，能从“GPU 寄存器 -> HBM 显存 -> PCIe 总线 -> eRDMA 网卡 -> 分布式磁盘”的全链路视角拆解数据流动，准确把握计算、网络与存储的边界权衡。\n● 系统思维与极致追求：乐于挑战复杂系统的性能极限，熟练使用各种 Profiling & Tracing 工具（如 eBPF, perf, ftrace, Nsight Systems），善于从 CPU 缓存未命中、上下文切换、锁竞争等微观视角定位并解决性能瓶颈。\n● 业务驱动与沟通协作：对 AI 大模型技术充满热情，不仅能交付高质量的系统级代码，更能与算法科学家、模型训练专家进行深度技术对话，将模型侧的痛点精准转化为底层存储的工程解法。",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907780017",
+    "description": "1. 承接安全及云产品的安全能力建设需求，设计、开发高性能、高可用、安全的系统及工具；\n2. 流量安全分析，面向海量网络流量构建灵敏、高效的流量数据分析和入侵检测系统，能够第一时间识别和防御恶意网络攻击，为阿里平台与用户筑起强大防线；\n3. 主机安全防护，设计并实现高可用的主机恶意行为检测与安全防御系统，能够在百万量级的海量主机上稳定运行，在不影响应用正常运行的前提下精准发现与拦截恶意攻击行为；\n4. 零信任身份认证与访问控制，在大规模生产网络中建立稳定、安全的零信任体系，做到持续验证、最小权限，让攻击者难以入侵渗透，保证阿里的高安全水位；\n5. 安全 for AI：针对大模型及 Agent 系统自身的安全风险，设计并构建 AI 原生的安全防护体系；研究并防范 Prompt 注入、越狱攻击、数据投毒、上下文敏感数据泄露等 AI 特有攻击手段；设计 Agent 系统的权限控制、行为审计与安全沙箱机制，确保自主式 AI 系统在可控范围内安全运行。\n6. AI for 安全：基于安全业务场景设计 Agentic Workflow，将威胁检测、事件响应、溯源分析等安全运营流程实现智能化、自动化；构建安全领域的多 Agent 协作系统，实现告警研判、攻击溯源、漏洞分析等安全任务的端到端自动化处置；探索大模型在安全领域的深度应用，包括但不限于智能安全编排与自动化响应（SOAR）、威胁情报分析、代码审计等；通过数据反馈闭环持续迭代，实现全链路智能化的安全运营。",
+    "requirementsText": "1. 热爱编程，熟悉 Java、Golang、Python、C/C++ 等语言中的至少一种，有良好的编程习惯；\n2. 对算法、数据结构、操作系统、网络通信等计算机专业基础有较好的掌握和理解；\n3. 热爱安全攻防，对网络安全和 AI 安全均有一定了解，理解传统攻防手法与防御思路（如 Web 安全、网络协议安全、系统安全等），同时关注 Prompt 注入、越狱攻击、数据泄露等 AI 时代的新型安全风险；\n4. 对 AI/LLM 技术有浓厚兴趣，了解大模型、Agent、RAG 等相关技术概念，理解 Agent 系统的基本架构（工具调用、规划、记忆、多 Agent 协作等）；\n5. 学习能力强，对新事物抱有好奇心，有良好的沟通能力和团队协同能力，善于独立思考和反思总结。\n\n加分项\n1. 有 ACM、超算、CTF、安全攻防等编程或安全类竞赛获奖者优先；\n2. 有项目开发经验，参与过开源项目者优先；\n3. 熟悉云场景和相关中间件者优先；\n4. 有 LLM 应用开发、Agent / Multi-Agent 系统构建经验者优先，有将 Agent 技术应用于安全场景（如自动化威胁检测、智能告警研判、攻击溯源等）的实践经验更佳；\n5. 对应用层漏洞原理、代码审计、漏洞利用与防御方式有扎实基础，或在 AI 安全方向（如大模型红队测试、Agent 安全沙箱、对抗攻防）有研究或实践经验；\n6. 发现过真实场景的安全问题，在工业界或学术会议上发表过研究成果者优先。",
     "required": [],
     "bonus": [],
-    "profile_id": "REGULAR-230",
+    "profile_id": "REGULAR-228",
     "search_keywords": [],
     "job_profile": {
-      "profile_id": "REGULAR-230",
+      "profile_id": "REGULAR-228",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
-      "core_problem": "在这里，你将成为大模型时代算力底座的“核心引擎构造者”。依托阿里自研分布式存储系统与业界领先的计算网络架构，你将参与构建支撑千卡/万卡乃至十万卡规模的 AI 计算基础设施。",
+      "core_problem": "1. 承接安全及云产品的安全能力建设需求，设计、开发高性能、高可用、安全的系统及工具；",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -25254,6 +25082,34 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-221",
     "category": "regular",
+    "title": "AI Infra工程师-存储方向",
+    "department": "阿里云",
+    "location": "北京、成都、杭州、上海、深圳",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640015",
+    "description": "在这里，你将成为大模型时代算力底座的“核心引擎构造者”。依托阿里自研分布式存储系统与业界领先的计算网络架构，你将参与构建支撑千卡/万卡乃至十万卡规模的 AI 计算基础设施。\n我们致力于通过软硬件协同优化、存算分离架构创新，解决大模型在预训练、微调、推理全链路中的极致工程挑战。你的代码将直接运行在阿里核心的 AI 存储产品中，决定千万级并发的数据加载吞吐、秒级 Checkpoint 的可靠性以及庞大 GPU 集群的 MFU（模型算力利用率）。加入我们，为全球顶尖 AI 模型注入最澎湃的数据动力！\n\n具体的职责包括以下相关方向的一项或多项：\n1. 面向 AI 计算的高性能存储系统研发：针对 AI 工作负载复杂且严苛的 I/O 特征（如海量小文件的高并发元数据检索、超大块数据的并行顺序流），进行内核态与协议栈级别的深度优化。主导研发基于 NVMe、RDMA/RoCEv2/eRDMA 的超低延时存储网络链路。\n2. 极致性能的数据加载（Data Pipeline）与缓存加速：深度剖析大模型训练的数据读取链路，解决万卡集群下的 I/O 阻塞（I/O Bottleneck）与长尾延迟问题。研发面向大模型的分布式多级缓存与数据预取引擎，确保数据吞吐完全满足 GPU 显存带宽需求，实现计算与存储的完美 Overlap。\n3. 云原生 AI 存储编排与智能化调度：结合 Kubernetes 生态构建云原生数据编排系统（如主导或参与 CNCF Fluid 等项目），将存储系统与计算调度平台深度集成。实现存算感知调度（Data-aware Scheduling）与弹性扩缩容，根据计算任务拓扑动态调整数据副本与亲和性策略，保障全网存储资源的极致效率。\n4. Checkpointing 极致加速与容灾：针对超千亿/万亿参数模型的断点续传（Fault Tolerance）需求，设计高性能分布式持久化方案。通过内存-SSD-对象存储的分层拓扑、异步流式写入（Async I/O）、拓扑感知（Topology-aware）路由以及 GPUDirect Storage (GDS) 等技术，实现百 GB/TB 级模型权重的秒级保存与恢复，极大降低计算资源的闲置浪费。\n5. 面向 Agent 使用场景的存储系统研发：通过分布式数据、元数据管理和高性能的分布式一致性协议等技术，支持海量 Agent 下的数据规模以及 IO 访问安全隔离、性能隔离。",
+    "requirementsText": "1. 基础条件：\n● 计算机、软件工程及相关专业。\n● 热衷于数据结构和算法，在 ACM/ICPC 等大赛中成绩优异者优先。\n● 在分布式系统、存储或操作系统领域顶会（如 FAST, OSDI, SOSP, SIGCOMM, NSDI 等）发表过一作论文，或在核心开源存储项目中有重大贡献（Maintainer/Committer）者优先考虑。\n2. 专业能力（系统工程与分布式底座）：\n● 系统编程功底：精通 C/C++ 或 Go/Rust，具备扎实的系统级编程能力。熟悉 Linux 内核（VFS, Block Layer, Memory Management）及高性能网络开发（Socket, RDMA, DPDK/SPDK），具备极强的底层工程实现与缺陷排查能力。\n● 分布式系统：深刻理解分布式系统理论（如 Paxos/Raft 一致性协议、分布式锁、纠删码 EC、数据分片与副本管理、分布式事务）。具备大规模分布式存储（如 HDFS, Pangu）的研发或深度调优经验。\n3. AI 存储领域专业知识（满足其一即可）：\n● 深入理解 AI 训练与推理的 I/O 模式，熟练掌握底层数据加载机制（如 PyTorch Dataloader），熟悉 Megatron-LM, DeepSpeed, Ray, vLLM 等主流分布式训练/推理框架的存储诉求。\n● 熟悉高性能存储协议及硬件架构，有 NVMe-oF, PCIe, CXL, GPUDirect Storage (GDS) 相关驱动开发与性能压测经验。\n● 深刻理解云原生架构，有大规模 Kubernetes 集群下的存储 CSI、数据缓存编排调优经验。\n4. 能力特质：\n● 全局技术视野：具备跨域的技术视野，能从“GPU 寄存器 -> HBM 显存 -> PCIe 总线 -> eRDMA 网卡 -> 分布式磁盘”的全链路视角拆解数据流动，准确把握计算、网络与存储的边界权衡。\n● 系统思维与极致追求：乐于挑战复杂系统的性能极限，熟练使用各种 Profiling & Tracing 工具（如 eBPF, perf, ftrace, Nsight Systems），善于从 CPU 缓存未命中、上下文切换、锁竞争等微观视角定位并解决性能瓶颈。\n● 业务驱动与沟通协作：对 AI 大模型技术充满热情，不仅能交付高质量的系统级代码，更能与算法科学家、模型训练专家进行深度技术对话，将模型侧的痛点精准转化为底层存储的工程解法。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-230",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-230",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "在这里，你将成为大模型时代算力底座的“核心引擎构造者”。依托阿里自研分布式存储系统与业界领先的计算网络架构，你将参与构建支撑千卡/万卡乃至十万卡规模的 AI 计算基础设施。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-222",
+    "category": "regular",
     "title": "AI Infra软硬件结合开发工程师",
     "department": "阿里巴巴控股集团、阿里云",
     "location": "北京、杭州、上海、深圳",
@@ -25280,7 +25136,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-222",
+    "id": "regular-223",
     "category": "regular",
     "title": "AI agent平台研发工程师",
     "department": "阿里云",
@@ -25308,7 +25164,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-223",
+    "id": "regular-224",
     "category": "regular",
     "title": "AI研发工程师-商业化风控",
     "department": "淘天集团",
@@ -25336,7 +25192,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-224",
+    "id": "regular-225",
     "category": "regular",
     "title": "AI全栈开发工程师",
     "department": "阿里巴巴控股集团、阿里云、千问办公",
@@ -25364,7 +25220,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-225",
+    "id": "regular-226",
     "category": "regular",
     "title": "全栈研发工程师",
     "department": "千问办公",
@@ -25392,7 +25248,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-226",
+    "id": "regular-227",
     "category": "regular",
     "title": "移动端AI推理引擎优化工程师",
     "department": "阿里云",
@@ -25420,7 +25276,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-227",
+    "id": "regular-228",
     "category": "regular",
     "title": "工程效能工程师-AI与研发基建方向",
     "department": "阿里云",
@@ -25448,7 +25304,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-228",
+    "id": "regular-229",
     "category": "regular",
     "title": "AI Agent研发工程师",
     "department": "飞猪、阿里国际数字商业集团、阿里云、Token Foundry、千问办公",
@@ -25476,7 +25332,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-229",
+    "id": "regular-230",
     "category": "regular",
     "title": "客户端开发工程师",
     "department": "淘天集团、阿里云、千问办公",
@@ -25494,34 +25350,6 @@ window.REGULAR_JOB_LIBRARY = [
       "domain": "",
       "sub_domain": "",
       "core_problem": "1. 深度参与亿级DAU移动端产品开发，构建高性能/高可用性的客户端App架构，支撑千万级在线用户的稳定流畅使用;",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-230",
-    "category": "regular",
-    "title": "RAG引擎研发工程师",
-    "department": "阿里巴巴控股集团、盒马",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907720096",
-    "description": "1. 负责构建和优化基于RAG（Retrieval-Augmented Generation）架构的智能问答、知识推理系统；\n2. 开发高效的多模态数据（文本/图像/结构化数据）检索模块，优化Embedding模型与索引算法；\n3. 设计生成模型（如LLM）与检索系统的协同机制，提升结果相关性与逻辑连贯性；\n4. 探索混合检索策略（密集检索+稀疏检索），优化召回率与排序精度；\n5. 构建端到端性能评估体系，设计AB实验验证系统迭代效果；\n6. 跟踪LangChain、LlamaIndex等RAG技术生态，推动前沿技术落地。",
-    "requirementsText": "1. 计算机、人工智能、软件工程、数学或相关专业本科及以上学历；\n2. 热爱计算机及互联网技术，对大模型、信息检索等领域有浓厚兴趣，具备较强的技术热情和自驱力；\n3. 精通但不限于C/C++/java等编程语言中的一种或几种，有良好的编程习惯；\n4. 基础知识扎实，熟悉计算机系统结构、操作系统内核、网络、分布式系统、算法等领域； \n5. 熟悉Unix/Linux环境下编程，熟练使用调试工具，并熟悉某种脚本语言。\n\n【加分项】：\n1. 参与过 RAG、LangChain、LlamaIndex 等相关项目实践；\n2. 使用过 Sentence-BERT、BGE、OpenAI Embeddings 等 embedding 模型；\n3. 接触过向量数据库（如 FAISS、Milvus、Pinecone、Chrom\n4. 了解检索排序模型（如 BM25、DPR、ColBERT）或有信息检索项目经验；\n5. 在 GitHub 有开源项目或技术博客者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-241",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-241",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 负责构建和优化基于RAG（Retrieval-Augmented Generation）架构的智能问答、知识推理系统；",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -25562,6 +25390,34 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-232",
     "category": "regular",
+    "title": "RAG引擎研发工程师",
+    "department": "阿里巴巴控股集团、盒马",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907720096",
+    "description": "1. 负责构建和优化基于RAG（Retrieval-Augmented Generation）架构的智能问答、知识推理系统；\n2. 开发高效的多模态数据（文本/图像/结构化数据）检索模块，优化Embedding模型与索引算法；\n3. 设计生成模型（如LLM）与检索系统的协同机制，提升结果相关性与逻辑连贯性；\n4. 探索混合检索策略（密集检索+稀疏检索），优化召回率与排序精度；\n5. 构建端到端性能评估体系，设计AB实验验证系统迭代效果；\n6. 跟踪LangChain、LlamaIndex等RAG技术生态，推动前沿技术落地。",
+    "requirementsText": "1. 计算机、人工智能、软件工程、数学或相关专业本科及以上学历；\n2. 热爱计算机及互联网技术，对大模型、信息检索等领域有浓厚兴趣，具备较强的技术热情和自驱力；\n3. 精通但不限于C/C++/java等编程语言中的一种或几种，有良好的编程习惯；\n4. 基础知识扎实，熟悉计算机系统结构、操作系统内核、网络、分布式系统、算法等领域； \n5. 熟悉Unix/Linux环境下编程，熟练使用调试工具，并熟悉某种脚本语言。\n\n【加分项】：\n1. 参与过 RAG、LangChain、LlamaIndex 等相关项目实践；\n2. 使用过 Sentence-BERT、BGE、OpenAI Embeddings 等 embedding 模型；\n3. 接触过向量数据库（如 FAISS、Milvus、Pinecone、Chrom\n4. 了解检索排序模型（如 BM25、DPR、ColBERT）或有信息检索项目经验；\n5. 在 GitHub 有开源项目或技术博客者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-241",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-241",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 负责构建和优化基于RAG（Retrieval-Augmented Generation）架构的智能问答、知识推理系统；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-233",
+    "category": "regular",
     "title": "全栈开发工程师",
     "department": "淘天集团、Token Foundry、千问办公",
     "location": "北京、杭州",
@@ -25588,7 +25444,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-233",
+    "id": "regular-234",
     "category": "regular",
     "title": "前端开发工程师",
     "department": "Token Foundry、虎鲸文娱集团、盒马",
@@ -25616,7 +25472,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-234",
+    "id": "regular-235",
     "category": "regular",
     "title": "客户端开发工程师iOS",
     "department": "千问办公、虎鲸文娱集团、盒马",
@@ -25644,7 +25500,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-235",
+    "id": "regular-236",
     "category": "regular",
     "title": "基础平台研发工程师",
     "department": "阿里巴巴控股集团、淘天集团、阿里云、千问事业部、平头哥",
@@ -25672,7 +25528,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-236",
+    "id": "regular-237",
     "category": "regular",
     "title": "大模型Infra研发工程师（训练/推理）",
     "department": "阿里云、Token Foundry",
@@ -25700,10 +25556,10 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-237",
+    "id": "regular-238",
     "category": "regular",
     "title": "大模型应用开发工程师",
-    "department": "阿里巴巴控股集团、阿里云、高德地图、盒马、灵犀互娱",
+    "department": "阿里巴巴控股集团、高德地图、盒马、灵犀互娱",
     "location": "北京、广州、杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907720102",
     "description": "1. 负责将大模型（LLM）能力落地到实际业务场景，包括但不限于Prompt工程、智能对话、知识库建设、内容生成及业务流程自动化；\n2. 设计并开发AI Agent系统及其框架，负责任务规划、多步推理（CoT）、工具调用（Function/Tool Calling）、记忆管理及多智能体协同等核心模块的实现；\n3. 构建LLMOps全链路流程，包括大模型应用评测、监控告警、数据标注及RAG（检索增强生成）全链路优化（如切片算法、召回重排等）；\n4. 参与大模型业务应用平台的研发，推动MCP（模型控制协议）生态建设、工作流编排及代码生成等提效工具的开发，构建高可靠、高扩展的AI架构。",
@@ -25728,7 +25584,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-238",
+    "id": "regular-239",
     "category": "regular",
     "title": "研发工程师C/C++",
     "department": "阿里巴巴控股集团、淘天集团、阿里云、千问办公、千问事业部、平头哥、虎鲸文娱集团",
@@ -25756,7 +25612,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-239",
+    "id": "regular-240",
     "category": "regular",
     "title": "AI Devops工程师",
     "department": "平头哥",
@@ -25784,7 +25640,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-240",
+    "id": "regular-241",
     "category": "regular",
     "title": "AI Agent平台开发工程师",
     "department": "阿里云、Token Foundry、千问办公",
@@ -25812,7 +25668,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-241",
+    "id": "regular-242",
     "category": "regular",
     "title": "AI Agent 研发工程师-决策方向",
     "department": "阿里云、盒马",
@@ -25830,34 +25686,6 @@ window.REGULAR_JOB_LIBRARY = [
       "domain": "",
       "sub_domain": "",
       "core_problem": "1. 研发具备长程规划能力的调研 Agent。设计并实现多步推理（Reasoning）、自主信息采集（Web Browsing）、多源数据合成与矛盾校对的算法架构，提升 Agent 在处理复杂未知任务时的“认知深度”；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-242",
-    "category": "regular",
-    "title": "客户端开发工程师Android",
-    "department": "千问办公、虎鲸文娱集团",
-    "location": "北京、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907720101",
-    "description": "1. 负责无线客户端和SDK产品的架构设计和开发工作；\n2. 结合数据指标驱动和分析，不断深化无线客户端技术产品，优化客户端应用的性能以及提升客户端体验；\n3. 独立负责平台相关的 Android各机型的适配和优化；\n4. 独立负责Android技术难题攻关，解决各种系统限制而导致一些技术和用户体验问题；\n5. 移动平台技术研究与新技术新趋势探索。",
-    "requirementsText": "1. 熟悉Android SDK以及相关配套工具；\n2. 了解Android Framework层，并有一定Android源码阅读经验；\n3. 具有ACM/OI等算法经历、对一些底层或框架（JVM/Android ROM/Linux/Flutter等）、以及行业技术（图片编解码/机器学习等）有深入了解者为佳（plus）；\n4. 思维敏捷，可以应付各类编程复杂问题，并迅速给出解决方案;\n5. 学习能力强，对新事物保有好奇心;有良好的沟通能力和团队协同能力；能与他人合作，共同完成目标。\n\n【加分项】\n1. 深刻了解移动客户端特性，有Android客户端开发经验，独立开发过 APP，有经历过大型APP的研发周期；\n2. 除Android之外，具备其它方面开发经验者优先，如具有前端技能或脚本技能者优先；\n3. 在校园内或互联网公司有相关实习或项目经历。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-252",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-252",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 负责无线客户端和SDK产品的架构设计和开发工作；",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -25898,9 +25726,37 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-244",
     "category": "regular",
+    "title": "客户端开发工程师Android",
+    "department": "千问办公、虎鲸文娱集团",
+    "location": "北京、杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907720101",
+    "description": "1. 负责无线客户端和SDK产品的架构设计和开发工作；\n2. 结合数据指标驱动和分析，不断深化无线客户端技术产品，优化客户端应用的性能以及提升客户端体验；\n3. 独立负责平台相关的 Android各机型的适配和优化；\n4. 独立负责Android技术难题攻关，解决各种系统限制而导致一些技术和用户体验问题；\n5. 移动平台技术研究与新技术新趋势探索。",
+    "requirementsText": "1. 熟悉Android SDK以及相关配套工具；\n2. 了解Android Framework层，并有一定Android源码阅读经验；\n3. 具有ACM/OI等算法经历、对一些底层或框架（JVM/Android ROM/Linux/Flutter等）、以及行业技术（图片编解码/机器学习等）有深入了解者为佳（plus）；\n4. 思维敏捷，可以应付各类编程复杂问题，并迅速给出解决方案;\n5. 学习能力强，对新事物保有好奇心;有良好的沟通能力和团队协同能力；能与他人合作，共同完成目标。\n\n【加分项】\n1. 深刻了解移动客户端特性，有Android客户端开发经验，独立开发过 APP，有经历过大型APP的研发周期；\n2. 除Android之外，具备其它方面开发经验者优先，如具有前端技能或脚本技能者优先；\n3. 在校园内或互联网公司有相关实习或项目经历。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-252",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-252",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 负责无线客户端和SDK产品的架构设计和开发工作；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-245",
+    "category": "regular",
     "title": "研发工程师Golang/Python",
-    "department": "千问办公",
-    "location": "杭州",
+    "department": "Token Foundry、千问办公",
+    "location": "北京、杭州",
     "source": "https://campus-talent.alibaba.com/campus/position/199907780093",
     "description": "1.参与稳定性建设，负责计划编排决策、资源诊断隔离、服务器及OS/Kernel的配置及资源管理等系统研发；\n2.负责对接实时异常检测以及故障预测数据，建立大规模集群下的轮转编排能力, 建设基于数据决策的全链路故障隔离及周期轮转体系；\n3.负责云产品底层系统的资源及配置管理。",
     "requirementsText": "1.计算机基础扎实，熟练掌握C/C++、Java、Golang、Rust、Python其中一种编程开发语言；\n2.熟悉 Unix/Linux ,具备常见问题诊断能力；\n3.对常用算法理解透彻，能够独立分析拆解业务问题转化为有效的工程方案；\n4.善于沟通，乐于总结分享，良好的团队合作能力。\n\n【加分项】\n1.熟悉容器、K8S、ServiceMesh相关生态；\n2.熟悉了解云计算，有过云平台使用经验或者实习经验；\n3.有数据分析相关经验；\n4.熟悉了解AI infra或者大模型，可通过AI提高工程、编程效率者优先。",
@@ -25924,7 +25780,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-245",
+    "id": "regular-246",
     "category": "regular",
     "title": "研发工程师JAVA",
     "department": "阿里巴巴控股集团、阿里云、Token Foundry、千问办公、虎鲸文娱集团",
@@ -25952,7 +25808,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-246",
+    "id": "regular-247",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-少儿自制-美术",
     "department": "虎鲸文娱集团",
@@ -25980,7 +25836,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-247",
+    "id": "regular-248",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-动漫制片",
     "department": "虎鲸文娱集团",
@@ -26008,7 +25864,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-248",
+    "id": "regular-249",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-渠道销售",
     "department": "虎鲸文娱集团",
@@ -26036,7 +25892,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-249",
+    "id": "regular-250",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-剧集策划",
     "department": "虎鲸文娱集团",
@@ -26064,7 +25920,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-250",
+    "id": "regular-251",
     "category": "regular",
     "title": "海外演出商务拓展",
     "department": "虎鲸文娱集团",
@@ -26092,7 +25948,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-251",
+    "id": "regular-252",
     "category": "regular",
     "title": "巡演项目运营",
     "department": "虎鲸文娱集团",
@@ -26120,7 +25976,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-252",
+    "id": "regular-253",
     "category": "regular",
     "title": "AI产品经理-文娱方向",
     "department": "虎鲸文娱集团",
@@ -26148,7 +26004,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-253",
+    "id": "regular-254",
     "category": "regular",
     "title": "算法工程师-合版算法研究",
     "department": "Token Foundry",
@@ -26176,7 +26032,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-254",
+    "id": "regular-255",
     "category": "regular",
     "title": "算法工程师-RLHF算法研究",
     "department": "Token Foundry",
@@ -26204,7 +26060,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-255",
+    "id": "regular-256",
     "category": "regular",
     "title": "算法工程师-评估系统算法",
     "department": "Token Foundry",
@@ -26232,7 +26088,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-256",
+    "id": "regular-257",
     "category": "regular",
     "title": "算法工程师-多模态基础大模型和多模态Agent",
     "department": "Token Foundry",
@@ -26260,7 +26116,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-257",
+    "id": "regular-258",
     "category": "regular",
     "title": "算法工程师-模型自进化",
     "department": "Token Foundry",
@@ -26288,7 +26144,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-258",
+    "id": "regular-259",
     "category": "regular",
     "title": "算法工程师-AI for Engineering",
     "department": "Token Foundry",
@@ -26316,7 +26172,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-259",
+    "id": "regular-260",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-内容运营",
     "department": "虎鲸文娱集团",
@@ -26344,7 +26200,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-260",
+    "id": "regular-261",
     "category": "regular",
     "title": "质量管理（医药背景）",
     "department": "阿里健康",
@@ -26372,7 +26228,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-261",
+    "id": "regular-262",
     "category": "regular",
     "title": "算法工程师-数据算法（多模态生成方向）",
     "department": "Token Foundry",
@@ -26400,7 +26256,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-262",
+    "id": "regular-263",
     "category": "regular",
     "title": "整合营销专员",
     "department": "淘宝闪购",
@@ -26428,7 +26284,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-263",
+    "id": "regular-264",
     "category": "regular",
     "title": "商家商品运营",
     "department": "阿里健康",
@@ -26456,7 +26312,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-264",
+    "id": "regular-265",
     "category": "regular",
     "title": "算法工程师-大模型Agentic Reward System",
     "department": "Token Foundry",
@@ -26484,7 +26340,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-265",
+    "id": "regular-266",
     "category": "regular",
     "title": "算法工程师-基础模型预训练数据",
     "department": "Token Foundry",
@@ -26512,7 +26368,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-266",
+    "id": "regular-267",
     "category": "regular",
     "title": "算法工程师-Agentic Coding模型训练",
     "department": "Token Foundry",
@@ -26540,7 +26396,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-267",
+    "id": "regular-268",
     "category": "regular",
     "title": "算法工程师-强化学习模型训练",
     "department": "Token Foundry",
@@ -26568,7 +26424,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-268",
+    "id": "regular-269",
     "category": "regular",
     "title": "Harness研究工程师",
     "department": "Token Foundry",
@@ -26596,7 +26452,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-269",
+    "id": "regular-270",
     "category": "regular",
     "title": "算法工程师-多语言技术探索与应用",
     "department": "Token Foundry",
@@ -26624,7 +26480,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-270",
+    "id": "regular-271",
     "category": "regular",
     "title": "算法工程师-Agent算法研究",
     "department": "Token Foundry",
@@ -26652,7 +26508,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-271",
+    "id": "regular-272",
     "category": "regular",
     "title": "算法工程师-全模态基础大模型",
     "department": "Token Foundry",
@@ -26680,7 +26536,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-272",
+    "id": "regular-273",
     "category": "regular",
     "title": "算法工程师-AI制药",
     "department": "Token Foundry",
@@ -26708,7 +26564,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-273",
+    "id": "regular-274",
     "category": "regular",
     "title": "AI产品经理-影视内容策略",
     "department": "虎鲸文娱集团",
@@ -26736,7 +26592,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-274",
+    "id": "regular-275",
     "category": "regular",
     "title": "算法工程师-大模型可解释性",
     "department": "Token Foundry",
@@ -26764,7 +26620,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-275",
+    "id": "regular-276",
     "category": "regular",
     "title": "演出票务平台运营",
     "department": "虎鲸文娱集团",
@@ -26792,7 +26648,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-276",
+    "id": "regular-277",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-演出商务拓展",
     "department": "虎鲸文娱集团",
@@ -26820,7 +26676,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-277",
+    "id": "regular-278",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-市场宣发",
     "department": "虎鲸文娱集团",
@@ -26848,7 +26704,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-278",
+    "id": "regular-279",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-整合营销",
     "department": "虎鲸文娱集团",
@@ -26876,7 +26732,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-279",
+    "id": "regular-280",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-剧场内容商务合作",
     "department": "虎鲸文娱集团",
@@ -26904,7 +26760,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-280",
+    "id": "regular-281",
     "category": "regular",
     "title": "虎鲸文娱娱跃班-音乐内容商务合作",
     "department": "虎鲸文娱集团",
@@ -26932,7 +26788,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-281",
+    "id": "regular-282",
     "category": "regular",
     "title": "算法工程师-内容安全风控",
     "department": "阿里国际数字商业集团",
@@ -26950,34 +26806,6 @@ window.REGULAR_JOB_LIBRARY = [
       "domain": "",
       "sub_domain": "",
       "core_problem": "1. 面对全球量级的海量数据流，参与构建高可用、高灵敏度的风控实时算法体系，挑战极高难度的“数据不平衡”难题，在万分之一甚至更低概率的威胁样本中实现精准定位；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-282",
-    "category": "regular",
-    "title": "机器学习系统工程师",
-    "department": "阿里巴巴控股集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907620037",
-    "description": "1. 设计和实现机器学习系统所需要的大规模分布式计算系统；\n2. 机器学习全生命周期（训练、推理、MLOps、CI/CD、AB testing）组件的开发与优化；\n3. 收集理解云上AI客户的需求并转化为技术系统设计；\n4. 在机器学习系统的前沿领域（如分布式训练、软硬协同设计等）参与应用驱动的研究；\n5. 与产品、解决方案、销售等兄弟团队实现云上技术到业务的转化。",
-    "requirementsText": "1. 精通C/C++、Java、Python等至少一门编程语言，了解至少一种主流机器学习建模框架；\n2. 对于机器学习和数学有较强的理解能力，有机器学习领域经验（计算机视觉、语音、NLP、推荐系统）者优先；\n3. 热衷于数据结构和算法、在ACM大赛成绩优异者优先；\n4. 有实际成果并发表在国际顶级会议、期刊者优先；\n5. 熟悉异构计算和高性能计算，有GPU、端侧等软硬件优化经验者优先；\n6. 熟悉常用机器学习算法，有linux下开发经验的，大规模数据处理经验优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-282",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-282",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -27018,46 +26846,18 @@ window.REGULAR_JOB_LIBRARY = [
   {
     "id": "regular-284",
     "category": "regular",
-    "title": "国际化产品运营",
-    "department": "阿里国际数字商业集团",
-    "location": "广州、杭州、深圳",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907800034",
-    "description": "1. 深入研究海外目标市场的文化背景、消费者偏好及行业趋势；负责产品国别化的市场进入策略、客户运营及高质量文案的本地化输出；\n2. 参与制定国际物流或业务流程的SOP，负责全链路履约监控；识别C2C/B2C服务体验中的痛点与风险，制定治理策略并推动资源落地，对服务质量与用户体验负责；\n3. 搭建并维护业务核心指标体系，深入分析用户行为与运营数据，通过数据驱动业务策略优化，持续挖掘增长机会。",
-    "requirementsText": "1. 本科及以上学历；具备优秀的语言能力，有相关国家留学或工作经历者优先；\n2. 对数据敏感，有严谨的数据思维，善于用数据结果做导向；\n3. 优秀的逻辑思维、较强的抗压能力；\n4. 熟练运用互联网效率工具，高效支撑工作；\n5. 学习能力强，对新事物保有好奇心，并能快速适应新环境。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-296",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-296",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 深入研究海外目标市场的文化背景、消费者偏好及行业趋势；负责产品国别化的市场进入策略、客户运营及高质量文案的本地化输出；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-285",
-    "category": "regular",
-    "title": "国际化产品经理",
-    "department": "阿里国际数字商业集团",
+    "title": "机器学习系统工程师",
+    "department": "阿里巴巴控股集团",
     "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907680042",
-    "description": "1. 深度调研目标市场的用户场景，挖掘本地化需求痛点，提出具有竞争力的产品创新方案；\n2. 负责产品需求定义、设计落地及生命周期管理。协同研发、算法、设计等团队，确保产品高质量上线并满足本地合规与审美要求；\n3. 负责目标市场买家链路/企业场景的体验升级，撰写高质量PRD，对标当地行业优秀平台进行竞品分析，输出策略支持；\n4. 持续追踪产品数据与核心指标，分析用户反馈背后的“Why”，通过敏捷迭代实现产品功能与运营策略的持续进化。",
-    "requirementsText": "1. 本科及以上学历，计算机、人工智能、管理学、经济学、统计学、心理学、社会学等相关专业优先；\n2. 具备严谨的逻辑思维能力，对数据敏感，能从复杂信息中提取洞察；\n3. 英语/日语/西语/葡语等目标语种流利可作为工作语言，能够深刻理解当地文化、消费习惯及社会规律；\n4. 优秀的跨团队协作意识，面对挫折乐观积极，能适应高速迭代的国际化节奏。",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907620037",
+    "description": "1. 设计和实现机器学习系统所需要的大规模分布式计算系统；\n2. 机器学习全生命周期（训练、推理、MLOps、CI/CD、AB testing）组件的开发与优化；\n3. 收集理解云上AI客户的需求并转化为技术系统设计；\n4. 在机器学习系统的前沿领域（如分布式训练、软硬协同设计等）参与应用驱动的研究；\n5. 与产品、解决方案、销售等兄弟团队实现云上技术到业务的转化。",
+    "requirementsText": "1. 精通C/C++、Java、Python等至少一门编程语言，了解至少一种主流机器学习建模框架；\n2. 对于机器学习和数学有较强的理解能力，有机器学习领域经验（计算机视觉、语音、NLP、推荐系统）者优先；\n3. 热衷于数据结构和算法、在ACM大赛成绩优异者优先；\n4. 有实际成果并发表在国际顶级会议、期刊者优先；\n5. 熟悉异构计算和高性能计算，有GPU、端侧等软硬件优化经验者优先；\n6. 熟悉常用机器学习算法，有linux下开发经验的，大规模数据处理经验优先。",
     "required": [],
     "bonus": [],
-    "profile_id": "REGULAR-285",
+    "profile_id": "REGULAR-282",
     "search_keywords": [],
     "job_profile": {
-      "profile_id": "REGULAR-285",
+      "profile_id": "REGULAR-282",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
@@ -27072,63 +26872,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-286",
-    "category": "regular",
-    "title": "算法工程师-大模型预训练 (Pre-training)",
-    "department": "Token Foundry",
-    "location": "北京、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907800035",
-    "description": "1. 大规模预训练数据合成技术探索、STEM & reasoning 优化、长尾知识优化、精品数据挖掘过滤、自然数据 scaling、长文本优化、面向test-time scaling的数据优化；\n2. 新型预训练损失函数探索、遗忘对抗与持续学习、optimizer 优化、lr scheduler 优化、课程学习、scaling law预测、超参优化；\n3. 新型模型结构探索、模型可解释性、MoE 优化、参数扩展与裁剪蒸馏、线性注意力、动态稀疏注意力、draft model优化、动态计算优化、KV cache压缩、长序列优化、decoding 加速等。",
-    "requirementsText": "1. 本科及以上学历，计算机科学、人工智能、机器学习能等相关专业优先；\n2. 模型结构优化探索：MoE 优化、参数扩展与裁剪蒸馏、线性注意力、稀疏注意力、位置编码改进、多模态模型结构优化、动态计算优化、KV cache压缩、长序列优化、draft model 优化、decoding 加速等；\n3. 训练优化理论与策略探索：训练稳定性优化、optimizer 优化、lr scheduler 优化、scaling law 预测、超参优化、预训练损失函数探索、遗忘对抗与持续学习、模型可解释性、课程学习等；\n4. 具备独立思考能力和系统性研究思维，具备较强的动手能力，敢于挑战现有范式，能够独立应用技术解决复杂问题。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-297",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-297",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 大规模预训练数据合成技术探索、STEM & reasoning 优化、长尾知识优化、精品数据挖掘过滤、自然数据 scaling、长文本优化、面向test-time scaling的数据优化；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-287",
-    "category": "regular",
-    "title": "算法工程师-数字人",
-    "department": "淘天集团",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907620034",
-    "description": "1. 负责数字人形象驱动前沿算法研究突破，包含2D Character Animation，2D Talking Head，lipSync等；\n2. 负责数字人形象生成前沿算法研究突破，数字人形象真实度通过图灵测试；\n3. 负责图像视频编辑的前沿技术研究突破，包括但不限于，数字人形象属性编辑、前背景和谐化、重光照等技术方向。",
-    "requirementsText": "1. 本科及以上学历，计算机视觉、人工智能等相关专业优先；\n2. 扎实的算法和编程能力，熟练掌握Pytorch, C++/Python中至少一门语言；\n3. 有3D/Diffusion/GAN/视频生成的一项或多项相关经验, 对相关算法模型和优化有深刻理解；\n4. 有CCF-A类会议数字人方向论文发表者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-298",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-298",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 负责数字人形象驱动前沿算法研究突破，包含2D Character Animation，2D Talking Head，lipSync等；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-288",
+    "id": "regular-285",
     "category": "regular",
     "title": "算法工程师-音频算法",
     "department": "Token Foundry",
@@ -27156,7 +26900,119 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
+    "id": "regular-286",
+    "category": "regular",
+    "title": "国际化产品运营",
+    "department": "阿里国际数字商业集团",
+    "location": "广州、杭州、深圳",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907800034",
+    "description": "1. 深入研究海外目标市场的文化背景、消费者偏好及行业趋势；负责产品国别化的市场进入策略、客户运营及高质量文案的本地化输出；\n2. 参与制定国际物流或业务流程的SOP，负责全链路履约监控；识别C2C/B2C服务体验中的痛点与风险，制定治理策略并推动资源落地，对服务质量与用户体验负责；\n3. 搭建并维护业务核心指标体系，深入分析用户行为与运营数据，通过数据驱动业务策略优化，持续挖掘增长机会。",
+    "requirementsText": "1. 本科及以上学历；具备优秀的语言能力，有相关国家留学或工作经历者优先；\n2. 对数据敏感，有严谨的数据思维，善于用数据结果做导向；\n3. 优秀的逻辑思维、较强的抗压能力；\n4. 熟练运用互联网效率工具，高效支撑工作；\n5. 学习能力强，对新事物保有好奇心，并能快速适应新环境。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-296",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-296",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 深入研究海外目标市场的文化背景、消费者偏好及行业趋势；负责产品国别化的市场进入策略、客户运营及高质量文案的本地化输出；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-287",
+    "category": "regular",
+    "title": "算法工程师-大模型预训练 (Pre-training)",
+    "department": "Token Foundry",
+    "location": "北京、杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907800035",
+    "description": "1. 大规模预训练数据合成技术探索、STEM & reasoning 优化、长尾知识优化、精品数据挖掘过滤、自然数据 scaling、长文本优化、面向test-time scaling的数据优化；\n2. 新型预训练损失函数探索、遗忘对抗与持续学习、optimizer 优化、lr scheduler 优化、课程学习、scaling law预测、超参优化；\n3. 新型模型结构探索、模型可解释性、MoE 优化、参数扩展与裁剪蒸馏、线性注意力、动态稀疏注意力、draft model优化、动态计算优化、KV cache压缩、长序列优化、decoding 加速等。",
+    "requirementsText": "1. 本科及以上学历，计算机科学、人工智能、机器学习能等相关专业优先；\n2. 模型结构优化探索：MoE 优化、参数扩展与裁剪蒸馏、线性注意力、稀疏注意力、位置编码改进、多模态模型结构优化、动态计算优化、KV cache压缩、长序列优化、draft model 优化、decoding 加速等；\n3. 训练优化理论与策略探索：训练稳定性优化、optimizer 优化、lr scheduler 优化、scaling law 预测、超参优化、预训练损失函数探索、遗忘对抗与持续学习、模型可解释性、课程学习等；\n4. 具备独立思考能力和系统性研究思维，具备较强的动手能力，敢于挑战现有范式，能够独立应用技术解决复杂问题。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-297",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-297",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 大规模预训练数据合成技术探索、STEM & reasoning 优化、长尾知识优化、精品数据挖掘过滤、自然数据 scaling、长文本优化、面向test-time scaling的数据优化；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-288",
+    "category": "regular",
+    "title": "国际化产品经理",
+    "department": "阿里国际数字商业集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907680042",
+    "description": "1. 深度调研目标市场的用户场景，挖掘本地化需求痛点，提出具有竞争力的产品创新方案；\n2. 负责产品需求定义、设计落地及生命周期管理。协同研发、算法、设计等团队，确保产品高质量上线并满足本地合规与审美要求；\n3. 负责目标市场买家链路/企业场景的体验升级，撰写高质量PRD，对标当地行业优秀平台进行竞品分析，输出策略支持；\n4. 持续追踪产品数据与核心指标，分析用户反馈背后的“Why”，通过敏捷迭代实现产品功能与运营策略的持续进化。",
+    "requirementsText": "1. 本科及以上学历，计算机、人工智能、管理学、经济学、统计学、心理学、社会学等相关专业优先；\n2. 具备严谨的逻辑思维能力，对数据敏感，能从复杂信息中提取洞察；\n3. 英语/日语/西语/葡语等目标语种流利可作为工作语言，能够深刻理解当地文化、消费习惯及社会规律；\n4. 优秀的跨团队协作意识，面对挫折乐观积极，能适应高速迭代的国际化节奏。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-285",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-285",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
     "id": "regular-289",
+    "category": "regular",
+    "title": "算法工程师-数字人",
+    "department": "淘天集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907620034",
+    "description": "1. 负责数字人形象驱动前沿算法研究突破，包含2D Character Animation，2D Talking Head，lipSync等；\n2. 负责数字人形象生成前沿算法研究突破，数字人形象真实度通过图灵测试；\n3. 负责图像视频编辑的前沿技术研究突破，包括但不限于，数字人形象属性编辑、前背景和谐化、重光照等技术方向。",
+    "requirementsText": "1. 本科及以上学历，计算机视觉、人工智能等相关专业优先；\n2. 扎实的算法和编程能力，熟练掌握Pytorch, C++/Python中至少一门语言；\n3. 有3D/Diffusion/GAN/视频生成的一项或多项相关经验, 对相关算法模型和优化有深刻理解；\n4. 有CCF-A类会议数字人方向论文发表者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-298",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-298",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 负责数字人形象驱动前沿算法研究突破，包含2D Character Animation，2D Talking Head，lipSync等；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-290",
     "category": "regular",
     "title": "算法工程师-计算机图形/引擎",
     "department": "虎鲸文娱集团",
@@ -27184,7 +27040,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-290",
+    "id": "regular-291",
     "category": "regular",
     "title": "算法工程师-世界模型",
     "department": "Token Foundry",
@@ -27212,147 +27068,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-291",
-    "category": "regular",
-    "title": "算法工程师-视频增强与AI生成处理",
-    "department": "淘天集团",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640031",
-    "description": "在淘宝，每天有数以亿计的用户通过直播、短视频和图片等方式进行消费决策，清晰、流畅和富有表现力的内容，已成为连接商家与消费者的核心桥梁。然而，一方面，海量UGC、AIGC内容普遍存在低分辨率、压缩模糊、颜色失真等画质问题，另一方面，平台与商家亟需AI处理手段对优质内容进行高效裂变。因此，我们需要基于生成式AI，彻底重构淘宝视频画质增强与处理算法，并希望亲手打造影响亿万人的产品体验。淘宝音视频团队，正等待你的加入！用AI之眼，看见清晰未来！\n如果你，期望参与淘天集团海量文本、图像、视频、音频等处理、理解与生成的算法研究和产品开发，赶快加入我们吧。\n1、我们将持续迭代图像、视频画质修复与增强模型，引入最新的多模态能力，将算法大规模落地在电商场景，提升淘宝直播视频，短视频，图片的画质体验;\n2、我们会探索AIGC方向的前沿技术，打磨SOTA垂域生成模型，并端到端的提升下游应用效果，为电商场景提供视频生产、视频增强处理、音视频二创等产品能力；\n3、有海量的业务数据以及充足的算力资源，来面对具有挑战性的业务场景和学术任务；\n4、你将和聪明、皮实、乐观、自省、追求卓越和自我驱动的优秀战友一起，共同开创视觉技术的新格局。",
-    "requirementsText": "1、硕士及以上学历，计算机、人工智能、电子与通信等相关专业；\n2、熟悉Diffusion或AR自回归相关的技术原理和发展脉络，有图像/视频增强，生成，多模态理解，或图像编辑等研究方向经验；\n3、具备极佳的工程实现能力，熟练掌握C/C++、Java、Python等至少一门语言；\n4、学习能力强，对新事物有好奇心，对所在领域有热情，善于独立思考并反思总结；\n5、良好的沟通能力和团队协同能力，善于合作，乐于分享。\n\n【加分项】\n1、在校园内或互联网公司有相关多模态理解，或视频生成/编辑方向项目经历；\n2、在ICCV、CVPR、ECCV、NeurIPS等国际顶级会议、期刊上发表论文，或在相关学术会议组织的权威比赛中获奖。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-307",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-307",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "在淘宝，每天有数以亿计的用户通过直播、短视频和图片等方式进行消费决策，清晰、流畅和富有表现力的内容，已成为连接商家与消费者的核心桥梁。然而，一方面，海量UGC、AIGC内容普遍存在低分辨率、压缩模糊、颜色失真等画质问题，另一方面，平台与商家亟需AI处理手段对优质内容进行高效裂变。因此，我们需要基于生成式AI，彻底重构淘",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
     "id": "regular-292",
-    "category": "regular",
-    "title": "算法工程师-3D渲染与仿真",
-    "department": "淘天集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820025",
-    "description": "我们正在寻找对前沿 3D+AI 技术充满热情的算法工程师（3D 渲染与仿真方向），共同探索并构建面向电商业务的物品、数字人、场景的实时 3D 交互体验。你将深入复杂且富有挑战的业务场景，负责从底层渲染/仿真算法、前沿神经渲染研究，到探索 AI（Transformer、强化学习、Diffusion 等）与渲染/仿真的深度融合，并推动跨设备（手机/PC/Web/空间计算设备等）线上落地的全链路工作，打造面向 AI 时代的 3D 引擎技术，沉淀可复用的实时渲染与数字人方案，支撑业务规模化应用。\n\n你将负责：\n1、渲染系统：围绕新一代图形架构，打造 CG + Machine Learning 的混合渲染体系，持续突破 3D 引擎在画质、性能与交互上的能力边界，实现效果与实时性的双提升；\n2、Gaussian Splatting 渲染：紧密跟进学术界最新进展，研发并落地 GS 的关键能力，包括可编辑性、物理一致性、高光/材质表达、Relighting 等高级特性，打造兼具高质量与高性能的 GS 渲染技术栈与工程化方案；\n3、实时仿真与驱动：研发物理仿真/强化学习与动画系统融合的实时驱动能力，构建稳定可控的数字人驱动框架，实现低时延的表情与动作生成，并支持与场景/道具的实时交互，打造更自然、更可信的类真人表现。",
-    "requirementsText": "1、本科及以上学历，计算机视觉、图形学、人工智能、数学等相关专业；\n2、具备扎实的图形学/仿真/机器学习基础，至少熟悉以下一个方向：实时渲染、3D Gaussian Splatting、动画系统、物理仿真、强化学习；\n3、具备较强的自主学习与问题攻坚能力，敢于突破现状，能够快速复现前沿论文并推动技术落地；\n4、具备良好的沟通能力与团队协作意识，乐于分享与共创；\n\n【加分项】\n1、在国际顶级会议/期刊发表论文，或在相关专业比赛中获奖；\n2、具备3D引擎，机器学习、强化学习等相关经验者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-302",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-302",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "我们正在寻找对前沿 3D+AI 技术充满热情的算法工程师（3D 渲染与仿真方向），共同探索并构建面向电商业务的物品、数字人、场景的实时 3D 交互体验。你将深入复杂且富有挑战的业务场景，负责从底层渲染/仿真算法、前沿神经渲染研究，到探索 AI（Transformer、强化学习、Diffusion 等）与渲染/仿真的深度",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-293",
-    "category": "regular",
-    "title": "AI创意艺术家",
-    "department": "淘天集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640035",
-    "description": "1、各业务和活动的品牌营销创意设计，交付全案设计。包括但不限于品牌、营销、页面、包装、空间；\n2、互动产品的主题创意策划，互动产品的视觉风格设定和角色设定；\n3、运用AI工具进行设计和艺术创作，解决目标达成的技术问题，具备业内顶尖的水平；\n4、构建设计数据库，根据业务诉求和设计目标训练/优化lora模型，助力业务素材自行生成。",
-    "requirementsText": "专业要求：\n1、本科及以上学历；\n2、设计学科，同时具备代码能力优先，如： 视觉传达、工业设计、多媒体设计、影视动画等；\n3、因自身兴趣，长期专研某一项特定技能并有超常呈现，如插画、3D、动效、剪辑，无学科背景要求。\n\n能力要求：\n1、出众、独特的审美能力，把握流行趋势。打造符合流行认知趋势的极致视觉体验；\n2、共情目标用户，理解商业逻辑。图形表达和转译符合业务目的和用户理解。具备全案设计水平；\n3、应用AI设计工具，融合AI图像生成与动态视觉技术，创造传统手段难以实现的互动玩法与视觉奇观。平衡创意与技术可行性；\n4、自由编排AI能力节点，具备图形、空间、摄影、视频、动效等的AI整合能力。跑通大数据量的设计生成流程；\n5、具备主动沟通协作的意识和勇气，有整体产品体验的意识和概念。具备文字和图形互相转译的能力；\n6、热爱设计、追求品质，充满想象力。投入时间追求设计的最佳品质达到业内出众的水平。\n\n技能必选项：\n1、AIGC设计能力：掌握AIGC生图、视频、声音等相关技能，可以熟练组合使用各类AI工具。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-303",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-303",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1、各业务和活动的品牌营销创意设计，交付全案设计。包括但不限于品牌、营销、页面、包装、空间；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-294",
-    "category": "regular",
-    "title": "AI工程设计师",
-    "department": "淘天集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640036",
-    "description": "1、负责建设和维护团队的AI设计平台，通过整合设计知识、工作流与AI能力，持续提升设计团队的产出效率、质量一致性与知识复用率；\n2、设计体系的智能化核心构建者，连接「设计」、「工程」与「AI设计工具」三大领域，确保AI在团队中的落地可用、可迭代、可控；\n3、能够独立构建和优化设计智能体系统，理解架构与工作流转机制；主导设计智能体架构的演进与跨平台工作流集成；构建面向全团队的智能设计平台，实现规模化赋能;\n4、构建并维护团队的设计智能体（Design Agent）体系架构；\n5、进行知识体系与RAG维护，维护设计知识库和素材库（Design Knowledge Base）；\n6、负责工作流智能化与工具集成&设计智能体性能监控与评估。",
-    "requirementsText": "学历&专业要求：\n1、计算机科学、人工智能等相关专业本科及以上学历；\n\n能力要求：\n1、设计理解力：深入理解UX流程与设计语言体系，能将复杂设计知识转化为机器可读规则与Prompt结构；\n2、AI工程力：熟悉智能体架构（如LangChain、LangGraph、CrewAI、OpenDevin 等）；能独立构建多Agent系统并优化任务规划；\n3、RAG与数据管理能力：理解文本分块、embedding、检索排序机制；能构建知识库并持续维护其语义质量；\n4、开发与脚本能力：掌握至少一种语言（Python / TypeScript），能实现API调用、数据清洗、工作流自动化；\n5、Prompt Engineering 能力：能设计高鲁棒性（High Robustness）的提示词模板与工具调用协议，实现上下文精确控制；\n6、系统性思维：能在多角色（业务、系统、AI）之间抽象关系，建立清晰的架构边界与协作模式；\n7、沟通与培训能力：能将复杂AI系统原理转化为可理解、可操作的知识，推动团队共识； \n8、想象力和表述能力：整体构想一切画面和内容，打破一切物理特性的想象，横跨空间和时间维度。并能用文字方式精确表达。\n\n【加分项】\n1、有 Figma Plugin、Cursor MCP、Dify Flow、LangGraph、阿里百炼等平台实践经验；\n2、有构建内部知识库或AI助手（Chatbot/RAG/Workflow Agent）的实习经验；\n3、有数据可视化、设计系统、组件库等建设经验。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-304",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-304",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1、负责建设和维护团队的AI设计平台，通过整合设计知识、工作流与AI能力，持续提升设计团队的产出效率、质量一致性与知识复用率；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-295",
-    "category": "regular",
-    "title": "基础模型Infra研发工程师（训练/推理）",
-    "department": "Token Foundry",
-    "location": "北京、杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907780026",
-    "description": "千问Qwen是由通义实验室自主研发的超大规模语言模型，具备多模态、多语言、跨任务的理解与生成能力。Qwen系列模型，涵盖参数量从亿级到万亿级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创作，从单一多模态到全模态统一理解生成，Qwen 正在打造全球领先的全模态模型技术体系，推动AI在企业服务、开发者生态、个人用户等领域的深度应用，引领下一代人工智能的发展。\n\n团队致力于深度参与大模型训练系统优化与高性能推理服务构建，聚焦于算法与系统协同设计，推动大模型在效率、稳定性与成本上的持续突破。若你对以下任意一个方向感兴趣均欢迎投递：\n1. 模型训练优化：在不影响模型性能前提下提高各尺寸模型在大规模分布式预训练训练的 MFU，以支持模型规模，数据规模及支持模态的持续 scaling；持续进行RL训练框架的开发和优化，提高训练推理协同效率和大规模训练下的稳定性及可扩展性；同时与网络/服务器/存储等相关运维团队共同保障训练过程中的有效训练时间占比，保障模型的按期交付；\n2. 模型推理优化：高效以及成本最优的推理服务，让AI进一步实现普惠。团队推理优化的工作目前主要关注高并发serving（Qwen Chat以及API服务）下的算法侧的探索与研发，主要针对Qwen系列模型，Chat模型、VL模型、Omni模型等。",
-    "requirementsText": "1. 来自全球Top高校计算机科学、人工智能、机器学习、深度学习、软件工程，或相关领域应届毕业生，博士/硕士毕业生优先;\n2. 对深度学习框架有深入理解，了解其内部工作机制；熟悉GPU/CPU并行计算原理，具备分布式训练系统设计经验；熟悉Transformer架构以及大语言模型基础知识;\n3. 熟悉常见的训练框架（例如Megatron-LM、Verl等）/推理框架（例如vLLM、SGlang等），能够独立在infra上验证想法或者完成上线；\n4. 对LLM的量化、蒸馏、剪枝、稀疏化的某一项或者几项有完整的研究经历或者实际的工业界落地经验；\n5. 对LLM的推理有深入认知，可以做训练、推理的联合设计以提升全链路效率；\n6. 在计算机体系结构、高性能计算、并行计算等领域有过研究经历；具备千卡规模大规模模型训练的实际操作经验者优先；\n7. 在国际顶级计算机会议/期刊（如OSDI、SOSP、NeurIPS、ICML、ICLR、ACL、TPAMI、CVPR、ECCV 等）以一作身份发表论文，或在开源社区、计算机领域竞赛中有突出研究成果和项目经历；\n8. MLSys方向的知名开源项目（Megatron、Verl、OpenRLHF、vLLM、SGlang等）贡献者优先；\n9. 对基础模型的前沿问题有持续热情，具备独立思考能力和系统性研究思维，有强烈的责任心和解决问题的能力，敢于挑战现有范式。能够独立应用技术解决复杂问题，完成 idea 的验证和模型的训练/推理；\n10. 具备跨学科视野与协作意识，能够与工程、产品等多学科团队紧密合作，推动研究成果快速落地并产生实际影响力。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-305",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-305",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "千问Qwen是由通义实验室自主研发的超大规模语言模型，具备多模态、多语言、跨任务的理解与生成能力。Qwen系列模型，涵盖参数量从亿级到万亿级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-296",
     "category": "regular",
     "title": "产品体验设计师",
     "department": "淘天集团",
@@ -27380,24 +27096,136 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-297",
+    "id": "regular-293",
     "category": "regular",
-    "title": "User Operations- Forward Youth Program (TH/ID/VN/MY/PH)",
-    "department": "阿里国际数字商业集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640029",
-    "description": "1-User Lifecycle Management：Manage the full user lifecycle, including new user acquisition, first activation, retention, and re-engagement.\n2-Strategy & Execution：Support the design and end-to-end execution of user engagement strategies—from ideation and implementation to timeline management—by effectively coordinating cross-functional resources (Product, Engineering, BI) to achieve user activity goals.\n3-User Insight & Personalization：Deeply understand user needs to create high-engagement scenarios and personalized services that boost stickiness.\n\nSpecial Note: This position is part of the company’s Southeast Asia Business Development Special Initiative. We are looking for candidates who are committed to a long-term career in Southeast Asia, willing to complete an internship in China, and prepared for long-term assignment in Thailand, the Philippines, Indonesia, Malaysia, or Vietnam upon successful conversion to full-time employment. We especially welcome applicants who are dedicated to deeply cultivating the Southeast Asian market and possess proficiency in Malay, Indonesian, Thai, or Vietnamese.",
-    "requirementsText": "1-Education: Pursuing a Bachelor’s degree or higher; experience in large-scale internet products or user operations is a plus.\n2-Data-Driven: Analytical mindset with the ability to identify opportunities through data and independently solve operational challenges.\n3-Collaboration: Strong cross-functional coordination skills to achieve win-win outcomes.\n4-Problem Solving: Ability to see through complexity to identify core pain points and business essentials.\n5-Agility: Fast learner with a curious mindset and the ability to thrive in a fast-paced environment.",
+    "title": "算法工程师-视频增强与AI生成处理",
+    "department": "淘天集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640031",
+    "description": "在淘宝，每天有数以亿计的用户通过直播、短视频和图片等方式进行消费决策，清晰、流畅和富有表现力的内容，已成为连接商家与消费者的核心桥梁。然而，一方面，海量UGC、AIGC内容普遍存在低分辨率、压缩模糊、颜色失真等画质问题，另一方面，平台与商家亟需AI处理手段对优质内容进行高效裂变。因此，我们需要基于生成式AI，彻底重构淘宝视频画质增强与处理算法，并希望亲手打造影响亿万人的产品体验。淘宝音视频团队，正等待你的加入！用AI之眼，看见清晰未来！\n如果你，期望参与淘天集团海量文本、图像、视频、音频等处理、理解与生成的算法研究和产品开发，赶快加入我们吧。\n1、我们将持续迭代图像、视频画质修复与增强模型，引入最新的多模态能力，将算法大规模落地在电商场景，提升淘宝直播视频，短视频，图片的画质体验;\n2、我们会探索AIGC方向的前沿技术，打磨SOTA垂域生成模型，并端到端的提升下游应用效果，为电商场景提供视频生产、视频增强处理、音视频二创等产品能力；\n3、有海量的业务数据以及充足的算力资源，来面对具有挑战性的业务场景和学术任务；\n4、你将和聪明、皮实、乐观、自省、追求卓越和自我驱动的优秀战友一起，共同开创视觉技术的新格局。",
+    "requirementsText": "1、硕士及以上学历，计算机、人工智能、电子与通信等相关专业；\n2、熟悉Diffusion或AR自回归相关的技术原理和发展脉络，有图像/视频增强，生成，多模态理解，或图像编辑等研究方向经验；\n3、具备极佳的工程实现能力，熟练掌握C/C++、Java、Python等至少一门语言；\n4、学习能力强，对新事物有好奇心，对所在领域有热情，善于独立思考并反思总结；\n5、良好的沟通能力和团队协同能力，善于合作，乐于分享。\n\n【加分项】\n1、在校园内或互联网公司有相关多模态理解，或视频生成/编辑方向项目经历；\n2、在ICCV、CVPR、ECCV、NeurIPS等国际顶级会议、期刊上发表论文，或在相关学术会议组织的权威比赛中获奖。",
     "required": [],
     "bonus": [],
-    "profile_id": "REGULAR-297",
+    "profile_id": "REGULAR-307",
     "search_keywords": [],
     "job_profile": {
-      "profile_id": "REGULAR-297",
+      "profile_id": "REGULAR-307",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
-      "core_problem": "",
+      "core_problem": "在淘宝，每天有数以亿计的用户通过直播、短视频和图片等方式进行消费决策，清晰、流畅和富有表现力的内容，已成为连接商家与消费者的核心桥梁。然而，一方面，海量UGC、AIGC内容普遍存在低分辨率、压缩模糊、颜色失真等画质问题，另一方面，平台与商家亟需AI处理手段对优质内容进行高效裂变。因此，我们需要基于生成式AI，彻底重构淘",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-294",
+    "category": "regular",
+    "title": "算法工程师-3D渲染与仿真",
+    "department": "淘天集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820025",
+    "description": "我们正在寻找对前沿 3D+AI 技术充满热情的算法工程师（3D 渲染与仿真方向），共同探索并构建面向电商业务的物品、数字人、场景的实时 3D 交互体验。你将深入复杂且富有挑战的业务场景，负责从底层渲染/仿真算法、前沿神经渲染研究，到探索 AI（Transformer、强化学习、Diffusion 等）与渲染/仿真的深度融合，并推动跨设备（手机/PC/Web/空间计算设备等）线上落地的全链路工作，打造面向 AI 时代的 3D 引擎技术，沉淀可复用的实时渲染与数字人方案，支撑业务规模化应用。\n\n你将负责：\n1、渲染系统：围绕新一代图形架构，打造 CG + Machine Learning 的混合渲染体系，持续突破 3D 引擎在画质、性能与交互上的能力边界，实现效果与实时性的双提升；\n2、Gaussian Splatting 渲染：紧密跟进学术界最新进展，研发并落地 GS 的关键能力，包括可编辑性、物理一致性、高光/材质表达、Relighting 等高级特性，打造兼具高质量与高性能的 GS 渲染技术栈与工程化方案；\n3、实时仿真与驱动：研发物理仿真/强化学习与动画系统融合的实时驱动能力，构建稳定可控的数字人驱动框架，实现低时延的表情与动作生成，并支持与场景/道具的实时交互，打造更自然、更可信的类真人表现。",
+    "requirementsText": "1、本科及以上学历，计算机视觉、图形学、人工智能、数学等相关专业；\n2、具备扎实的图形学/仿真/机器学习基础，至少熟悉以下一个方向：实时渲染、3D Gaussian Splatting、动画系统、物理仿真、强化学习；\n3、具备较强的自主学习与问题攻坚能力，敢于突破现状，能够快速复现前沿论文并推动技术落地；\n4、具备良好的沟通能力与团队协作意识，乐于分享与共创；\n\n【加分项】\n1、在国际顶级会议/期刊发表论文，或在相关专业比赛中获奖；\n2、具备3D引擎，机器学习、强化学习等相关经验者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-302",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-302",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "我们正在寻找对前沿 3D+AI 技术充满热情的算法工程师（3D 渲染与仿真方向），共同探索并构建面向电商业务的物品、数字人、场景的实时 3D 交互体验。你将深入复杂且富有挑战的业务场景，负责从底层渲染/仿真算法、前沿神经渲染研究，到探索 AI（Transformer、强化学习、Diffusion 等）与渲染/仿真的深度",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-295",
+    "category": "regular",
+    "title": "AI创意艺术家",
+    "department": "淘天集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640035",
+    "description": "1、各业务和活动的品牌营销创意设计，交付全案设计。包括但不限于品牌、营销、页面、包装、空间；\n2、互动产品的主题创意策划，互动产品的视觉风格设定和角色设定；\n3、运用AI工具进行设计和艺术创作，解决目标达成的技术问题，具备业内顶尖的水平；\n4、构建设计数据库，根据业务诉求和设计目标训练/优化lora模型，助力业务素材自行生成。",
+    "requirementsText": "专业要求：\n1、本科及以上学历；\n2、设计学科，同时具备代码能力优先，如： 视觉传达、工业设计、多媒体设计、影视动画等；\n3、因自身兴趣，长期专研某一项特定技能并有超常呈现，如插画、3D、动效、剪辑，无学科背景要求。\n\n能力要求：\n1、出众、独特的审美能力，把握流行趋势。打造符合流行认知趋势的极致视觉体验；\n2、共情目标用户，理解商业逻辑。图形表达和转译符合业务目的和用户理解。具备全案设计水平；\n3、应用AI设计工具，融合AI图像生成与动态视觉技术，创造传统手段难以实现的互动玩法与视觉奇观。平衡创意与技术可行性；\n4、自由编排AI能力节点，具备图形、空间、摄影、视频、动效等的AI整合能力。跑通大数据量的设计生成流程；\n5、具备主动沟通协作的意识和勇气，有整体产品体验的意识和概念。具备文字和图形互相转译的能力；\n6、热爱设计、追求品质，充满想象力。投入时间追求设计的最佳品质达到业内出众的水平。\n\n技能必选项：\n1、AIGC设计能力：掌握AIGC生图、视频、声音等相关技能，可以熟练组合使用各类AI工具。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-303",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-303",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1、各业务和活动的品牌营销创意设计，交付全案设计。包括但不限于品牌、营销、页面、包装、空间；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-296",
+    "category": "regular",
+    "title": "基础模型Infra研发工程师（训练/推理）",
+    "department": "Token Foundry",
+    "location": "北京、杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907780026",
+    "description": "千问Qwen是由通义实验室自主研发的超大规模语言模型，具备多模态、多语言、跨任务的理解与生成能力。Qwen系列模型，涵盖参数量从亿级到万亿级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创作，从单一多模态到全模态统一理解生成，Qwen 正在打造全球领先的全模态模型技术体系，推动AI在企业服务、开发者生态、个人用户等领域的深度应用，引领下一代人工智能的发展。\n\n团队致力于深度参与大模型训练系统优化与高性能推理服务构建，聚焦于算法与系统协同设计，推动大模型在效率、稳定性与成本上的持续突破。若你对以下任意一个方向感兴趣均欢迎投递：\n1. 模型训练优化：在不影响模型性能前提下提高各尺寸模型在大规模分布式预训练训练的 MFU，以支持模型规模，数据规模及支持模态的持续 scaling；持续进行RL训练框架的开发和优化，提高训练推理协同效率和大规模训练下的稳定性及可扩展性；同时与网络/服务器/存储等相关运维团队共同保障训练过程中的有效训练时间占比，保障模型的按期交付；\n2. 模型推理优化：高效以及成本最优的推理服务，让AI进一步实现普惠。团队推理优化的工作目前主要关注高并发serving（Qwen Chat以及API服务）下的算法侧的探索与研发，主要针对Qwen系列模型，Chat模型、VL模型、Omni模型等。",
+    "requirementsText": "1. 来自全球Top高校计算机科学、人工智能、机器学习、深度学习、软件工程，或相关领域应届毕业生，博士/硕士毕业生优先;\n2. 对深度学习框架有深入理解，了解其内部工作机制；熟悉GPU/CPU并行计算原理，具备分布式训练系统设计经验；熟悉Transformer架构以及大语言模型基础知识;\n3. 熟悉常见的训练框架（例如Megatron-LM、Verl等）/推理框架（例如vLLM、SGlang等），能够独立在infra上验证想法或者完成上线；\n4. 对LLM的量化、蒸馏、剪枝、稀疏化的某一项或者几项有完整的研究经历或者实际的工业界落地经验；\n5. 对LLM的推理有深入认知，可以做训练、推理的联合设计以提升全链路效率；\n6. 在计算机体系结构、高性能计算、并行计算等领域有过研究经历；具备千卡规模大规模模型训练的实际操作经验者优先；\n7. 在国际顶级计算机会议/期刊（如OSDI、SOSP、NeurIPS、ICML、ICLR、ACL、TPAMI、CVPR、ECCV 等）以一作身份发表论文，或在开源社区、计算机领域竞赛中有突出研究成果和项目经历；\n8. MLSys方向的知名开源项目（Megatron、Verl、OpenRLHF、vLLM、SGlang等）贡献者优先；\n9. 对基础模型的前沿问题有持续热情，具备独立思考能力和系统性研究思维，有强烈的责任心和解决问题的能力，敢于挑战现有范式。能够独立应用技术解决复杂问题，完成 idea 的验证和模型的训练/推理；\n10. 具备跨学科视野与协作意识，能够与工程、产品等多学科团队紧密合作，推动研究成果快速落地并产生实际影响力。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-305",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-305",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "千问Qwen是由通义实验室自主研发的超大规模语言模型，具备多模态、多语言、跨任务的理解与生成能力。Qwen系列模型，涵盖参数量从亿级到万亿级的基座大语言模型，并相继推出Qwen-VL、Qwen-Audio、Qwen-Omni、Qwen-Coder、Qwen-Image等系列模型。从多轮对话到代码生成，从逻辑推理到内容创",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-297",
+    "category": "regular",
+    "title": "AI工程设计师",
+    "department": "淘天集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640036",
+    "description": "1、负责建设和维护团队的AI设计平台，通过整合设计知识、工作流与AI能力，持续提升设计团队的产出效率、质量一致性与知识复用率；\n2、设计体系的智能化核心构建者，连接「设计」、「工程」与「AI设计工具」三大领域，确保AI在团队中的落地可用、可迭代、可控；\n3、能够独立构建和优化设计智能体系统，理解架构与工作流转机制；主导设计智能体架构的演进与跨平台工作流集成；构建面向全团队的智能设计平台，实现规模化赋能;\n4、构建并维护团队的设计智能体（Design Agent）体系架构；\n5、进行知识体系与RAG维护，维护设计知识库和素材库（Design Knowledge Base）；\n6、负责工作流智能化与工具集成&设计智能体性能监控与评估。",
+    "requirementsText": "学历&专业要求：\n1、计算机科学、人工智能等相关专业本科及以上学历；\n\n能力要求：\n1、设计理解力：深入理解UX流程与设计语言体系，能将复杂设计知识转化为机器可读规则与Prompt结构；\n2、AI工程力：熟悉智能体架构（如LangChain、LangGraph、CrewAI、OpenDevin 等）；能独立构建多Agent系统并优化任务规划；\n3、RAG与数据管理能力：理解文本分块、embedding、检索排序机制；能构建知识库并持续维护其语义质量；\n4、开发与脚本能力：掌握至少一种语言（Python / TypeScript），能实现API调用、数据清洗、工作流自动化；\n5、Prompt Engineering 能力：能设计高鲁棒性（High Robustness）的提示词模板与工具调用协议，实现上下文精确控制；\n6、系统性思维：能在多角色（业务、系统、AI）之间抽象关系，建立清晰的架构边界与协作模式；\n7、沟通与培训能力：能将复杂AI系统原理转化为可理解、可操作的知识，推动团队共识； \n8、想象力和表述能力：整体构想一切画面和内容，打破一切物理特性的想象，横跨空间和时间维度。并能用文字方式精确表达。\n\n【加分项】\n1、有 Figma Plugin、Cursor MCP、Dify Flow、LangGraph、阿里百炼等平台实践经验；\n2、有构建内部知识库或AI助手（Chatbot/RAG/Workflow Agent）的实习经验；\n3、有数据可视化、设计系统、组件库等建设经验。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-304",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-304",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1、负责建设和维护团队的AI设计平台，通过整合设计知识、工作流与AI能力，持续提升设计团队的产出效率、质量一致性与知识复用率；",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -27409,90 +27237,6 @@ window.REGULAR_JOB_LIBRARY = [
   },
   {
     "id": "regular-298",
-    "category": "regular",
-    "title": "Merchandise Operations- Forward Youth Program (TH/ID/VN/MY/PH)",
-    "department": "阿里国际数字商业集团",
-    "location": "广州、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740022",
-    "description": "1. Familiar with and understand the processes and functions of all merchandise operations stages;\n2. Analyze and gain insights into consumer and product demands, formulate merchandise strategies and marketing campaign planning, and drive implementation to boost order growth;\n3. Develop effective merchandise planning, create competitive products, rapidly supplement category demands, control costs and improve gross margins;\n4. Leverage internal and external resources to introduce competitive merchants and build merchant tier structures;\n5. Analyze the impact of product characteristics on user behavior, identify growth opportunities, and build understanding of user decision-making pathways;\n6. Skilled in data analysis, use data to guide frontend operations, and drive coordinated growth among merchants through data-driven approaches.\n\nSpecial Note: This position is part of the company’s Southeast Asia Business Development Special Initiative. We are looking for candidates who are committed to a long-term career in Southeast Asia, willing to complete an internship in China, and prepared for long-term assignment in Thailand, the Philippines, Indonesia, Malaysia, or Vietnam upon successful conversion to full-time employment. We especially welcome applicants who are dedicated to deeply cultivating the Southeast Asian market and possess proficiency in Malay, Indonesian, Thai, or Vietnamese.",
-    "requirementsText": "Proficiency in at least one Southeast Asian language (e.g., Indonesian, Thai, Malay, Vietnamese, or Filipino) is required.\n\n1. Prior internship experience in well-known e-commerce or community group buying platforms is preferred;\n2. Strong data analysis and communication skills, excellent systematic and logical thinking abilities, understanding of complexity and ability to consider issues from a holistic perspective;\n3. Proficient in various computer office software including Word, Excel, PPT, etc.; skilled in editing software such as AE, PS, AI, PR, etc.;\n4. Strong presentation skills, able to communicate in language that others can understand, express clearly to ensure timely and accurate information delivery, with good aesthetic sense and strong video breakdown capabilities with good rhythm;\n5. Honest and upright character, proactive and initiative-taking, meticulous and detail-oriented, able to embrace new concepts; possess strong learning ability, high execution capability, strong principles, and driving force.",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-298",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-298",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-299",
-    "category": "regular",
-    "title": "Partner Operations- Forward Youth Program (TH/ID/VN/MY/PH)",
-    "department": "阿里国际数字商业集团",
-    "location": "广州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907780022",
-    "description": "1. Assist in developing and executing localized marketing campaigns for Chinese cross-border sellers on Lazada, focusing on traffic generation and performance optimization.\n2. Support campaign management through data analysis (e.g., Excel/SQL) to derive actionable insights and enhance ROI.\n3. Collaborate with internal teams to ensure smooth workflow execution and client adoption of Sponsored Solutions.\n4. Build strong working relationships with sellers and provide operational support for advertising strategies.\n\nSpecial Note: This position is part of the company’s Southeast Asia Business Development Special Initiative. We are looking for candidates who are committed to a long-term career in Southeast Asia, willing to complete an internship in China, and prepared for long-term assignment in Thailand, the Philippines, Indonesia, Malaysia, or Vietnam upon successful conversion to full-time employment. We especially welcome applicants who are dedicated to deeply cultivating the Southeast Asian market and possess proficiency in Malay, Indonesian, Thai, or Vietnamese.",
-    "requirementsText": "Proficiency in at least one Southeast Asian language (e.g., Indonesian, Thai, Malay, Vietnamese, or Filipino) is required.\n\n1. Possess excellent communication and collaboration skills, along with strong data sensitivity and analytical thinking abilities;\n2. Honest and upright character, optimistic and positive attitude, meticulous and detail-oriented, strong goal orientation, and ability to embrace new concepts;\n3. Strong learning ability, high execution capability, self-motivation, driving force, and stress resilience.",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-299",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-299",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-300",
-    "category": "regular",
-    "title": "AI Agent应用开发工程师",
-    "department": "阿里云",
-    "location": "杭州、上海",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907700004",
-    "description": "1.重塑消费者体验：建设大模型智能化比价辅助决策、Al消费者智能问答助手等多元AI工具，提高用户购物体验，并进一步探索AI Native的新消费者产品形态；\n2.赋能商家智能化运营：基于大模型调度多领域智能体，实现智能客服、采购寻源、内容生成、直播运营等全链路提效，赋能千万商家；\n3.构建平台级技术基建：开发AI代码生成工具提升研发效率，打造面向运营小二的智能提效平台，探索面向全体企业员工办公场景的智能体架构。",
-    "requirementsText": "【必备项】\n1. 本科及以上学历，计算机科学、软件工程、人工智能相关专业优先；\n2. 掌握Python/Java/Go/C++等编程语言开发，具备扎实的算法与数据结构基础；\n3. 具备Agent系统开发经验，掌握LangChain/LLamaIndex/AutoGen等框架及实现原理，能够设计高可用、高扩展性的大模型/Agent工程架构；\n4. 掌握Prompt工程、RAG、Tool Calling、Context Engineering等AI应用关键技术；\n5. 能够进行工具集成，掌握OpenAPI、RPC、MCP等协议实现方案；\n6. 了解机器学习、深度学习框架（PyTorch/TensorFlow），有Transformer等模型实战经验优先；\n7. 具备问题/价值驱动的探索精神和优秀的问题解决能力；\n8. 敢于创新，主动探索AI新技术/新范式在商业场景中的应用边界；\n9. 对AI技术充满热情，具备快速学习的能力，持续关注和学习AIGC前沿技术研究。\n\n【加分项】\n1. 有数据工程、模型微调/后训练、模型评测经验的同学优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-300",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-300",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-301",
     "category": "regular",
     "title": "算法工程师-AI For Science",
     "department": "Token Foundry",
@@ -27520,24 +27264,24 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-302",
+    "id": "regular-299",
     "category": "regular",
-    "title": "算法工程师-跨模态理解与视频生成处理（T-Star Lab）",
-    "department": "淘天集团",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820017",
-    "description": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n\n如果你，渴望深入探索视频生成技术，开发文本到视频（T2V）基础模型的前沿技术，致力于提升生成视频的画质，真实性，一致性，以及视频生产的效率；\n如果你，热衷于AIGC驱动的视频增强与处理技术，专注于将通用大模型架构优化并迁移到垂直领域，推动下游应用性能的突破；\n如果你，专注于基于AIGC的可控性编辑，探索如何精准实现内容生成与修改，满足多样化的业务需求；\n如果你，对基于AIGC的人脸，人体生成编辑技术充满热情，致力于打造具有高度交互性和真实性的数字形象；\n如果你，期望在多模态视频理解领域取得突破，通过技术创新提升视频内容的理解与分析能力；\n如果你，期望与一群聪明、皮实、乐观、追求卓越的优秀伙伴并肩作战，共同开创音视频技术的新篇章；\n那还在等待什么，赶紧加入我们吧！",
-    "requirementsText": "1.本科及以上学历，计算机科学、人工智能、电子与通信等相关专业；面向2026年11月及以后的海内外高校在校生；\n2.精通Diffusion模型及相关技术，掌握T2V基础模型及相关技术原理，有图像/视频生成或处理相关经验；\n3.具备卓越的工程实现能力，熟练掌握C/C++、Java、Python等至少一门编程语言；\n4. 熟练掌握深度学习框架，如TensorFlow、PyTorch；\n5.学习能力强，对新技术有敏锐的洞察力，对AIGC领域充满热情，善于独立思考并持续优化；\n6. 良好的沟通能力和团队协作精神，乐于分享技术见解，善于与团队成员合作。\n\n【加分项】\n1. 具有文本到视频（T2V）、AIGC内容编辑、多模态视频理解等相关领域的实习或项目经验；\n2. 拥有百亿参数级别大模型训练经验，或具备超大规模数据集构建与管理经验；\n3. 在计算机视觉和人工智能领域的国际顶级会议（CVPR, ICCV, ECCV, AAAI, NeurIPS等）或期刊（T-PAMI,T-IP等）发表论文，或在权威学术竞赛中获奖。",
+    "title": "AI Agent应用开发工程师",
+    "department": "阿里云",
+    "location": "杭州、上海",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907700004",
+    "description": "1.重塑消费者体验：建设大模型智能化比价辅助决策、Al消费者智能问答助手等多元AI工具，提高用户购物体验，并进一步探索AI Native的新消费者产品形态；\n2.赋能商家智能化运营：基于大模型调度多领域智能体，实现智能客服、采购寻源、内容生成、直播运营等全链路提效，赋能千万商家；\n3.构建平台级技术基建：开发AI代码生成工具提升研发效率，打造面向运营小二的智能提效平台，探索面向全体企业员工办公场景的智能体架构。",
+    "requirementsText": "【必备项】\n1. 本科及以上学历，计算机科学、软件工程、人工智能相关专业优先；\n2. 掌握Python/Java/Go/C++等编程语言开发，具备扎实的算法与数据结构基础；\n3. 具备Agent系统开发经验，掌握LangChain/LLamaIndex/AutoGen等框架及实现原理，能够设计高可用、高扩展性的大模型/Agent工程架构；\n4. 掌握Prompt工程、RAG、Tool Calling、Context Engineering等AI应用关键技术；\n5. 能够进行工具集成，掌握OpenAPI、RPC、MCP等协议实现方案；\n6. 了解机器学习、深度学习框架（PyTorch/TensorFlow），有Transformer等模型实战经验优先；\n7. 具备问题/价值驱动的探索精神和优秀的问题解决能力；\n8. 敢于创新，主动探索AI新技术/新范式在商业场景中的应用边界；\n9. 对AI技术充满热情，具备快速学习的能力，持续关注和学习AIGC前沿技术研究。\n\n【加分项】\n1. 有数据工程、模型微调/后训练、模型评测经验的同学优先。",
     "required": [],
     "bonus": [],
-    "profile_id": "REGULAR-310",
+    "profile_id": "REGULAR-300",
     "search_keywords": [],
     "job_profile": {
-      "profile_id": "REGULAR-310",
+      "profile_id": "REGULAR-300",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
-      "core_problem": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。",
+      "core_problem": "",
       "must_have": [],
       "strong_plus": [],
       "weak_plus": [],
@@ -27548,63 +27292,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-303",
-    "category": "regular",
-    "title": "基础平台研发工程师-开源技术社区",
-    "department": "Token Foundry",
-    "location": "北京、杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907640026",
-    "description": "1. 支持ModelScope（魔搭）平台的服务建设，围绕模型为中心，建设涵盖数据集、创空间、工具服务化生态等平台组件研发和后台服务的管理；\n2. 通过与底层云基座打通，打造ModelScope平台的服务自动弹性和水平扩展能力，为千万级别的开发者用户提供稳定的服务，实现高效的计算资源使用。构建开源平台上“模型即服务”的完整生态；\n3. 参与大模型推理框架以及定制微调技术的研发与优化。围绕ModelScope的模型生态，开发各领域开源模型（尤其是LLM以及AIGC领域模型）实现应用落地所需的相关工具链生态。支持模型从ckpt落地为实际应用所需的自动化部署，评测等一系列工程链路，以及Agentic应用生态的落地;\n4. 参与跨部门、跨公司、以及与全球开源社区的协作，探索AI领域前沿技术研究与创新，推动包括大模型在内的各领域最前沿模型生态的发展和推广；\n5. 撰写技术设计文档以及用户文档，包括操作手册和最佳实践指南等。",
-    "requirementsText": "1. 硕士及以上学位，计算机科学或相关领域专业，具备扎实的计算机基础与工程实现能力。在强化学习、多智能体系统（Multi-Agent Systems）、机器学习平台，云服务平台，大模型训练推理等领域中，具备单领域或多领域相关经验者优先；\n2. 扎实的编程能力，精通 Go、Java、Python、C++ 等编程语言。熟练掌握Pytorch等常用深度学习框架，对HuggingFace、ModelScope等平台工具有深入了解和使用经验者优先；\n3. 良好的工程架构设计能力以及出色的分析问题、解决问题能力，能从开发者视角思考问题，能够独立处理复杂的技术挑战。有良好的自我学习能力及自驱力，对前沿领域有强探索欲和好奇心；具备良好的沟通能力和团队协作能力。具备较好的英文读写能力；\n4. 在国际顶级计算机会议/期刊（如NeurIPS、ICML、ICLR、ACL、SIGMOD、VLDB、ICDE、KDD等）以一作身份发表论文者优先，获得 ACM 或 ML/NLP/CV 相关竞赛奖项者优先；\n5. 对开源社区有技术热情，有开源生态贡献和建设相关经验者优先。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-311",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-311",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "1. 支持ModelScope（魔搭）平台的服务建设，围绕模型为中心，建设涵盖数据集、创空间、工具服务化生态等平台组件研发和后台服务的管理；",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-304",
-    "category": "regular",
-    "title": "算法工程师-3D重建大模型（T-Star Lab）",
-    "department": "淘天集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907740018",
-    "description": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n\n1、物品3D大模型：聚焦淘宝商品的高还原度3D建模，产出比例结构、细节丰富度与实际物品具有高度一致性的3D模型\n• 基于稀疏图片的3R建模技术，支持动态/静态场景，输出高精度位姿、点云、深度图、体素结构等信息；\n• 设计3D VAE算法，构建高效3D数据表示（点云/网格/体素），实现3D数据的高效压缩，提升模型在几何重建、纹理生成和潜在空间控制方面的性能；\n• 结合自回归（AutoRegressive）、强化学习（Reinforcement Learning）等技术，提高3D生成的精度、可控性和泛化性；\n• 突破材质属性预测与生成技术，实现PBR材质预测、可控高清材质生成等，重点关注文字、纹理细节效果；\n2、数字人3D大模型：打造高写实数字人，产出细节丰富（尤其是人脸）、可驱动的3D模型\n• 3D数字人生成算法，结合3DGS的表征能力和DiT的生成能力，实现端到端生成细节丰富、分辨率>1024的高精度人体3D模型，同时透出人体姿态等信息；\n• 3D数字人驱动技术，实现人体组件化、层次化拆解，实现自动化骨架绑定与蒙皮，确保驱动自然流畅。",
-    "requirementsText": "1、毕业时间在 2026年11月及以后的在校硕博同学，计算机视觉、计算机图形学、机器学习等相关专业\n2、具备计算机图形学和计算机视觉理论基础；\n3、具备极佳的工程实现能力，熟练掌握C++/Java/Python等至少一门语言；\n4、敢于突破现状，勇于探索新思路、新技术，能够积极主动地进行协助沟通，配合团队共同完成目标。\n5、在相关领域国际会议发表多篇论文或作为重要角色在权威比赛中取得优秀成绩优先\"\"\"",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-312",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-312",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-305",
+    "id": "regular-300",
     "category": "regular",
     "title": "算法工程师-视频编解码（T-Star Lab）",
     "department": "淘天集团",
@@ -27632,7 +27320,91 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-306",
+    "id": "regular-301",
+    "category": "regular",
+    "title": "算法工程师-跨模态理解与视频生成处理（T-Star Lab）",
+    "department": "淘天集团",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820017",
+    "description": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n\n如果你，渴望深入探索视频生成技术，开发文本到视频（T2V）基础模型的前沿技术，致力于提升生成视频的画质，真实性，一致性，以及视频生产的效率；\n如果你，热衷于AIGC驱动的视频增强与处理技术，专注于将通用大模型架构优化并迁移到垂直领域，推动下游应用性能的突破；\n如果你，专注于基于AIGC的可控性编辑，探索如何精准实现内容生成与修改，满足多样化的业务需求；\n如果你，对基于AIGC的人脸，人体生成编辑技术充满热情，致力于打造具有高度交互性和真实性的数字形象；\n如果你，期望在多模态视频理解领域取得突破，通过技术创新提升视频内容的理解与分析能力；\n如果你，期望与一群聪明、皮实、乐观、追求卓越的优秀伙伴并肩作战，共同开创音视频技术的新篇章；\n那还在等待什么，赶紧加入我们吧！",
+    "requirementsText": "1.本科及以上学历，计算机科学、人工智能、电子与通信等相关专业；面向2026年11月及以后的海内外高校在校生；\n2.精通Diffusion模型及相关技术，掌握T2V基础模型及相关技术原理，有图像/视频生成或处理相关经验；\n3.具备卓越的工程实现能力，熟练掌握C/C++、Java、Python等至少一门编程语言；\n4. 熟练掌握深度学习框架，如TensorFlow、PyTorch；\n5.学习能力强，对新技术有敏锐的洞察力，对AIGC领域充满热情，善于独立思考并持续优化；\n6. 良好的沟通能力和团队协作精神，乐于分享技术见解，善于与团队成员合作。\n\n【加分项】\n1. 具有文本到视频（T2V）、AIGC内容编辑、多模态视频理解等相关领域的实习或项目经验；\n2. 拥有百亿参数级别大模型训练经验，或具备超大规模数据集构建与管理经验；\n3. 在计算机视觉和人工智能领域的国际顶级会议（CVPR, ICCV, ECCV, AAAI, NeurIPS等）或期刊（T-PAMI,T-IP等）发表论文，或在权威学术竞赛中获奖。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-310",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-310",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-302",
+    "category": "regular",
+    "title": "基础平台研发工程师-开源技术社区",
+    "department": "Token Foundry",
+    "location": "北京、杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907640026",
+    "description": "1. 支持ModelScope（魔搭）平台的服务建设，围绕模型为中心，建设涵盖数据集、创空间、工具服务化生态等平台组件研发和后台服务的管理；\n2. 通过与底层云基座打通，打造ModelScope平台的服务自动弹性和水平扩展能力，为千万级别的开发者用户提供稳定的服务，实现高效的计算资源使用。构建开源平台上“模型即服务”的完整生态；\n3. 参与大模型推理框架以及定制微调技术的研发与优化。围绕ModelScope的模型生态，开发各领域开源模型（尤其是LLM以及AIGC领域模型）实现应用落地所需的相关工具链生态。支持模型从ckpt落地为实际应用所需的自动化部署，评测等一系列工程链路，以及Agentic应用生态的落地;\n4. 参与跨部门、跨公司、以及与全球开源社区的协作，探索AI领域前沿技术研究与创新，推动包括大模型在内的各领域最前沿模型生态的发展和推广；\n5. 撰写技术设计文档以及用户文档，包括操作手册和最佳实践指南等。",
+    "requirementsText": "1. 硕士及以上学位，计算机科学或相关领域专业，具备扎实的计算机基础与工程实现能力。在强化学习、多智能体系统（Multi-Agent Systems）、机器学习平台，云服务平台，大模型训练推理等领域中，具备单领域或多领域相关经验者优先；\n2. 扎实的编程能力，精通 Go、Java、Python、C++ 等编程语言。熟练掌握Pytorch等常用深度学习框架，对HuggingFace、ModelScope等平台工具有深入了解和使用经验者优先；\n3. 良好的工程架构设计能力以及出色的分析问题、解决问题能力，能从开发者视角思考问题，能够独立处理复杂的技术挑战。有良好的自我学习能力及自驱力，对前沿领域有强探索欲和好奇心；具备良好的沟通能力和团队协作能力。具备较好的英文读写能力；\n4. 在国际顶级计算机会议/期刊（如NeurIPS、ICML、ICLR、ACL、SIGMOD、VLDB、ICDE、KDD等）以一作身份发表论文者优先，获得 ACM 或 ML/NLP/CV 相关竞赛奖项者优先；\n5. 对开源社区有技术热情，有开源生态贡献和建设相关经验者优先。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-311",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-311",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "1. 支持ModelScope（魔搭）平台的服务建设，围绕模型为中心，建设涵盖数据集、创空间、工具服务化生态等平台组件研发和后台服务的管理；",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-303",
+    "category": "regular",
+    "title": "算法工程师-3D重建大模型（T-Star Lab）",
+    "department": "淘天集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907740018",
+    "description": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n\n1、物品3D大模型：聚焦淘宝商品的高还原度3D建模，产出比例结构、细节丰富度与实际物品具有高度一致性的3D模型\n• 基于稀疏图片的3R建模技术，支持动态/静态场景，输出高精度位姿、点云、深度图、体素结构等信息；\n• 设计3D VAE算法，构建高效3D数据表示（点云/网格/体素），实现3D数据的高效压缩，提升模型在几何重建、纹理生成和潜在空间控制方面的性能；\n• 结合自回归（AutoRegressive）、强化学习（Reinforcement Learning）等技术，提高3D生成的精度、可控性和泛化性；\n• 突破材质属性预测与生成技术，实现PBR材质预测、可控高清材质生成等，重点关注文字、纹理细节效果；\n2、数字人3D大模型：打造高写实数字人，产出细节丰富（尤其是人脸）、可驱动的3D模型\n• 3D数字人生成算法，结合3DGS的表征能力和DiT的生成能力，实现端到端生成细节丰富、分辨率>1024的高精度人体3D模型，同时透出人体姿态等信息；\n• 3D数字人驱动技术，实现人体组件化、层次化拆解，实现自动化骨架绑定与蒙皮，确保驱动自然流畅。",
+    "requirementsText": "1、毕业时间在 2026年11月及以后的在校硕博同学，计算机视觉、计算机图形学、机器学习等相关专业\n2、具备计算机图形学和计算机视觉理论基础；\n3、具备极佳的工程实现能力，熟练掌握C++/Java/Python等至少一门语言；\n4、敢于突破现状，勇于探索新思路、新技术，能够积极主动地进行协助沟通，配合团队共同完成目标。\n5、在相关领域国际会议发表多篇论文或作为重要角色在权威比赛中取得优秀成绩优先\"\"\"",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-312",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-312",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-304",
     "category": "regular",
     "title": "算法工程师-多模态算法（音乐方向）",
     "department": "Token Foundry",
@@ -27660,35 +27432,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-307",
-    "category": "regular",
-    "title": "多模态传输（T-Star Lab）",
-    "department": "淘天集团",
-    "location": "杭州",
-    "source": "https://campus-talent.alibaba.com/campus/position/199907820003",
-    "description": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n\n岗位描述：\n如果你，期望在阿里巴巴生态的广阔场景中，面向亿级智能体用户的多模态交互诉求，打造业界领先的下一代多模态传输协议栈，让智能体音视频/文本/感知数据跨越物理网络的边界，实现超低延迟、超高可靠、超强自适应的极致传输体验；\n如果你，期望深度参与 IETF Media over QUIC (MoQ) 国际标准制定，在协议栈基础机制与增强机制设计的最前沿与全球顶级专家同台对话，推动你的技术方案成为影响全球互联网的RFC 标准；\n如果你，期望攻克多模态数据跨层协同与拥塞控制的核心难题，研发面向多模态混合流（语音/视频/文本/动作）的新一代拥塞控制算法，打破传统单流 CC（BBR/CUBIC）的局限，在弱网、高抖动、高丢包等极端场景下依然保持丝滑无卡顿的用户体验；\n如果你，期望突破多路径传输与智能调度的技术深水区，设计面向 MoQ 的 Multipath 传输与调度算法，基于全新的 QoE 感知反馈协同框架，联动调节拥塞控制、视频帧率消费、智能体生成内容生产速率，在端到端链路上实现QoE 最大化；\n如果你，期望探索面向多模态场景的丢包恢复与 FEC 机制，研究自适应前向纠错、智能重传策略、帧级优先级调度等前沿技术，解决智能体实时对话中\"\"掉字、掉帧、画面冻结\"\"等顽疾，让交互如真人般自然流畅；\n如果你，期望深入构建 MoQ 反馈机制与闭环控制算法，攻克发送速率调节、Pacing 机制、自适应码率/采样频率控制等工程难题，打造可在淘宝/千问等 C 端智能体应用中大规模落地的端到端传输解决方案，影响数以亿计的用户；\n加入我们，你的成果将直接应用于阿里巴巴核心业务——淘宝AI导购、千问AI助手、智能体实时语音对话、多模态实时交互等场景，每一行代码、每一次算法优化，都在重新定义下一代人机交互的传输基础设施！",
-    "requirementsText": "1. 计算机/电子/通信/网络/人工智能等相关专业，毕业时间在 2026 年 11 月以后的硕士及以上学历在校生；\n2. 熟悉网络传输协议（TCP/QUIC/RTP/WebRTC 等），深入理解拥塞控制算法（BBR/CUBIC/GCC/Copa等）原理与实现；\n3. 熟悉以下至少2个或以上方向：\n- QUIC 协议栈 / Media over QUIC 标准\n- 实时音视频传输（WebRTC、SRT、RIST 等）\n- 多路径传输（MPTCP、MPQUIC）\n- 拥塞控制 / Pacing / FEC 算法\n- 自适应码率（ABR）算法\n4. 精通 C/C++/Rust/Go 中至少一种系统级编程语言，熟悉网络协议栈开发；\n5. 具备良好的代码习惯，能高效实现前沿论文算法，具备协议仿真（NS-3/Mininet/Mahimahi）或真实网络实验能力；\n6. 具备优秀的问题分析能力、英文阅读/沟通交流能力（流畅阅读 IETF 草案与顶会论文、线下/远程参与国际标准会议）。\n\n【加分项】\n1. 在 SIGCOMM / NSDI / MobiCom 等国际会议发表有影响力的一作 CCF-A类论文；\n2. 作为主要参与者贡献过 IETF/W3C 等国际标准草案，或在 MoQ、QUIC、WebTransport 等工作组有活跃参与记录；\n3. 具备 AI + 网络跨学科背景（例如基于 RL/ML 的拥塞控制、调度算法经验）。",
-    "required": [],
-    "bonus": [],
-    "profile_id": "REGULAR-317",
-    "search_keywords": [],
-    "job_profile": {
-      "profile_id": "REGULAR-317",
-      "job_family": "",
-      "domain": "",
-      "sub_domain": "",
-      "core_problem": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。",
-      "must_have": [],
-      "strong_plus": [],
-      "weak_plus": [],
-      "broad_keywords": [],
-      "negative_signals": [],
-      "target_profile": "",
-      "search_keywords": []
-    }
-  },
-  {
-    "id": "regular-308",
+    "id": "regular-305",
     "category": "regular",
     "title": "算法工程师-多模态理解与用户意图推理（T-Star Lab）",
     "department": "淘天集团",
@@ -27716,7 +27460,7 @@ window.REGULAR_JOB_LIBRARY = [
     }
   },
   {
-    "id": "regular-309",
+    "id": "regular-306",
     "category": "regular",
     "title": "算法工程师-Agent在线强化学习（T-Star Lab）",
     "department": "淘天集团",
@@ -27730,6 +27474,34 @@ window.REGULAR_JOB_LIBRARY = [
     "search_keywords": [],
     "job_profile": {
       "profile_id": "REGULAR-316",
+      "job_family": "",
+      "domain": "",
+      "sub_domain": "",
+      "core_problem": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。",
+      "must_have": [],
+      "strong_plus": [],
+      "weak_plus": [],
+      "broad_keywords": [],
+      "negative_signals": [],
+      "target_profile": "",
+      "search_keywords": []
+    }
+  },
+  {
+    "id": "regular-307",
+    "category": "regular",
+    "title": "多模态传输（T-Star Lab）",
+    "department": "淘天集团",
+    "location": "杭州",
+    "source": "https://campus-talent.alibaba.com/campus/position/199907820003",
+    "description": "T-Star计划是阿里巴巴淘天集团顶尖人才招聘和培养项目，继承“阿里星〞的使命与愿景，面向全球招募顶尖技术人才。首次开设实习生专项招聘，面向2026年11月及以后毕业的校优秀技术同学。期待你们在淘天，通过极具挑战的前沿课题与亿级规模的海量数据、应用场景，探索和实践最前沿的Al技术，在有价值的业务场景落地技术成果。\n\n岗位描述：\n如果你，期望在阿里巴巴生态的广阔场景中，面向亿级智能体用户的多模态交互诉求，打造业界领先的下一代多模态传输协议栈，让智能体音视频/文本/感知数据跨越物理网络的边界，实现超低延迟、超高可靠、超强自适应的极致传输体验；\n如果你，期望深度参与 IETF Media over QUIC (MoQ) 国际标准制定，在协议栈基础机制与增强机制设计的最前沿与全球顶级专家同台对话，推动你的技术方案成为影响全球互联网的RFC 标准；\n如果你，期望攻克多模态数据跨层协同与拥塞控制的核心难题，研发面向多模态混合流（语音/视频/文本/动作）的新一代拥塞控制算法，打破传统单流 CC（BBR/CUBIC）的局限，在弱网、高抖动、高丢包等极端场景下依然保持丝滑无卡顿的用户体验；\n如果你，期望突破多路径传输与智能调度的技术深水区，设计面向 MoQ 的 Multipath 传输与调度算法，基于全新的 QoE 感知反馈协同框架，联动调节拥塞控制、视频帧率消费、智能体生成内容生产速率，在端到端链路上实现QoE 最大化；\n如果你，期望探索面向多模态场景的丢包恢复与 FEC 机制，研究自适应前向纠错、智能重传策略、帧级优先级调度等前沿技术，解决智能体实时对话中\"\"掉字、掉帧、画面冻结\"\"等顽疾，让交互如真人般自然流畅；\n如果你，期望深入构建 MoQ 反馈机制与闭环控制算法，攻克发送速率调节、Pacing 机制、自适应码率/采样频率控制等工程难题，打造可在淘宝/千问等 C 端智能体应用中大规模落地的端到端传输解决方案，影响数以亿计的用户；\n加入我们，你的成果将直接应用于阿里巴巴核心业务——淘宝AI导购、千问AI助手、智能体实时语音对话、多模态实时交互等场景，每一行代码、每一次算法优化，都在重新定义下一代人机交互的传输基础设施！",
+    "requirementsText": "1. 计算机/电子/通信/网络/人工智能等相关专业，毕业时间在 2026 年 11 月以后的硕士及以上学历在校生；\n2. 熟悉网络传输协议（TCP/QUIC/RTP/WebRTC 等），深入理解拥塞控制算法（BBR/CUBIC/GCC/Copa等）原理与实现；\n3. 熟悉以下至少2个或以上方向：\n- QUIC 协议栈 / Media over QUIC 标准\n- 实时音视频传输（WebRTC、SRT、RIST 等）\n- 多路径传输（MPTCP、MPQUIC）\n- 拥塞控制 / Pacing / FEC 算法\n- 自适应码率（ABR）算法\n4. 精通 C/C++/Rust/Go 中至少一种系统级编程语言，熟悉网络协议栈开发；\n5. 具备良好的代码习惯，能高效实现前沿论文算法，具备协议仿真（NS-3/Mininet/Mahimahi）或真实网络实验能力；\n6. 具备优秀的问题分析能力、英文阅读/沟通交流能力（流畅阅读 IETF 草案与顶会论文、线下/远程参与国际标准会议）。\n\n【加分项】\n1. 在 SIGCOMM / NSDI / MobiCom 等国际会议发表有影响力的一作 CCF-A类论文；\n2. 作为主要参与者贡献过 IETF/W3C 等国际标准草案，或在 MoQ、QUIC、WebTransport 等工作组有活跃参与记录；\n3. 具备 AI + 网络跨学科背景（例如基于 RL/ML 的拥塞控制、调度算法经验）。",
+    "required": [],
+    "bonus": [],
+    "profile_id": "REGULAR-317",
+    "search_keywords": [],
+    "job_profile": {
+      "profile_id": "REGULAR-317",
       "job_family": "",
       "domain": "",
       "sub_domain": "",
